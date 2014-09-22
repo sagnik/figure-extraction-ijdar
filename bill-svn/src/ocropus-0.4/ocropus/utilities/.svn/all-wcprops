@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/utilities
+END
+run-check
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/utilities/run-check
+END
+check-svn
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/utilities/check-svn
+END
+test-run
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/utilities/test-run
+END
+check-jam
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/utilities/check-jam
+END
+process-volume
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/utilities/process-volume
+END
+check-mccabe
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/utilities/check-mccabe
+END
+run-timing
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/utilities/run-timing
+END
+check-repository
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/utilities/check-repository
+END
+fix-include-dependencies
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/utilities/fix-include-dependencies
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/utilities/README
+END
+check-am.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/utilities/check-am.py
+END
+align-all
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/utilities/align-all
+END
+common.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/utilities/common.sh
+END
+run-profile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/utilities/run-profile
+END
+run-tests
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/utilities/run-tests
+END
+test-compile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/utilities/test-compile
+END
+check-duplicate-sourcenames
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/utilities/check-duplicate-sourcenames
+END
+check-style
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/utilities/check-style
+END
+check-duplicate-symbols
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/utilities/check-duplicate-symbols
+END
+extract-classhierarchy
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/utilities/extract-classhierarchy
+END
+extract-includes
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/utilities/extract-includes
+END

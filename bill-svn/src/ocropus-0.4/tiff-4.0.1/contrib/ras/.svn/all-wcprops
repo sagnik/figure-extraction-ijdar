@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/ras
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/ras/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/ras/Makefile.am
+END
+ras2tif.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/ras/ras2tif.c
+END
+tif2ras.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/ras/tif2ras.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/ras/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/ras/README
+END

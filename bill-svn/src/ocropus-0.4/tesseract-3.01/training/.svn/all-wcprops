@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/training
+END
+mftraining.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/training/mftraining.cpp
+END
+unicharset_extractor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/training/unicharset_extractor.cpp
+END
+tessopt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/training/tessopt.cpp
+END
+mergenf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/training/mergenf.cpp
+END
+combine_tessdata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/training/combine_tessdata.cpp
+END
+commontraining.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/training/commontraining.cpp
+END
+tessopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/training/tessopt.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/training/Makefile.am
+END
+mergenf.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/training/mergenf.h
+END
+commontraining.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/training/commontraining.h
+END
+cntraining.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/training/cntraining.cpp
+END
+wordlist2dawg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/training/wordlist2dawg.cpp
+END

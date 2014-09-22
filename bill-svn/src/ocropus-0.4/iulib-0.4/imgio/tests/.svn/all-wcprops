@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgio/tests
+END
+test-pbmpng.cc.broken
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgio/tests/test-pbmpng.cc.broken
+END
+test-pbmpng.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgio/tests/test-pbmpng.cc
+END
+test-jpgpng.cc.broken
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgio/tests/test-jpgpng.cc.broken
+END
+test-io-jpeg.cc.broken
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgio/tests/test-io-jpeg.cc.broken
+END
+test-read_write_png.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgio/tests/test-read_write_png.cc
+END
+test-io_png.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgio/tests/test-io_png.cc
+END

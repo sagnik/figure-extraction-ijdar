@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/imglib/tests
+END
+test-imgmisc.cc.i
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/imglib/tests/test-imgmisc.cc.i
+END
+test-imgmap.cc.i
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/imglib/tests/test-imgmap.cc.i
+END
+broken-test-imgthin.cc.i
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/imglib/tests/broken-test-imgthin.cc.i
+END
+test-imggauss.cc.i
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/imglib/tests/test-imggauss.cc.i
+END
+test-imglabels.cc.i
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/imglib/tests/test-imglabels.cc.i
+END
+test-imgthin.cc.i
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/imglib/tests/test-imgthin.cc.i
+END
+test-imgedges.cc.i
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/imglib/tests/test-imgedges.cc.i
+END
+bigtest-imgedges.cc.i
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/imglib/tests/bigtest-imgedges.cc.i
+END
+test-imgbrushfire.cc.i
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/imglib/tests/test-imgbrushfire.cc.i
+END

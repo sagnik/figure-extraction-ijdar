@@ -1,0 +1,443 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube
+END
+search_object.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/search_object.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/Makefile.in
+END
+char_samp.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/char_samp.h
+END
+bmp_8.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/bmp_8.cpp
+END
+lang_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/lang_model.h
+END
+cube_tuning_params.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/cube_tuning_params.h
+END
+cached_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/cached_file.h
+END
+word_altlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/word_altlist.h
+END
+char_altlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/char_altlist.h
+END
+cube_line_object.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/cube_line_object.h
+END
+classifier_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/classifier_factory.h
+END
+word_size_model.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/word_size_model.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/Makefile
+END
+char_samp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/char_samp.cpp
+END
+char_set.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/char_set.h
+END
+cube_utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/cube_utils.cpp
+END
+beam_search.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/beam_search.h
+END
+feature_chebyshev.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/feature_chebyshev.h
+END
+feature_hybrid.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/feature_hybrid.h
+END
+tess_lang_mod_edge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/tess_lang_mod_edge.cpp
+END
+cube_object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/cube_object.cpp
+END
+tess_lang_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/tess_lang_model.h
+END
+cube_tuning_params.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/cube_tuning_params.cpp
+END
+word_altlist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/word_altlist.cpp
+END
+char_altlist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/char_altlist.cpp
+END
+cube_line_object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/cube_line_object.cpp
+END
+classifier_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/classifier_factory.cpp
+END
+word_unigrams.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/word_unigrams.cpp
+END
+search_column.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/search_column.cpp
+END
+classifier_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/classifier_base.h
+END
+beam_search.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/beam_search.cpp
+END
+feature_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/feature_base.h
+END
+feature_chebyshev.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/feature_chebyshev.cpp
+END
+feature_bmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/feature_bmp.h
+END
+cube_search_object.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/cube_search_object.h
+END
+cube_line_segmenter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/cube_line_segmenter.cpp
+END
+tess_lang_model.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/tess_lang_model.cpp
+END
+con_comp.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/con_comp.h
+END
+cube_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/cube_utils.h
+END
+hybrid_neural_net_classifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/hybrid_neural_net_classifier.h
+END
+tess_lang_mod_edge.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/tess_lang_mod_edge.h
+END
+char_samp_set.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/char_samp_set.cpp
+END
+cube_object.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/cube_object.h
+END
+search_node.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/search_node.cpp
+END
+altlist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/altlist.cpp
+END
+tuning_params.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/tuning_params.h
+END
+string_32.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/string_32.h
+END
+conv_net_classifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/conv_net_classifier.h
+END
+word_unigrams.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/word_unigrams.h
+END
+char_bigrams.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/char_bigrams.h
+END
+char_samp_enum.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/char_samp_enum.h
+END
+search_column.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/search_column.h
+END
+feature_bmp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/feature_bmp.cpp
+END
+cube_search_object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/cube_search_object.cpp
+END
+word_list_lang_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/word_list_lang_model.h
+END
+con_comp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/con_comp.cpp
+END
+hybrid_neural_net_classifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/hybrid_neural_net_classifier.cpp
+END
+cube_line_segmenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/cube_line_segmenter.h
+END
+cached_file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/cached_file.cpp
+END
+lang_mod_edge.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/lang_mod_edge.h
+END
+bmp_8.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/bmp_8.h
+END
+char_samp_set.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/char_samp_set.h
+END
+conv_net_classifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/conv_net_classifier.cpp
+END
+search_node.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/search_node.h
+END
+char_bigrams.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/char_bigrams.cpp
+END
+altlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/altlist.h
+END
+char_samp_enum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/char_samp_enum.cpp
+END
+word_list_lang_model.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/word_list_lang_model.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/Makefile.am
+END
+char_set.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/char_set.cpp
+END
+cube_const.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/cube_const.h
+END
+word_size_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/word_size_model.h
+END
+feature_hybrid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/cube/feature_hybrid.cpp
+END

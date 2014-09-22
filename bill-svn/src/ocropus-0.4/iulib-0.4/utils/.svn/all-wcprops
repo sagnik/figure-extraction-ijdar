@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/utils
+END
+SDL_lines.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/utils/SDL_lines.cc
+END
+SDL_lines.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/utils/SDL_lines.h
+END
+dgraphics_nosdl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/utils/dgraphics_nosdl.cc
+END
+dgraphics.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/utils/dgraphics.cc
+END
+dgraphics.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/utils/dgraphics.h
+END

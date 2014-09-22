@@ -1,0 +1,57 @@
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="Author" CONTENT="Michael J. Sammon">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.05 [en] (Win95; U) [Netscape]">
+   <TITLE>hough</TITLE>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#0000EE" VLINK="#551A8B" ALINK="#FF0000">
+
+<CENTER><B><FONT SIZE=+3>hough</FONT></B></CENTER>
+
+
+<P><TT>USAGE: hough inimg outimg [-b BORDER] [-d] [-L]</TT>
+
+<P><TT>hough transforms binary image from</TT>
+<BR><TT>spatial domain ((x,y) coordinates) to polar coordinate</TT>
+<BR><TT>domain ((rho, theta) coordinates); peak in the polar</TT>
+<BR><TT>("Hough")domain indicates a dominant line in the spatial domain;</TT>
+<BR><TT>NOTE: origin (0,0) of Hough transform</TT>
+<BR><TT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; image is in top-left corner;</TT>
+<BR><TT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; rho increases along horizontal axis
+to</TT>
+<BR><TT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; maximum rho equal to image diagonal
+length;</TT>
+<BR><TT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; theta increases downward from 0
+radians to PI radians.</TT>
+
+<P><TT>ARGUMENTS:</TT>
+<BR><TT>&nbsp;&nbsp;&nbsp; inimg: input image filename (TIF)</TT>
+<BR><TT>&nbsp;&nbsp; outimg: output image filename (TIF)</TT>
+
+<P><TT>OPTIONS:</TT>
+<BR><TT>&nbsp; -b BORDER: to remove noise at borders of image by omitting</TT>
+<BR><TT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+image for this number of rows/cols [default = 2].</TT>
+<BR><TT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -d: display peak
+in Hough transform space.</TT>
+<BR><TT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -L: print Software
+License for this module</TT>
+<BR>&nbsp;
+<BR>&nbsp;
+
+<P><B><FONT SIZE=+1>Example:</FONT></B>
+
+<P><TT>hough houghIn.tif houghOut.tif -d</TT>
+
+<P><TT>houghIn.tif:</TT>
+
+<P><IMG SRC="houghIn.gif" BORDER=1 HEIGHT=200 WIDTH=200>
+
+<P><TT>houghOut.tif:</TT>
+
+<P><IMG SRC="houghOut.gif" BORDER=1 HEIGHT=200 WIDTH=200>
+
+<P>Copyright (C) 1999 MLMSoftware Group, LLC.
+</BODY>
+</HTML>

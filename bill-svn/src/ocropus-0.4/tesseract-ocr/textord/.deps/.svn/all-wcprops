@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps
+END
+tabvector.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/tabvector.Plo
+END
+bbgrid.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/bbgrid.Plo
+END
+textord.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/textord.Plo
+END
+blkocc.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/blkocc.Plo
+END
+devanagari_processing.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/devanagari_processing.Plo
+END
+ccnontextdetect.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/ccnontextdetect.Plo
+END
+edgblob.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/edgblob.Plo
+END
+tospace.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/tospace.Plo
+END
+scanedg.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/scanedg.Plo
+END
+gap_map.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/gap_map.Plo
+END
+tablerecog.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/tablerecog.Plo
+END
+tabfind.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/tabfind.Plo
+END
+colpartition.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/colpartition.Plo
+END
+pitsync1.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/pitsync1.Plo
+END
+wordseg.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/wordseg.Plo
+END
+drawedg.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/drawedg.Plo
+END
+colfind.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/colfind.Plo
+END
+fpchop.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/fpchop.Plo
+END
+drawtord.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/drawtord.Plo
+END
+tablefind.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/tablefind.Plo
+END
+linefind.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/linefind.Plo
+END
+textlineprojection.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/textlineprojection.Plo
+END
+edgloop.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/edgloop.Plo
+END
+cjkpitch.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/cjkpitch.Plo
+END
+pithsync.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/pithsync.Plo
+END
+alignedblob.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/alignedblob.Plo
+END
+makerow.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/makerow.Plo
+END
+strokewidth.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/strokewidth.Plo
+END
+equationdetectbase.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/equationdetectbase.Plo
+END
+topitch.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/topitch.Plo
+END
+colpartitiongrid.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/colpartitiongrid.Plo
+END
+tordmain.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/tordmain.Plo
+END
+tovars.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/tovars.Plo
+END
+sortflts.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/sortflts.Plo
+END
+underlin.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/underlin.Plo
+END
+imagefind.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/imagefind.Plo
+END
+colpartitionset.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/colpartitionset.Plo
+END
+workingpartset.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/workingpartset.Plo
+END
+blobgrid.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/blobgrid.Plo
+END
+oldbasel.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/.deps/oldbasel.Plo
+END

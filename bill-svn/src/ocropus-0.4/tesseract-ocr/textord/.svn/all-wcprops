@@ -1,0 +1,497 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord
+END
+textord.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/textord.h
+END
+cjkpitch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/cjkpitch.cpp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/Makefile.in
+END
+alignedblob.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/alignedblob.cpp
+END
+devanagari_processing.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/devanagari_processing.h
+END
+makerow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/makerow.cpp
+END
+scanedg.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/scanedg.h
+END
+topitch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/topitch.cpp
+END
+tabfind.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/tabfind.h
+END
+tordmain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/tordmain.cpp
+END
+wordseg.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/wordseg.h
+END
+underlin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/underlin.cpp
+END
+colpartitionset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/colpartitionset.cpp
+END
+workingpartset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/workingpartset.cpp
+END
+fpchop.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/fpchop.h
+END
+blobgrid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/blobgrid.cpp
+END
+oldbasel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/oldbasel.cpp
+END
+textord.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/textord.cpp
+END
+drawtord.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/drawtord.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/Makefile
+END
+linefind.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/linefind.h
+END
+devanagari_processing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/devanagari_processing.cpp
+END
+edgloop.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/edgloop.h
+END
+ccnontextdetect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/ccnontextdetect.cpp
+END
+edgblob.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/edgblob.cpp
+END
+gap_map.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/gap_map.cpp
+END
+pithsync.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/pithsync.h
+END
+tabfind.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/tabfind.cpp
+END
+alignedblob.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/alignedblob.h
+END
+pitsync1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/pitsync1.cpp
+END
+strokewidth.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/strokewidth.h
+END
+equationdetectbase.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/equationdetectbase.h
+END
+colfind.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/colfind.cpp
+END
+fpchop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/fpchop.cpp
+END
+topitch.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/topitch.h
+END
+colpartitiongrid.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/colpartitiongrid.h
+END
+underlin.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/underlin.h
+END
+tablefind.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/tablefind.cpp
+END
+imagefind.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/imagefind.h
+END
+edgloop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/edgloop.cpp
+END
+blobgrid.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/blobgrid.h
+END
+bbgrid.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/bbgrid.h
+END
+tabvector.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/tabvector.h
+END
+pithsync.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/pithsync.cpp
+END
+blkocc.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/blkocc.h
+END
+ccnontextdetect.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/ccnontextdetect.h
+END
+edgblob.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/edgblob.h
+END
+strokewidth.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/strokewidth.cpp
+END
+gap_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/gap_map.h
+END
+equationdetectbase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/equationdetectbase.cpp
+END
+tablerecog.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/tablerecog.h
+END
+colpartition.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/colpartition.h
+END
+colpartitiongrid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/colpartitiongrid.cpp
+END
+tovars.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/tovars.cpp
+END
+pitsync1.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/pitsync1.h
+END
+sortflts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/sortflts.cpp
+END
+drawedg.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/drawedg.h
+END
+imagefind.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/imagefind.cpp
+END
+colfind.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/colfind.h
+END
+bbgrid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/bbgrid.cpp
+END
+tabvector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/tabvector.cpp
+END
+tablefind.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/tablefind.h
+END
+blkocc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/blkocc.cpp
+END
+textlineprojection.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/textlineprojection.h
+END
+tospace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/tospace.cpp
+END
+scanedg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/scanedg.cpp
+END
+cjkpitch.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/cjkpitch.h
+END
+tablerecog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/tablerecog.cpp
+END
+colpartition.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/colpartition.cpp
+END
+makerow.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/makerow.h
+END
+wordseg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/wordseg.cpp
+END
+drawedg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/drawedg.cpp
+END
+tordmain.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/tordmain.h
+END
+tovars.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/tovars.h
+END
+sortflts.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/sortflts.h
+END
+drawtord.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/drawtord.cpp
+END
+linefind.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/linefind.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/Makefile.am
+END
+colpartitionset.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/colpartitionset.h
+END
+workingpartset.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/workingpartset.h
+END
+textlineprojection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/textlineprojection.cpp
+END
+oldbasel.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/textord/oldbasel.h
+END

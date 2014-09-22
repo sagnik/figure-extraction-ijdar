@@ -1,0 +1,515 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/Makefile.in
+END
+flexfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/flexfx.h
+END
+intmatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/intmatcher.h
+END
+mfdefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/mfdefs.cpp
+END
+mfoutline.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/mfoutline.h
+END
+mf.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/mf.h
+END
+extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/extern.h
+END
+extract.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/extract.cpp
+END
+shapeclassifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/shapeclassifier.h
+END
+cutoffs.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/cutoffs.h
+END
+normfeat.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/normfeat.h
+END
+mastertrainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/mastertrainer.cpp
+END
+classify.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/classify.h
+END
+kdtree.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/kdtree.h
+END
+fxdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/fxdefs.h
+END
+protos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/protos.cpp
+END
+xform2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/xform2d.h
+END
+intfeaturespace.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/intfeaturespace.h
+END
+intfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/intfx.cpp
+END
+clusttool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/clusttool.cpp
+END
+tessclassifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/tessclassifier.h
+END
+speckle.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/speckle.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/Makefile
+END
+picofeat.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/picofeat.h
+END
+adaptive.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/adaptive.h
+END
+float2int.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/float2int.cpp
+END
+intfeaturemap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/intfeaturemap.cpp
+END
+mfdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/mfdefs.h
+END
+cutoffs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/cutoffs.cpp
+END
+normfeat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/normfeat.cpp
+END
+classify.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/classify.cpp
+END
+fxdefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/fxdefs.cpp
+END
+extract.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/extract.h
+END
+xform2d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/xform2d.cpp
+END
+tessclassifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/tessclassifier.cpp
+END
+mastertrainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/mastertrainer.h
+END
+featdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/featdefs.h
+END
+baseline.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/baseline.h
+END
+normmatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/normmatch.cpp
+END
+mfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/mfx.cpp
+END
+intfeaturedist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/intfeaturedist.cpp
+END
+protos.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/protos.h
+END
+intfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/intfx.h
+END
+adaptive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/adaptive.cpp
+END
+clusttool.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/clusttool.h
+END
+trainingsampleset.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/trainingsampleset.h
+END
+sampleiterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/sampleiterator.h
+END
+fpoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/fpoint.h
+END
+blobclass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/blobclass.cpp
+END
+adaptmatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/adaptmatch.cpp
+END
+float2int.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/float2int.h
+END
+shapetable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/shapetable.cpp
+END
+intfeaturemap.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/intfeaturemap.h
+END
+outfeat.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/outfeat.h
+END
+intproto.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/intproto.cpp
+END
+featdefs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/featdefs.cpp
+END
+ocrfeatures.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/ocrfeatures.cpp
+END
+trainingsample.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/trainingsample.h
+END
+cluster.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/cluster.h
+END
+chartoname.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/chartoname.h
+END
+trainingsampleset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/trainingsampleset.cpp
+END
+sampleiterator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/sampleiterator.cpp
+END
+flexfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/flexfx.cpp
+END
+normmatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/normmatch.h
+END
+intmatcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/intmatcher.cpp
+END
+errorcounter.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/errorcounter.h
+END
+mfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/mfx.h
+END
+intfeaturedist.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/intfeaturedist.h
+END
+fpoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/fpoint.cpp
+END
+mfoutline.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/mfoutline.cpp
+END
+mf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/mf.cpp
+END
+outfeat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/outfeat.cpp
+END
+blobclass.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/blobclass.h
+END
+shapetable.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/shapetable.h
+END
+trainingsample.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/trainingsample.cpp
+END
+kdtree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/kdtree.cpp
+END
+cluster.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/cluster.cpp
+END
+chartoname.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/chartoname.cpp
+END
+intfeaturespace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/intfeaturespace.cpp
+END
+intproto.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/intproto.h
+END
+speckle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/speckle.cpp
+END
+ocrfeatures.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/ocrfeatures.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/Makefile.am
+END
+errorcounter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/errorcounter.cpp
+END
+picofeat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/classify/picofeat.cpp
+END

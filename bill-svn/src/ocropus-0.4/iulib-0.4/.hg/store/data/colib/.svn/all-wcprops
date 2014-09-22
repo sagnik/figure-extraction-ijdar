@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib
+END
+iustring.h.i
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/iustring.h.i
+END
+strbuf.h.i
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/strbuf.h.i
+END
+objlist.h.i
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/objlist.h.i
+END
+narray-util.h.i
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/narray-util.h.i
+END
+clib.h.i
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/clib.h.i
+END
+nustring.h.i
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/nustring.h.i
+END
+nbest.h.i
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/nbest.h.i
+END
+smartptr.h.i
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/smartptr.h.i
+END
+heap.h.i
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/heap.h.i
+END
+iarith.h.i
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/iarith.h.i
+END
+_jamfile.i
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/_jamfile.i
+END
+_o_w_n_e_r_s.i
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/_o_w_n_e_r_s.i
+END
+hash.h.i
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/hash.h.i
+END
+compat.h.i
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/compat.h.i
+END
+classifier.h.i
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/classifier.h.i
+END
+quicksort.h.i
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/quicksort.h.i
+END
+ocrinterfaces.h.i
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/ocrinterfaces.h.i
+END
+env.h.i
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/env.h.i
+END
+colib.h.i
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/colib.h.i
+END
+coords.h.i
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/coords.h.i
+END
+rowarrays.h.i
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/rowarrays.h.i
+END
+unionfind.h.i
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/unionfind.h.i
+END
+misc.h.i
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/misc.h.i
+END
+narray-ops.h.i
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/narray-ops.h.i
+END
+debugf.h.i
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/debugf.h.i
+END
+narray.h.i
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/narray.h.i
+END
+deprecation.h.i
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/deprecation.h.i
+END
+vec2.h.i
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/vec2.h.i
+END
+checks.h.i
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/checks.h.i
+END
+_r_e_a_d_m_e.i
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/_r_e_a_d_m_e.i
+END

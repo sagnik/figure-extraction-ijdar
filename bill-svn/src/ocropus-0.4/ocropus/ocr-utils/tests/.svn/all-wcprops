@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/tests
+END
+test-narray-io.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/tests/test-narray-io.cc
+END
+test-ocr-utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/tests/test-ocr-utils.cc
+END
+test-seg-list
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/tests/test-seg-list
+END
+test-seg-cuts.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/tests/test-seg-cuts.cc
+END
+test-binarize-sauvola.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/tests/test-binarize-sauvola.cc
+END

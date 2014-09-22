@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/man/man1
+END
+shapeclustering.1
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/man/man1/shapeclustering.1
+END
+unicharset_extractor.1
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/man/man1/unicharset_extractor.1
+END
+combine_tessdata.1
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/man/man1/combine_tessdata.1
+END
+ambiguous_words.1
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/man/man1/ambiguous_words.1
+END
+cntraining.1
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/man/man1/cntraining.1
+END
+dawg2wordlist.1
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/man/man1/dawg2wordlist.1
+END
+wordlist2dawg.1
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/man/man1/wordlist2dawg.1
+END
+tesseract.1
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/man/man1/tesseract.1
+END
+mftraining.1
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/man/man1/mftraining.1
+END

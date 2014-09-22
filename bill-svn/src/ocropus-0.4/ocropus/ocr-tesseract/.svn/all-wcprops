@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-tesseract
+END
+tesseract.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-tesseract/tesseract.cc
+END
+ocr-tesseract.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-tesseract/ocr-tesseract.h
+END

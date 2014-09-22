@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/neural_networks/runtime
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/neural_networks/runtime/Makefile.in
+END
+neural_net.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/neural_networks/runtime/neural_net.h
+END
+sigmoid_table.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/neural_networks/runtime/sigmoid_table.cpp
+END
+neuron.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/neural_networks/runtime/neuron.cpp
+END
+input_file_buffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/neural_networks/runtime/input_file_buffer.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/neural_networks/runtime/Makefile.am
+END
+neuron.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/neural_networks/runtime/neuron.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/neural_networks/runtime/Makefile
+END
+input_file_buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/neural_networks/runtime/input_file_buffer.h
+END
+neural_net.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/neural_networks/runtime/neural_net.cpp
+END

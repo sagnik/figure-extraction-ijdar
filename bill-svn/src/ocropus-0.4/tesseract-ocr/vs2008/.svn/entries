@@ -1,0 +1,175 @@
+10
+
+dir
+1
+https://rcc.its.psu.edu/repos/mxk479-dev/src/ocropus-0.4/tesseract-ocr/vs2008
+https://rcc.its.psu.edu/repos/mxk479-dev
+
+
+
+2012-03-09T16:38:26.792584Z
+1
+wjb19@dce.psu.edu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ab4d9bf-ef38-4c8b-8734-e59501395bb0
+
+include
+dir
+
+port
+dir
+
+libtesseract
+dir
+
+tesseract.sln
+file
+
+
+
+
+2012-03-27T00:04:29.000000Z
+95c1eddfeeeadf7f8fede1d75e4d620d
+2012-03-09T16:38:26.792584Z
+1
+wjb19@dce.psu.edu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9975
+
+dawg2wordlist
+dir
+
+cntraining
+dir
+
+wordlist2dawg
+dir
+
+tesseract
+dir
+
+mftraining
+dir
+
+shapeclustering
+dir
+
+unicharset_extractor
+dir
+
+combine_tessdata
+dir
+
+doc
+dir
+
+tesshelper.py
+file
+
+
+
+
+2012-03-27T00:04:29.000000Z
+c0ba90e2f22236eac6c3520580c0a349
+2012-03-09T16:38:26.792584Z
+1
+wjb19@dce.psu.edu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16654
+
+sphinx
+dir
+
+ambiguous_words
+dir
+
+classifier_tester
+dir
+
+readme.txt
+file
+
+
+
+
+2012-03-27T00:04:29.000000Z
+993eb9f6808e55bdf5ff69098fd7abfc
+2012-03-09T16:38:26.792584Z
+1
+wjb19@dce.psu.edu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20
+

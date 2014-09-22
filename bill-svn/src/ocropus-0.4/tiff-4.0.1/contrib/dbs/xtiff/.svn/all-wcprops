@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/dbs/xtiff
+END
+xtifficon.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/dbs/xtiff/xtifficon.h
+END
+xtiff.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/dbs/xtiff/xtiff.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/dbs/xtiff/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/dbs/xtiff/Makefile.am
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/dbs/xtiff/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/dbs/xtiff/README
+END
+patchlevel.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/dbs/xtiff/patchlevel.h
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits
+END
+hook_exceptions.lua
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/hook_exceptions.lua
+END
+imgbsmp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/imgbsmp.cc
+END
+imgbits.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/imgbits.cc
+END
+imgbits.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/imgbits.h
+END
+imgbthin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/imgbthin.cc
+END
+imgbitptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/imgbitptr.h
+END
+test-simple.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/test-simple.cc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/README
+END
+test-ops.cc.doesntwork
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/test-ops.cc.doesntwork
+END
+imgrle.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/imgrle.cc
+END
+imgrle.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/imgrle.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/Jamfile
+END
+benchmark.lua
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/benchmark.lua
+END
+imgblit.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/imgblit.cc
+END
+imgblit_c.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/imgblit_c.cc
+END
+bithacks.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/bithacks.h
+END

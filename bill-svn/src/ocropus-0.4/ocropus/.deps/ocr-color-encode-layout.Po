@@ -1,0 +1,492 @@
+ocr-color-encode-layout.o: ocr-layout/ocr-color-encode-layout.cc \
+ include/ocropus.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/colib.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/checks.h \
+ /usr/include/stdio.h \
+ /gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include-fixed/features.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
+ /gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include/stddef.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/libio.h /usr/include/_G_config.h \
+ /gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include-fixed/wchar.h \
+ /usr/include/bits/wchar.h /usr/include/gconv.h \
+ /gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/bits/stdio.h /usr/include/stdlib.h \
+ /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
+ /usr/include/endian.h /usr/include/bits/endian.h /usr/include/xlocale.h \
+ /usr/include/sys/types.h /usr/include/time.h /usr/include/sys/select.h \
+ /usr/include/bits/select.h /usr/include/bits/sigset.h \
+ /usr/include/bits/time.h \
+ /gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include-fixed/sys/sysmacros.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/alloca.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/classifier.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/narray.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/narray-util.h \
+ /usr/include/math.h /usr/include/bits/huge_val.h \
+ /usr/include/bits/huge_valf.h /usr/include/bits/huge_vall.h \
+ /usr/include/bits/inf.h /usr/include/bits/nan.h \
+ /usr/include/bits/mathdef.h /usr/include/bits/mathcalls.h \
+ /usr/include/bits/mathinline.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/misc.h \
+ /usr/include/string.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/rowarrays.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/smartptr.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/coords.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/env.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/hash.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/heap.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/narray-ops.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/nbest.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/nustring.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/objlist.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/quicksort.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/rowarrays.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/strbuf.h \
+ /gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/../../../../include/c++/4.5.1/cstdio \
+ /gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/../../../../include/c++/4.5.1/x86_64-unknown-linux-gnu/bits/c++config.h \
+ /gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/../../../../include/c++/4.5.1/x86_64-unknown-linux-gnu/bits/os_defines.h \
+ /gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/../../../../include/c++/4.5.1/x86_64-unknown-linux-gnu/bits/cpu_defines.h \
+ /gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/../../../../include/c++/4.5.1/cstddef \
+ /gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/../../../../include/c++/4.5.1/cstdarg \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/iustring.h \
+ /gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include-fixed/limits.h \
+ /gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include-fixed/syslimits.h \
+ /usr/include/limits.h /usr/include/bits/posix1_lim.h \
+ /usr/include/bits/local_lim.h /usr/include/linux/limits.h \
+ /usr/include/bits/posix2_lim.h /usr/include/bits/xopen_lim.h \
+ /usr/include/regex.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/narray.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/vec2.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/deprecation.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/debugf.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/iulib.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/bithacks.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imgbitptr.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imgbits.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imgrle.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/autoinvert.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imgio.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/io_png.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/io_pbm.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/io_jpeg.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/io_tiff.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/iulib.h \
+ /usr/include/tiff.h /usr/include/tiffconf.h /usr/include/tiffconf-64.h \
+ /usr/include/tiffio.h /usr/include/tiff.h /usr/include/tiffvers.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imgbrushfire.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imgedges.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imgfilters.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imggauss.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imggraymorph.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imglabels.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imglib.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imgops.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imgthin.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imgtrace.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imgmap.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imgmorph.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imgmisc.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imgrescale.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/dgraphics.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/vidio.h \
+ ocr-utils/components.h \
+ /gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/../../../../include/c++/4.5.1/typeinfo \
+ /gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/../../../../include/c++/4.5.1/exception \
+ /gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include/omp.h \
+ ocr-utils/ocrinterfaces.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/smartptr.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/misc.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/coords.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/nustring.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/iustring.h \
+ ocr-utils/components.h include/ocr-layout.h include/line-info.h \
+ include/ocropus.h include/ocr-pfst.h ocr-utils/didegrade.h \
+ ocr-utils/editdist.h ocr-utils/enumerator.h /usr/include/memory.h \
+ ocr-utils/grid.h include/grouper.h ocr-utils/logger.h \
+ ocr-utils/narray-io.h ocr-utils/segmentation.h ocr-utils/docproc.h \
+ ocr-utils/stringutil.h ocr-utils/arraypaint.h ocr-utils/pages.h \
+ ocr-utils/queue.h ocr-utils/pagesegs.h ocr-utils/linesegs.h \
+ ocr-utils/resource-path.h ocr-utils/sysutil.h ocr-utils/xml-entities.h \
+ ocr-utils/init-ocropus.h ocr-layout/ocr-layout-internal.h \
+ ocr-layout/ocr-layout-structs.h ocr-layout/ocr-char-stats.h \
+ include/ocr-layout.h ocr-layout/ocr-whitespace-cover.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/iarith.h \
+ /gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include/float.h \
+ ocr-layout/ocr-extract-gutters.h ocr-layout/ocr-extract-rulings.h \
+ ocr-layout/ocr-ctextline-rast-extended.h ocr-layout/ocr-ctextline-rast.h \
+ ocr-layout/ocr-color-encode-layout.h ocr-layout/ocr-detect-columns.h \
+ ocr-layout/ocr-detect-paragraphs.h ocr-layout/ocr-reading-order.h \
+ ocr-layout/ocr-visualize-layout-rast.h ocr-layout/ocr-layout-rast.h \
+ include/line-info.h ocr-layout/ocr-deskew-rast.h \
+ ocr-layout/ocr-noisefilter.h ocr-layout/ocr-doc-clean.h \
+ ocr-layout/ocr-doc-clean-concomp.h ocr-layout/ocr-pageframe-rast.h \
+ ocr-layout/ocr-pageseg-wcuts.h ocr-layout/ocr-pageseg-xycut.h \
+ ocr-layout/ocr-word-segmentation.h ocr-layout/ocr-segmentations.h \
+ ocr-layout/log-reg-data.h ocr-layout/ocr-classify-zones.h \
+ ocr-layout/ocr-text-image-seg.h
+
+include/ocropus.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/colib.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/checks.h:
+
+/usr/include/stdio.h:
+
+/gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include-fixed/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include/stddef.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include-fixed/wchar.h:
+
+/usr/include/bits/wchar.h:
+
+/usr/include/gconv.h:
+
+/gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include/stdarg.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/bits/sys_errlist.h:
+
+/usr/include/bits/stdio.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/bits/waitflags.h:
+
+/usr/include/bits/waitstatus.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/time.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/bits/select.h:
+
+/usr/include/bits/sigset.h:
+
+/usr/include/bits/time.h:
+
+/gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include-fixed/sys/sysmacros.h:
+
+/usr/include/bits/pthreadtypes.h:
+
+/usr/include/alloca.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/classifier.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/narray.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/narray-util.h:
+
+/usr/include/math.h:
+
+/usr/include/bits/huge_val.h:
+
+/usr/include/bits/huge_valf.h:
+
+/usr/include/bits/huge_vall.h:
+
+/usr/include/bits/inf.h:
+
+/usr/include/bits/nan.h:
+
+/usr/include/bits/mathdef.h:
+
+/usr/include/bits/mathcalls.h:
+
+/usr/include/bits/mathinline.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/misc.h:
+
+/usr/include/string.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/rowarrays.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/smartptr.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/coords.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/env.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/hash.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/heap.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/narray-ops.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/nbest.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/nustring.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/objlist.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/quicksort.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/rowarrays.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/strbuf.h:
+
+/gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/../../../../include/c++/4.5.1/cstdio:
+
+/gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/../../../../include/c++/4.5.1/x86_64-unknown-linux-gnu/bits/c++config.h:
+
+/gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/../../../../include/c++/4.5.1/x86_64-unknown-linux-gnu/bits/os_defines.h:
+
+/gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/../../../../include/c++/4.5.1/x86_64-unknown-linux-gnu/bits/cpu_defines.h:
+
+/gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/../../../../include/c++/4.5.1/cstddef:
+
+/gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/../../../../include/c++/4.5.1/cstdarg:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/iustring.h:
+
+/gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include-fixed/limits.h:
+
+/gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include-fixed/syslimits.h:
+
+/usr/include/limits.h:
+
+/usr/include/bits/posix1_lim.h:
+
+/usr/include/bits/local_lim.h:
+
+/usr/include/linux/limits.h:
+
+/usr/include/bits/posix2_lim.h:
+
+/usr/include/bits/xopen_lim.h:
+
+/usr/include/regex.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/narray.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/vec2.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/deprecation.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/debugf.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/iulib.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/bithacks.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imgbitptr.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imgbits.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imgrle.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/autoinvert.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imgio.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/io_png.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/io_pbm.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/io_jpeg.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/io_tiff.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/iulib.h:
+
+/usr/include/tiff.h:
+
+/usr/include/tiffconf.h:
+
+/usr/include/tiffconf-64.h:
+
+/usr/include/tiffio.h:
+
+/usr/include/tiff.h:
+
+/usr/include/tiffvers.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imgbrushfire.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imgedges.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imgfilters.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imggauss.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imggraymorph.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imglabels.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imglib.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imgops.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imgthin.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imgtrace.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imgmap.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imgmorph.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imgmisc.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/imgrescale.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/dgraphics.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/iulib/vidio.h:
+
+ocr-utils/components.h:
+
+/gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/../../../../include/c++/4.5.1/typeinfo:
+
+/gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/../../../../include/c++/4.5.1/exception:
+
+/gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include/omp.h:
+
+ocr-utils/ocrinterfaces.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/smartptr.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/misc.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/coords.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/nustring.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/iustring.h:
+
+ocr-utils/components.h:
+
+include/ocr-layout.h:
+
+include/line-info.h:
+
+include/ocropus.h:
+
+include/ocr-pfst.h:
+
+ocr-utils/didegrade.h:
+
+ocr-utils/editdist.h:
+
+ocr-utils/enumerator.h:
+
+/usr/include/memory.h:
+
+ocr-utils/grid.h:
+
+include/grouper.h:
+
+ocr-utils/logger.h:
+
+ocr-utils/narray-io.h:
+
+ocr-utils/segmentation.h:
+
+ocr-utils/docproc.h:
+
+ocr-utils/stringutil.h:
+
+ocr-utils/arraypaint.h:
+
+ocr-utils/pages.h:
+
+ocr-utils/queue.h:
+
+ocr-utils/pagesegs.h:
+
+ocr-utils/linesegs.h:
+
+ocr-utils/resource-path.h:
+
+ocr-utils/sysutil.h:
+
+ocr-utils/xml-entities.h:
+
+ocr-utils/init-ocropus.h:
+
+ocr-layout/ocr-layout-internal.h:
+
+ocr-layout/ocr-layout-structs.h:
+
+ocr-layout/ocr-char-stats.h:
+
+include/ocr-layout.h:
+
+ocr-layout/ocr-whitespace-cover.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/iulib-0.4/include/colib/iarith.h:
+
+/gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include/float.h:
+
+ocr-layout/ocr-extract-gutters.h:
+
+ocr-layout/ocr-extract-rulings.h:
+
+ocr-layout/ocr-ctextline-rast-extended.h:
+
+ocr-layout/ocr-ctextline-rast.h:
+
+ocr-layout/ocr-color-encode-layout.h:
+
+ocr-layout/ocr-detect-columns.h:
+
+ocr-layout/ocr-detect-paragraphs.h:
+
+ocr-layout/ocr-reading-order.h:
+
+ocr-layout/ocr-visualize-layout-rast.h:
+
+ocr-layout/ocr-layout-rast.h:
+
+include/line-info.h:
+
+ocr-layout/ocr-deskew-rast.h:
+
+ocr-layout/ocr-noisefilter.h:
+
+ocr-layout/ocr-doc-clean.h:
+
+ocr-layout/ocr-doc-clean-concomp.h:
+
+ocr-layout/ocr-pageframe-rast.h:
+
+ocr-layout/ocr-pageseg-wcuts.h:
+
+ocr-layout/ocr-pageseg-xycut.h:
+
+ocr-layout/ocr-word-segmentation.h:
+
+ocr-layout/ocr-segmentations.h:
+
+ocr-layout/log-reg-data.h:
+
+ocr-layout/ocr-classify-zones.h:
+
+ocr-layout/ocr-text-image-seg.h:

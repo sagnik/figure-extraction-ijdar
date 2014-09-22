@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain
+END
+applybox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/applybox.cpp
+END
+werdit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/werdit.cpp
+END
+cube_reco_context.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/cube_reco_context.h
+END
+output.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/output.h
+END
+fixspace.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/fixspace.h
+END
+tfacep.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/tfacep.h
+END
+fixxht.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/fixxht.cpp
+END
+osdetect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/osdetect.cpp
+END
+tessvars.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/tessvars.cpp
+END
+reject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/reject.cpp
+END
+tesseract_cube_combiner.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/tesseract_cube_combiner.h
+END
+pagesegmain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/pagesegmain.cpp
+END
+pgedit.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/pgedit.h
+END
+adaptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/adaptions.cpp
+END
+tesseractclass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/tesseractclass.cpp
+END
+thresholder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/thresholder.cpp
+END
+imgscale.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/imgscale.cpp
+END
+control.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/control.h
+END
+tessbox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/tessbox.cpp
+END
+tfacepp.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/tfacepp.h
+END
+scaleimg.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/scaleimg.h
+END
+tessedit.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/tessedit.h
+END
+cube_reco_context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/cube_reco_context.cpp
+END
+paramsd.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/paramsd.h
+END
+docqual.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/docqual.h
+END
+output.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/output.cpp
+END
+fixspace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/fixspace.cpp
+END
+werdit.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/werdit.h
+END
+tesseract_cube_combiner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/tesseract_cube_combiner.cpp
+END
+pgedit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/pgedit.cpp
+END
+cube_control.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/cube_control.cpp
+END
+osdetect.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/osdetect.h
+END
+tessvars.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/tessvars.h
+END
+control.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/control.cpp
+END
+reject.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/reject.h
+END
+tfacepp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/tfacepp.cpp
+END
+scaleimg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/scaleimg.cpp
+END
+tessedit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/tessedit.cpp
+END
+paramsd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/paramsd.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/Makefile.am
+END
+docqual.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/docqual.cpp
+END
+tesseractclass.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/tesseractclass.h
+END
+thresholder.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/thresholder.h
+END
+imgscale.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/imgscale.h
+END
+recogtraining.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/recogtraining.cpp
+END
+pagewalk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/pagewalk.cpp
+END
+tessbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/ccmain/tessbox.h
+END

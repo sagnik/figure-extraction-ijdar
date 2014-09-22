@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-line
+END
+glcuts.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-line/glcuts.cc
+END
+linerec.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-line/linerec.cc
+END
+glutils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-line/glutils.cc
+END
+glclass.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-line/glclass.cc
+END
+glfmaps.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-line/glfmaps.cc
+END

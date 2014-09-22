@@ -1,0 +1,11 @@
+#!/bin/bash
+
+profile sample1.pgm
+medfltr sample1_Curve.pgm sample1_Curve.pgm
+extractlegend sample1_Curve.pgm sample1_Curve_legend.pgm
+imgbool sample1_Curve.pgm sample1_Curve_legend.pgm sample1_Curve.pgm -o X
+extractdata sample1_Curve.pgm sample1_Curve.pgm
+vertlinefltr sample1_Curve.pgm sample1_Curve.pgm -s 11
+horzlinefltr sample1_Curve.pgm sample1_Curve.pgm -s 11
+#extractdata sample1_Curve.pgm sample1_Curve.pgm
+

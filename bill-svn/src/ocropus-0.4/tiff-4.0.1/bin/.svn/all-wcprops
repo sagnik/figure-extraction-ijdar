@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/bin
+END
+rgb2ycbcr
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/bin/rgb2ycbcr
+END
+ras2tiff
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/bin/ras2tiff
+END
+thumbnail
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/bin/thumbnail
+END
+raw2tiff
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/bin/raw2tiff
+END
+ppm2tiff
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/bin/ppm2tiff
+END
+tiffcmp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/bin/tiffcmp
+END
+tiffdither
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/bin/tiffdither
+END
+pal2rgb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/bin/pal2rgb
+END
+gif2tiff
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/bin/gif2tiff
+END
+tiff2bw
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/bin/tiff2bw
+END
+fax2ps
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/bin/fax2ps
+END
+tiff2pdf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/bin/tiff2pdf
+END
+tiffinfo
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/bin/tiffinfo
+END
+tiffset
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/bin/tiffset
+END
+tiffsplit
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/bin/tiffsplit
+END
+tiff2rgba
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/bin/tiff2rgba
+END
+tiffmedian
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/bin/tiffmedian
+END
+fax2tiff
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/bin/fax2tiff
+END
+bmp2tiff
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/bin/bmp2tiff
+END
+tiffcp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/bin/tiffcp
+END
+tiffcrop
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/bin/tiffcrop
+END
+tiff2ps
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/bin/tiff2ps
+END
+tiffdump
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/bin/tiffdump
+END

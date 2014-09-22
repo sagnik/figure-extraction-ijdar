@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/tests
+END
+test-coords.cc.i
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/tests/test-coords.cc.i
+END
+test-rowarrays.cc.i
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/tests/test-rowarrays.cc.i
+END
+test-misc.cc.i
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/tests/test-misc.cc.i
+END
+test-nbest.cc.i
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/tests/test-nbest.cc.i
+END
+test-narray.cc.i
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/tests/test-narray.cc.i
+END
+test-smartptr.cc.i
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/tests/test-smartptr.cc.i
+END
+test-heap.cc.i
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/tests/test-heap.cc.i
+END
+test-hash.cc.i
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/tests/test-hash.cc.i
+END
+test-iustring.cc.i
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/tests/test-iustring.cc.i
+END
+test-quicksort.cc.i
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/tests/test-quicksort.cc.i
+END
+test-strbuf.cc.i
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/.hg/store/data/colib/tests/test-strbuf.cc.i
+END

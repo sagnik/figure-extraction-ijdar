@@ -1,0 +1,284 @@
+\documentclass[12pt]{article}
+\usepackage{geometry}
+\usepackage{hyperref,color,amsmath,fullpage}
+\usepackage{clrscode}
+\usepackage{vmargin}
+\usepackage[xdvi]{graphics}
+
+\newcommand{\beq}{\begin{equation}}
+\newcommand{\eeq}{\end{equation}}
+\newcommand{\bra}[1]{\langle #1|}
+\newcommand{\ket}[1]{|#1 \rangle}
+\newcommand{\braket}[2]{\langle #1|#2\rangle}
+\newcommand{\expect}[1]{\langle #1\rangle}
+
+\begin{document}
+\title{Data Extraction from 2D Line Plots}
+\abstract{Significant amounts data useful to the scientific community resides within images, a large portion of which are 2d line plots of data series. While journal articles often have accompanying tables of data, the wealth of information contained within a plot, often including an author’s proposed model makes the extraction of numerical data a worthwhile exercise. A means for extracting numerical and string data from 2d line plot images is presented here, based around existing techniques and novel algorithms.}
+\section{Introduction}
+ The task of converting images of plotted data lies at the cross section of  the fields of  image processing and machine learning (ML). Traditional image processing  includes tasks and algorithms such as Connected Components Labelling [Need Ref], the Hoff transform [Need Ref], edge detection [Need Ref] to name a few. After pixel data has been postured appropriately, unsupervised ML techniques are often applied including clustering [Need Ref]. The task of data extraction from 2d line plots introduces some  challenges to ML, including the quite common overlap of data series, in conjunction with error bars, different line styles, data point varieties etc. These factors invite the use of heuristics whereby one may overcome computational overhead arising from the use of traditional techniques.
+
+
+ The ultimate aim of the method outlined here is to create XML from images suitable for inclusion in a cyberinfrastructure database. The project also implies the ability to eventually provide means for search and retrieval of information from 2d line plots.
+
+\section{Method}
+
+Here, binarization and noise removal should be mentioned. 
+
+\subsection{Axis/Region Detection}
+
+--$ Definition of axis (or region) should go here.$ 
+
+A 2-D plot is usually characterized by a horizontal and verticle axis which clearly seperates the data region and axis metric region.
+Provided this, the orientation of the axis may differ from case to case e.g. the horizontal axis may be drawn at the top of the figure
+or the the axis may not be perfectly perpendicular to each other or the image boundaries. However, the techniques mentioned in this paper
+are general enough to consider such cases. The above mentioned discernible pattern can be captured by determinng the image projection profiles
+that can clearly indicate the co-ordinates of the interested region in the image. (what is a profile???) For example, fig.1 shows a simple 2-d plot
+and the its horizontal and verticle profiles. The peaks in the profiles belongs to the two axis in the plot.
+
+\begin{codebox}
+\zi \textbf{Region Segmentation Algorithm}
+\zi \textbf{Input:} Binarized image matrix $A$ with dimensions $(h*w)$
+\zi \Comment h= height; w= width 
+\zi \textbf{Output:} Segmented Region Boundaries
+\zi \textbf{Begin:} \Indentmore
+\zi $profileX[1 \twodots w]$ = Sum(A,w)\>\>\>\>\>\>\>\>\>\Comment Calculate horizontal profile
+\zi $profileY[1 \twodots h]$ = Sum(A,h)\>\>\>\>\>\>\>\>\>\Comment Calculate verticle profile
+\zi coX = $\proc{GetCordinate}(profileX)$
+\zi coY = $\proc{GetCordinate}(profileY)$
+\zi Return(coX, coY) \End
+\zi \textbf{End}
+\end{codebox}
+\begin{codebox}
+\Procname{$\proc{GetCordinate}(profile)$}
+ \zi \Comment Compute the co-ordinate of the axis given the corrosponding projection profile 
+\zi \textbf{Begin:} \Indentmore
+\zi $length$ \gets $Length of the profile$
+\zi \For $i \gets 1$ \To $length$
+\zi 	\Do profile[i] \gets $profile[i+1] - profile[i]$
+	\End
+\zi Cordinate \gets $index of Max(profile[i])$
+\zi Return Cordinate \End
+\zi \textbf{End}
+
+
+\end{codebox}
+
+\subsection{Axis Tic Frequency Calculation}
+
+\Subsection{Text Detection}
+
+\begin{codebox}
+\zi \textbf{Algo for Text Segmentation in a particular region} \Indentmore
+\zi cc-set $\gets$ Connected Component Labelling on the region.
+\zi \Comment connected component set.
+\zi cc-set $\gets$ Connected Component having area less than a threshhold
+\zi rule out all the curve part if any
+\zi n $\gets$ number of elements in cc-set.
+\zi \For $i \gets 1$ \To $n$
+\zi 	\For $j \gets i+1$ \To $n$
+\zi		\if $i$ and $j$ are not already processed \Indentmore
+\zi		&& |minY(i) - minY(j)| < $\delta_1$
+\zi		&& |height(i) - height(j)| < $\delta_2$ \End
+\zi		aligned_cluster $\gets$ aligned_cluster $\bigcup$ (i,j)
+		\End
+		\End
+\zi	aligned_clusters $\gets$ aligned_clusters $\bigcup$ aligned_cluster
+	\End
+\zi \While there is no connected component left unprocessed
+\zi 	\do
+\zi 	\For any two connected components 
+\zi	if there minimum Y cordinates are within a fixed threshhold distance or 
+	their center of masses are within a fixed threshhold distance   
+\zi	mark them horizontally aligned
+	\End
+
+\zi \For every cluster marked as horizontally aligned
+\zi	Calculate the projection of the cluster on the horizontal axis
+\zi		Cluster-Set = K-Median-Update(projection)
+\zi 		Strings-set = String-Set \bigcup Cluster-Set
+	\End
+\zi Return String-set
+
+
+
+
+\end{codebox}
+
+
+
+
+
+
+ \begin{figure}
+ \begin{center}
+\scalebox{0.4}{\rotatebox{0}{\includegraphics{profile.eps}}} 
+\caption{A Sample 2d plot displaying regions of interest including x and y labels, ticks and labels, data and legend regions along with the projection profiles}
+\end{center}
+\end{figure} 
+
+
+
+Experiments on 2d line plots were conducted in Octave, by converting images after thresholding to a binary data matrix.
+ Each pixel coordinate thus corresponds  to the row and column index of a data matrix. 2D line plots in general have several important data regions, including:
+\begin{enumerate}
+
+\item Axes line data, including tick delineation for scaling
+\item Axes labels, including tick labels and units
+\item Data points, with or without error bars
+\item Data models or line data
+\end{enumerate}
+
+
+
+\begin{figure}
+ \begin{center}
+\scalebox{0.6}{\rotatebox{0}{\includegraphics{flown.eps}}}
+\caption{Pattern Recognition on 2d line plot with data points}
+\end{center}
+\end{figure}
+
+Methods were devised for determining features 1-3 while data models/line data were at this stage simply filtered from the plot region, figure 1. The coordinates of the axes  may be derived from the matrix projections of the two dimensional image figure 2, which are analogous to marginal probability distributions. Since the axes of any given line plot are horizontal or vertical, their projection corresponds to the peak maxima in the two projections, figure 3. In a similar manner, the legend region if bounded may be identified and removed.
+ 
+
+ \begin{figure}
+
+ \begin{center}
+
+\scalebox{0.5}{\rotatebox{0}{\includegraphics{test3.eps}}} 
+
+\caption{Sample 2d plot displaying regions of interest including x and y labels, ticks and labels, data and legend regions}
+\end{center}
+\end{figure} 
+
+
+
+\begin{figure}
+
+\begin{center}
+
+\scalebox{0.8}{\rotatebox{0}{\includegraphics{proj.eps}}} 
+\caption{Marginal probability distributions of column (top) and row (bottom) data for binarized image}
+\end{center}
+\end{figure}
+
+
+Once axes have been identified and thus the coordinate origin, by considering the Fourier transform of the pixel data projections in the regions immediately surrounding, the tick frequency may be determined. The regions of text data including tick and axes labels may be recognized by marginal probability distribution maxima and processed using readily available OCR software. However the results are uneven, and special cases and smaller fonts prove difficult to recognize. One could argue that image processing methods maybe used to ameliorate the problem. However given the added computational overhead, a more robust algorithm is desired. 
+
+As before one begins by considering the binarized pixels as matrix data $A$. The operation $A^TA$ corresponds to a square matrix (the Hessian) whose eigenvalues may be used for measures in training a supervised network. The spectrum may be further expanded by using the QR decomposition $B$ of the data matrix $A$. Further, the trace of the Hessian provides normalization and finally the metrics used in OCR corresponded to the six largest (sorted) values from the set $S$:
+\beq \{S\}=\frac{\mbox{eig}(B^TB)}{\mbox{tr}(B^TB)} \eeq
+
+The normalized metrics derived in this manner are sufficient to create fairly well resolved decision regions, figure 8. Included with the figure is a comparison between two fonts showing the similarities of of the training metrics.
+  \begin{figure}
+
+  \begin{center}
+\scalebox{0.5}{\rotatebox{0}{\includegraphics{evalues.eps}}}
+\caption{(Top) Six metrics for OCR displayed for Arial capital letters and various font sizes with the regions for A-D marked. (Bottom) A comparison of the metrics for characters A-D between two fonts.}
+\end{center}
+\end{figure}
+
+ The metrics  are also independent of the absolute position of the intelligence in the data window being examined. In addition, orthogonal text (eg., $x$ and $y$ labels) may be treated identically without further processing since for any matrix $A$:
+
+\beq  (A^TA)^T  =  AA^T = A^TA. \eeq
+
+  Finally, eigenvalues are fairly robust measures under distortions such as rotations.(cf Parantonis et al) Training sets composed of various characters were used to train a back propagation neural net, implemented in the C FANN library. The net consisted of 3 hidden layers and 170 nodes each, with the six inputs as specified. Outputs corresponded to the binary representation of ASCII where applicable.The error after 150k training epochs was 1\% and after 500k epochs 0.6\%. Figure 9 represets a gaussian distorted set of data and the corresponding recognized ASCII characters, demonstrating the robustness of this approach.
+
+Once axes coordinates, ticks, axes labels and units have been generated from the pixel data, the plotting region may be examined and coordinates for data series extracted by both supervised and unsupervised means. Preprocessing steps including CCL to remove pixel dust and noise greatly improves the accuracy of this process. After preprocessing, one  attempts to extract models (curves) and data series separately, which may be accomplished by classifying models as lines of characteristic width $l$ and data series as points of width greater than the factor $l$.  This factor varies between plots however a good measure is often given by the axes width. An algorithm is presented in figure 10 which is sufficient for removal of line data, where pixel clusters of diameter $l$ or less which have white space at two points along any diameter at positions  $>l$  are removed. In general, lines overlap and the value of  $l$ becomes somewhat fuzzy; a more robust method to distinguish between lines and points is desirous (Lu et al?)
+
+In any case, when points and lines maybe considered independently, identifying the data points is a logical precursor to identifying individual curves. Overlap, convexity and other features makes the latter task (without further information) extremely difficult; identified data series can guide the process.
+
+Using the method presented, a neural network is trained to recognize common shapes for data points. Once isolated data points are identified, the coordinates in terms of the matrix indices maybe determined from the pixel’s center of mass, figure 12. Scale and tick information determined earlier is used to provide absolute measurements from the relative coordinates.
+ 
+In general data points overlap and the process of extracting  coordinates becomes an optimization task, where one  seeks individual identity, position and frequency of data points within a pixel region. Simulated anneal is a suitable method for large optimization tasks, particularly where a problem may be posed in terms of combinatorics, eg., the traveling salesman problem. The method is analogous to the process in nature whereby a system on cooling ‘anneals’ or reaches the minimum structural configuration by occasionally (as it cools) taking configurations which have higher energy than the previous step. Figure 13 is an plot of a typical convergence when used in this application. Figure 14-16 contains pseudo code detailing the significant steps, including:
+\begin{enumerate}
+\item Image generation, composed of total number $p=M+N+...$ of sub images, which is larger than anticipated. The identity of the image to be optimized is represented as:
+\beq A=\sum^M a^m_{ij}+\sum^N b^n_{ij} + ... \eeq
+where $a^m_ij$ etc represents both the sub image identity and offset $i,j$ within the total image.
+\item Indices $i,j$ etc are randomly stepped and the cost $E_f$ evaluated.
+\item Moves in configuration space are accepted or rejected in the tradional simulated anneal scheme, using the probabilistic factor:
+\beq e^{-(E_f-E_i)/t} \eeq
+\item An annealing schedule is followed, such that when the temperature has reached a predetermined level, $M$ and $N$ etc are also varied, to determine the actual number of sub images within the total
+\item Sub image numbers  are pruned on the basis of Euclidean distance; where two or more images of the same type almost overlap, one is succesively removed, until such time as convergence is reached
+\end{enumerate}   
+
+\begin{figure}
+{\tt
+
+\%determine image size
+
+[k l]=size(input\_image);
+
+\%determine configuration space size m,n\\
+
+ [m n]=(size(input\_image) - max(size(sub\_images); \\
+
+ 
+\%initial parameters/indicies for sub images \\
+\%within total image; start with number p, more\\
+\%than required, prune later\\
+\\
+w0=[round(rand(1,p)*(m-1)+1); round(rand(1,p)*(n-1)+1)]';\\
+
+\%intial cost/temperature\\
+
+for row=1:p/2 \\
+	for col=1:p/2 \\
+
+temp(row,col)=temp(row,col)|sub\_image1; \\
+temp(row,col)=temp(row,col)|sub\_image2; \\
+\vdots
+
+end \\
+end \\
+}
+\caption{Pseudo code for cost generation in image optimization}
+\end{figure}
+
+
+
+
+
+
+The cost function is a standard least squares sum, consisting of the difference between an image generated from identified, isolated points and the pixel region of overlapping points. For a $100\times 100$ pixel region which contains 5 (partially) overlapping points of approximate size $30\times 30$, there are approximately $2^{51}$ possible configurations, assuming a translation of 2 pixels between individual elements for adequate resolution. Despite the magnitude of configuration space,this is within the capabilities of simulated anneal, regularly applied to problems such as VLSI. Figure 14 gives an example of a pixel regions containing overlapping data points, with between 5 and 10\% noise ,and the corresponding machine learnt versions. 
+
+  \begin{figure}
+\begin{center}
+\begin{math}
+\begin{array}{cc}
+
+\scalebox{1}{\rotatebox{90}{\includegraphics{out2.eps}}} & \scalebox{1}{\rotatebox{90}{\includegraphics{out1.eps}}} \\
+\scalebox{0.8}{\rotatebox{90}{\includegraphics{out4.eps}}} & \scalebox{0.8}{\rotatebox{90}{\includegraphics{out3.eps}}} \\
+\scalebox{1}{\rotatebox{90}{\includegraphics{out6.eps}}} & \scalebox{1}{\rotatebox{90}{\includegraphics{out5.eps}}} \\
+\scalebox{0.8}{\rotatebox{90}{\includegraphics{out7.eps}}} & 
+\scalebox{0.8}{\rotatebox{90}{\includegraphics{out8.eps}}} \\
+\end{array}
+\end{math}
+\caption{Examples of overlapping data points with 5-10\% noise (left) and machine learnt versions (right)}
+\end{center}
+
+\end{figure}
+
+\section{Discussion}
+
+\section{Conclusions}
+
+
+
+
+
+ %% \begin{figure}
+
+ %% \begin{center}
+%%\scalebox{1}{\rotatebox{90}{\includegraphics{sin.eps}}}
+%%\caption{Amplitude as a function of time $t$ divided by period $T$}
+%%\end{center}
+%%\end{figure}
+
+
+
+
+
+
+
+
+\end{document}

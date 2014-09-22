@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout
+END
+ocr-whitespace-cover.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-whitespace-cover.h
+END
+ocr-char-stats.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-char-stats.h
+END
+ocr-segmentations.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-segmentations.cc
+END
+ocr-doc-clean-concomp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-doc-clean-concomp.cc
+END
+log-reg-data.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/log-reg-data.cc
+END
+ocr-reading-order.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-reading-order.cc
+END
+ocr-segmentations.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-segmentations.h
+END
+log-reg-data.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/log-reg-data.h
+END
+ocr-layout-structs.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-layout-structs.h
+END
+ocr-reading-order.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-reading-order.h
+END
+ocr-noisefilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-noisefilter.h
+END
+ocr-detect-columns.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-detect-columns.cc
+END
+ocr-doc-clean.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-doc-clean.h
+END
+ocr-pageseg-xycut.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-pageseg-xycut.h
+END
+ocr-detect-columns.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-detect-columns.h
+END
+ocr-deskew-rast.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-deskew-rast.cc
+END
+ocr-extract-rulings.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-extract-rulings.h
+END
+ocr-detect-paragraphs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-detect-paragraphs.cc
+END
+line-info.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/line-info.cc
+END
+ocr-visualize-layout-rast.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-visualize-layout-rast.h
+END
+ocr-detect-paragraphs.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-detect-paragraphs.h
+END
+ocr-word-segmentation.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-word-segmentation.cc
+END
+ocr-extract-gutters.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-extract-gutters.h
+END
+ocr-word-segmentation.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-word-segmentation.h
+END
+ocr-char-stats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-char-stats.cc
+END
+ocr-classify-zones.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-classify-zones.h
+END
+ocr-pageseg-wcuts.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-pageseg-wcuts.cc
+END
+ocr-pageseg-wcuts.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-pageseg-wcuts.h
+END
+ocr-text-image-seg.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-text-image-seg.cc
+END
+ocr-layout-smear.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-layout-smear.cc
+END
+ocr-text-image-seg.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-text-image-seg.h
+END
+ocr-doc-clean-concomp.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-doc-clean-concomp.h
+END
+ocr-noisefilter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-noisefilter.cc
+END
+ocr-layout-rast.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-layout-rast.cc
+END
+ocr-color-encode-layout.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-color-encode-layout.cc
+END
+ocr-doc-clean.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-doc-clean.cc
+END
+ocr-pageseg-xycut.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-pageseg-xycut.cc
+END
+ocr-color-encode-layout.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-color-encode-layout.h
+END
+ocr-layout-rast.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-layout-rast.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/README
+END
+ocr-layout-internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-layout-internal.h
+END
+ocr-extract-rulings.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-extract-rulings.cc
+END
+ocr-deskew-rast.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-deskew-rast.h
+END
+ocr-visualize-layout-rast.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-visualize-layout-rast.cc
+END
+ocr-layout-1cp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-layout-1cp.cc
+END
+ocr-pageframe-rast.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-pageframe-rast.cc
+END
+ocr-pageframe-rast.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-pageframe-rast.h
+END
+test-tesseract.cc.FIXME
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/test-tesseract.cc.FIXME
+END
+ocr-ctextline-rast-extended.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-ctextline-rast-extended.cc
+END
+ocr-extract-gutters.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-extract-gutters.cc
+END
+ocr-ctextline-rast-extended.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-ctextline-rast-extended.h
+END
+ocr-ctextline-rast.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-ctextline-rast.cc
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/OWNERS
+END
+ocr-ctextline-rast.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-ctextline-rast.h
+END
+ocr-whitespace-cover.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-whitespace-cover.cc
+END
+ocr-classify-zones.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-layout/ocr-classify-zones.cc
+END

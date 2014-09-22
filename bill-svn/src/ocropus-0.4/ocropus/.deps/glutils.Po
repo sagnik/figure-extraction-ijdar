@@ -1,0 +1,1 @@
+glutils.o: ocr-line/glutils.cc

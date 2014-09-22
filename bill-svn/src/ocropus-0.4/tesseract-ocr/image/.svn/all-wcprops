@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/image
+END
+imgs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/image/imgs.cpp
+END
+imgunpk.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/image/imgunpk.h
+END
+svshowim.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/image/svshowim.cpp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/image/Makefile.in
+END
+img.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/image/img.h
+END
+image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/image/image.cpp
+END
+imgs.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/image/imgs.h
+END
+svshowim.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/image/svshowim.h
+END
+imgtiff.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/image/imgtiff.cpp
+END
+image.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/image/image.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/image/Makefile.am
+END
+imgtiff.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/image/imgtiff.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/image/Makefile
+END
+imgerrs.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/image/imgerrs.h
+END

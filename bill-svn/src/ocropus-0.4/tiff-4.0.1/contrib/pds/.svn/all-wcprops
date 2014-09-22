@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/pds
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/pds/Makefile.in
+END
+tif_pdsdirwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/pds/tif_pdsdirwrite.c
+END
+tif_pdsdirread.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/pds/tif_pdsdirread.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/pds/Makefile.am
+END
+tif_imageiter.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/pds/tif_imageiter.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/pds/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/pds/README
+END
+tif_imageiter.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/pds/tif_imageiter.h
+END

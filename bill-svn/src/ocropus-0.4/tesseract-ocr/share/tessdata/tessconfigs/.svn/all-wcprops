@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/share/tessdata/tessconfigs
+END
+batch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/share/tessdata/tessconfigs/batch
+END
+segdemo
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/share/tessdata/tessconfigs/segdemo
+END
+msdemo
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/share/tessdata/tessconfigs/msdemo
+END
+batch.nochop
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/share/tessdata/tessconfigs/batch.nochop
+END
+matdemo
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/share/tessdata/tessconfigs/matdemo
+END
+nobatch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/share/tessdata/tessconfigs/nobatch
+END

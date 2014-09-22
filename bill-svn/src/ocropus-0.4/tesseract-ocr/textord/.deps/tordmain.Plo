@@ -1,0 +1,454 @@
+tordmain.lo tordmain.o: tordmain.cpp ../ccutil/mfcpch.h \
+  ../ccutil/stderr.h ../ccutil/errcode.h ../ccutil/host.h \
+  ../ccutil/platform.h \
+  /usr/lib/gcc/x86_64-redhat-linux/4.1.2/include/limits.h \
+  /usr/lib/gcc/x86_64-redhat-linux/4.1.2/include/syslimits.h \
+  /usr/include/limits.h /usr/include/features.h /usr/include/sys/cdefs.h \
+  /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+  /usr/include/gnu/stubs-64.h /usr/include/bits/posix1_lim.h \
+  /usr/include/bits/local_lim.h /usr/include/linux/limits.h \
+  /usr/include/bits/posix2_lim.h /usr/include/bits/xopen_lim.h \
+  /usr/include/bits/stdio_lim.h ../ccutil/globaloc.h ../ccutil/hosthplb.h \
+  ../ccutil/notdll.h ../ccstruct/blread.h ../ccutil/params.h \
+  /usr/include/stdio.h \
+  /usr/lib/gcc/x86_64-redhat-linux/4.1.2/include/stddef.h \
+  /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+  /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+  /usr/include/bits/wchar.h /usr/include/gconv.h \
+  /usr/lib/gcc/x86_64-redhat-linux/4.1.2/include/stdarg.h \
+  /usr/include/bits/sys_errlist.h /usr/include/bits/stdio.h \
+  ../ccutil/genericvector.h /usr/include/stdlib.h \
+  /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
+  /usr/include/endian.h /usr/include/bits/endian.h /usr/include/xlocale.h \
+  /usr/include/sys/types.h /usr/include/time.h /usr/include/sys/select.h \
+  /usr/include/bits/select.h /usr/include/bits/sigset.h \
+  /usr/include/bits/time.h /usr/include/sys/sysmacros.h \
+  /usr/include/bits/pthreadtypes.h /usr/include/alloca.h \
+  ../ccutil/tesscallback.h ../ccutil/helpers.h /usr/include/string.h \
+  ../ccutil/ndminx.h ../ccutil/strngs.h ../ccutil/memry.h \
+  ../ccutil/serialis.h ../ccutil/fileerr.h ../ccstruct/ocrblock.h \
+  ../image/img.h ../ccutil/memry.h ../ccstruct/ocrpara.h \
+  ../ccstruct/publictypes.h ../ccutil/elst.h ../ccutil/lsterr.h \
+  ../ccutil/strngs.h ../ccstruct/ocrrow.h ../ccstruct/quspline.h \
+  ../ccstruct/quadratc.h ../ccstruct/points.h /usr/include/math.h \
+  /usr/include/bits/huge_val.h /usr/include/bits/huge_valf.h \
+  /usr/include/bits/huge_vall.h /usr/include/bits/inf.h \
+  /usr/include/bits/nan.h /usr/include/bits/mathdef.h \
+  /usr/include/bits/mathcalls.h /usr/include/bits/mathinline.h \
+  ../ccstruct/ipoints.h ../ccutil/serialis.h ../ccutil/memry.h \
+  ../ccstruct/rect.h ../ccutil/ndminx.h ../viewer/scrollview.h \
+  ../config_auto.h ../ccutil/tprintf.h ../ccutil/params.h \
+  ../ccstruct/werd.h ../ccutil/bits16.h ../ccutil/elst2.h \
+  ../ccstruct/blckerr.h ../ccutil/errcode.h ../ccstruct/stepblob.h \
+  ../ccstruct/coutln.h ../ccstruct/crakedge.h ../ccstruct/mod128.h \
+  ../config_auto.h ../ccstruct/pdblock.h ../ccutil/clst.h \
+  ../ccstruct/polyblk.h ../ccstruct/hpddef.h ../ccstruct/blobbox.h \
+  ../ccstruct/statistc.h ../ccutil/host.h ../ccstruct/ccstruct.h \
+  ../cutil/cutil.h ../ccutil/host.h ../ccutil/tprintf.h \
+  ../cutil/cutil_class.h ../ccutil/ccutil.h ../ccutil/ambigs.h \
+  ../ccutil/elst.h ../ccutil/tprintf.h ../ccutil/unichar.h \
+  /usr/include/memory.h ../ccutil/unicharset.h /usr/include/assert.h \
+  ../ccutil/unicharmap.h ../ccutil/tessdatamanager.h \
+  /usr/include/pthread.h /usr/include/sched.h /usr/include/bits/sched.h \
+  /usr/include/signal.h /usr/include/bits/setjmp.h \
+  /usr/include/semaphore.h /usr/include/bits/semaphore.h ../cutil/const.h \
+  ../ccutil/strngs.h ../image/image.h edgblob.h ../viewer/scrollview.h \
+  ../ccutil/params.h ../image/img.h ../ccstruct/ocrblock.h \
+  ../ccstruct/coutln.h ../ccstruct/crakedge.h ../ccutil/notdll.h \
+  drawtord.h pitsync1.h ../ccutil/elst.h ../ccutil/clst.h \
+  ../ccstruct/statistc.h pithsync.h makerow.h ../ccstruct/blobs.h \
+  ../ccstruct/vecfuncs.h ../ccstruct/blobs.h wordseg.h textord.h \
+  gap_map.h ../ccstruct/publictypes.h ../image/imgs.h ../image/img.h \
+  ../ccutil/params.h tordmain.h ../ccutil/secname.h ../config_auto.h \
+  /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./allheaders.h \
+  /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./alltypes.h \
+  /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./environ.h \
+  /usr/include/stdint.h \
+  /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./array.h \
+  /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./arrayaccess.h \
+  /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./bbuffer.h \
+  /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./bmf.h \
+  /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./ccbord.h \
+  /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./dewarp.h \
+  /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./gplot.h \
+  /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./heap.h \
+  /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./imageio.h \
+  /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./jbclass.h \
+  /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./list.h \
+  /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./morph.h \
+  /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./pix.h \
+  /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./ptra.h \
+  /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./queue.h \
+  /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./regutils.h \
+  /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./sudoku.h \
+  /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./stack.h \
+  /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./watershed.h \
+  /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./leptprotos.h
+
+../ccutil/mfcpch.h:
+
+../ccutil/stderr.h:
+
+../ccutil/errcode.h:
+
+../ccutil/host.h:
+
+../ccutil/platform.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.1.2/include/limits.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.1.2/include/syslimits.h:
+
+/usr/include/limits.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/include/bits/posix1_lim.h:
+
+/usr/include/bits/local_lim.h:
+
+/usr/include/linux/limits.h:
+
+/usr/include/bits/posix2_lim.h:
+
+/usr/include/bits/xopen_lim.h:
+
+/usr/include/bits/stdio_lim.h:
+
+../ccutil/globaloc.h:
+
+../ccutil/hosthplb.h:
+
+../ccutil/notdll.h:
+
+../ccstruct/blread.h:
+
+../ccutil/params.h:
+
+/usr/include/stdio.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.1.2/include/stddef.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/usr/include/bits/wchar.h:
+
+/usr/include/gconv.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.1.2/include/stdarg.h:
+
+/usr/include/bits/sys_errlist.h:
+
+/usr/include/bits/stdio.h:
+
+../ccutil/genericvector.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/bits/waitflags.h:
+
+/usr/include/bits/waitstatus.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/time.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/bits/select.h:
+
+/usr/include/bits/sigset.h:
+
+/usr/include/bits/time.h:
+
+/usr/include/sys/sysmacros.h:
+
+/usr/include/bits/pthreadtypes.h:
+
+/usr/include/alloca.h:
+
+../ccutil/tesscallback.h:
+
+../ccutil/helpers.h:
+
+/usr/include/string.h:
+
+../ccutil/ndminx.h:
+
+../ccutil/strngs.h:
+
+../ccutil/memry.h:
+
+../ccutil/serialis.h:
+
+../ccutil/fileerr.h:
+
+../ccstruct/ocrblock.h:
+
+../image/img.h:
+
+../ccutil/memry.h:
+
+../ccstruct/ocrpara.h:
+
+../ccstruct/publictypes.h:
+
+../ccutil/elst.h:
+
+../ccutil/lsterr.h:
+
+../ccutil/strngs.h:
+
+../ccstruct/ocrrow.h:
+
+../ccstruct/quspline.h:
+
+../ccstruct/quadratc.h:
+
+../ccstruct/points.h:
+
+/usr/include/math.h:
+
+/usr/include/bits/huge_val.h:
+
+/usr/include/bits/huge_valf.h:
+
+/usr/include/bits/huge_vall.h:
+
+/usr/include/bits/inf.h:
+
+/usr/include/bits/nan.h:
+
+/usr/include/bits/mathdef.h:
+
+/usr/include/bits/mathcalls.h:
+
+/usr/include/bits/mathinline.h:
+
+../ccstruct/ipoints.h:
+
+../ccutil/serialis.h:
+
+../ccutil/memry.h:
+
+../ccstruct/rect.h:
+
+../ccutil/ndminx.h:
+
+../viewer/scrollview.h:
+
+../config_auto.h:
+
+../ccutil/tprintf.h:
+
+../ccutil/params.h:
+
+../ccstruct/werd.h:
+
+../ccutil/bits16.h:
+
+../ccutil/elst2.h:
+
+../ccstruct/blckerr.h:
+
+../ccutil/errcode.h:
+
+../ccstruct/stepblob.h:
+
+../ccstruct/coutln.h:
+
+../ccstruct/crakedge.h:
+
+../ccstruct/mod128.h:
+
+../config_auto.h:
+
+../ccstruct/pdblock.h:
+
+../ccutil/clst.h:
+
+../ccstruct/polyblk.h:
+
+../ccstruct/hpddef.h:
+
+../ccstruct/blobbox.h:
+
+../ccstruct/statistc.h:
+
+../ccutil/host.h:
+
+../ccstruct/ccstruct.h:
+
+../cutil/cutil.h:
+
+../ccutil/host.h:
+
+../ccutil/tprintf.h:
+
+../cutil/cutil_class.h:
+
+../ccutil/ccutil.h:
+
+../ccutil/ambigs.h:
+
+../ccutil/elst.h:
+
+../ccutil/tprintf.h:
+
+../ccutil/unichar.h:
+
+/usr/include/memory.h:
+
+../ccutil/unicharset.h:
+
+/usr/include/assert.h:
+
+../ccutil/unicharmap.h:
+
+../ccutil/tessdatamanager.h:
+
+/usr/include/pthread.h:
+
+/usr/include/sched.h:
+
+/usr/include/bits/sched.h:
+
+/usr/include/signal.h:
+
+/usr/include/bits/setjmp.h:
+
+/usr/include/semaphore.h:
+
+/usr/include/bits/semaphore.h:
+
+../cutil/const.h:
+
+../ccutil/strngs.h:
+
+../image/image.h:
+
+edgblob.h:
+
+../viewer/scrollview.h:
+
+../ccutil/params.h:
+
+../image/img.h:
+
+../ccstruct/ocrblock.h:
+
+../ccstruct/coutln.h:
+
+../ccstruct/crakedge.h:
+
+../ccutil/notdll.h:
+
+drawtord.h:
+
+pitsync1.h:
+
+../ccutil/elst.h:
+
+../ccutil/clst.h:
+
+../ccstruct/statistc.h:
+
+pithsync.h:
+
+makerow.h:
+
+../ccstruct/blobs.h:
+
+../ccstruct/vecfuncs.h:
+
+../ccstruct/blobs.h:
+
+wordseg.h:
+
+textord.h:
+
+gap_map.h:
+
+../ccstruct/publictypes.h:
+
+../image/imgs.h:
+
+../image/img.h:
+
+../ccutil/params.h:
+
+tordmain.h:
+
+../ccutil/secname.h:
+
+../config_auto.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./allheaders.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./alltypes.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./environ.h:
+
+/usr/include/stdint.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./array.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./arrayaccess.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./bbuffer.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./bmf.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./ccbord.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./dewarp.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./gplot.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./heap.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./imageio.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./jbclass.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./list.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./morph.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./pix.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./ptra.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./queue.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./regutils.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./sudoku.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./stack.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./watershed.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./leptprotos.h:

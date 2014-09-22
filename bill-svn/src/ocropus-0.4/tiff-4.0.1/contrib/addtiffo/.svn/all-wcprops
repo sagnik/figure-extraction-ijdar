@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/addtiffo
+END
+addtiffo
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/addtiffo/addtiffo
+END
+addtiffo.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/addtiffo/addtiffo.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/addtiffo/Makefile.in
+END
+tif_ovrcache.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/addtiffo/tif_ovrcache.h
+END
+Makefile.vc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/addtiffo/Makefile.vc
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/addtiffo/Makefile.am
+END
+tif_overview.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/addtiffo/tif_overview.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/addtiffo/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/addtiffo/README
+END
+tif_ovrcache.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/contrib/addtiffo/tif_ovrcache.c
+END

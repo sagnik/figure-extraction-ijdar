@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/share/tessdata/configs
+END
+rebox
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/share/tessdata/configs/rebox
+END
+logfile
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/share/tessdata/configs/logfile
+END
+inter
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/share/tessdata/configs/inter
+END
+digits
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/share/tessdata/configs/digits
+END
+unlv
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/share/tessdata/configs/unlv
+END
+makebox
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/share/tessdata/configs/makebox
+END
+quiet
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/share/tessdata/configs/quiet
+END
+hocr
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/share/tessdata/configs/hocr
+END
+kannada
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/share/tessdata/configs/kannada
+END
+api_config
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/share/tessdata/configs/api_config
+END
+linebox
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/share/tessdata/configs/linebox
+END
+box.train
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/share/tessdata/configs/box.train
+END
+box.train.stderr
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/share/tessdata/configs/box.train.stderr
+END
+strokewidth
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/share/tessdata/configs/strokewidth
+END
+ambigs.train
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/share/tessdata/configs/ambigs.train
+END

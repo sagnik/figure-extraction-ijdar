@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts
+END
+try-docana.lua
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/try-docana.lua
+END
+timing-transpose.lua
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/timing-transpose.lua
+END
+test_lept.lua
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/test_lept.lua
+END
+compare-algs-both.lua
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/compare-algs-both.lua
+END
+try-htm.lua
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/try-htm.lua
+END
+compare-telescope.lua
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/compare-telescope.lua
+END
+try-cadastral.lua
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/try-cadastral.lua
+END
+compare-algs.lua
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/compare-algs.lua
+END
+inspect-skew.lua
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/inspect-skew.lua
+END
+try-emask.lua
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/try-emask.lua
+END
+compare-algs-close.lua
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/compare-algs-close.lua
+END
+try-thin.lua
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/try-thin.lua
+END
+compare-density-thresholds.lua
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/compare-density-thresholds.lua
+END
+test-decomp.lua
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/test-decomp.lua
+END
+inspect-brushfire.lua
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/inspect-brushfire.lua
+END
+bigtest-ops.lua
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/bigtest-ops.lua
+END
+inspect-rotation.lua
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/inspect-rotation.lua
+END
+compare-transpose.lua
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/compare-transpose.lua
+END
+bigtest-decomp.lua
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/bigtest-decomp.lua
+END
+test_small.lua
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/test_small.lua
+END
+try-emask-cadastral.lua
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/try-emask-cadastral.lua
+END
+inspect-lineerode.lua
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/inspect-lineerode.lua
+END
+bitutil.lua
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/bitutil.lua
+END
+test-speed.lua
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/test-speed.lua
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/README
+END
+try-andor.lua
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/try-andor.lua
+END
+try-circular-full.lua
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/try-circular-full.lua
+END
+inspect-skewline.lua
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/inspect-skewline.lua
+END
+test_lept2.lua
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/test_lept2.lua
+END
+inspect-rotations.lua
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/inspect-rotations.lua
+END
+test_lept3.lua
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/test_lept3.lua
+END
+compare-bits-lept.lua
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/compare-bits-lept.lua
+END
+compare-algs-open-notr.lua
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/compare-algs-open-notr.lua
+END
+test-label.lua
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/test-label.lua
+END
+bigtest-rle-vs-packed.lua
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/bigtest-rle-vs-packed.lua
+END
+compare-algs-close-notr.lua
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/compare-algs-close-notr.lua
+END
+try-notr.lua
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgbits/scripts/try-notr.lua
+END

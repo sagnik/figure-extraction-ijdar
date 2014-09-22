@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/training/.deps
+END
+mergenf.Po
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/training/.deps/mergenf.Po
+END
+combine_tessdata.Po
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/training/.deps/combine_tessdata.Po
+END
+ambiguous_words.Po
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/training/.deps/ambiguous_words.Po
+END
+classifier_tester.Po
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/training/.deps/classifier_tester.Po
+END
+cntraining.Po
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/training/.deps/cntraining.Po
+END
+dawg2wordlist.Po
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/training/.deps/dawg2wordlist.Po
+END
+wordlist2dawg.Po
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/training/.deps/wordlist2dawg.Po
+END
+tessopt.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/training/.deps/tessopt.Plo
+END
+mftraining.Po
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/training/.deps/mftraining.Po
+END
+commontraining.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/training/.deps/commontraining.Plo
+END
+shapeclustering.Po
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/training/.deps/shapeclustering.Po
+END
+unicharset_extractor.Po
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/training/.deps/unicharset_extractor.Po
+END

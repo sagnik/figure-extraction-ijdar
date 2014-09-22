@@ -1,0 +1,2 @@
+#! /usr/bin/octave -qf
+temp('sample.gif');

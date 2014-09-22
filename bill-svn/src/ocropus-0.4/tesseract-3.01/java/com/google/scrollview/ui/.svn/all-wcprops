@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/java/com/google/scrollview/ui
+END
+SVAbstractMenuItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/java/com/google/scrollview/ui/SVAbstractMenuItem.java
+END
+SVWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/java/com/google/scrollview/ui/SVWindow.java
+END
+SVPopupMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/java/com/google/scrollview/ui/SVPopupMenu.java
+END
+SVMenuBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/java/com/google/scrollview/ui/SVMenuBar.java
+END
+SVCheckboxMenuItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/java/com/google/scrollview/ui/SVCheckboxMenuItem.java
+END
+SVSubMenuItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/java/com/google/scrollview/ui/SVSubMenuItem.java
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/java/com/google/scrollview/ui/Makefile.am
+END
+SVImageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/java/com/google/scrollview/ui/SVImageHandler.java
+END
+SVEmptyMenuItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/java/com/google/scrollview/ui/SVEmptyMenuItem.java
+END
+SVMenuItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/java/com/google/scrollview/ui/SVMenuItem.java
+END

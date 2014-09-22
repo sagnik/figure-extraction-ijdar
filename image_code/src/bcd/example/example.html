@@ -1,0 +1,46 @@
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="Author" CONTENT="Michael J. Sammon">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.05 [en] (Win95; U) [Netscape]">
+   <TITLE>bcd</TITLE>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#0000EE" VLINK="#551A8B" ALINK="#FF0000">
+
+<CENTER><B><FONT SIZE=+3>bcd</FONT></B></CENTER>
+
+
+<P><TT>USAGE: bcd inimg outimg sigma [-h][-t][-T thld][-L]</TT>
+
+<P><TT>bcd detects and marks contours of regions in a grayscale image</TT>
+<BR><TT>by invoking Boie-Cox algorithm</TT>
+
+<P><TT>ARGUMENTS:</TT>
+<BR><TT>&nbsp;&nbsp;&nbsp; inimg: input image filename (TIF)</TT>
+<BR><TT>&nbsp;&nbsp; outimg: output image filename (TIF)</TT>
+<BR><TT>&nbsp;&nbsp;&nbsp; sigma: width of Gaussian filter (float)</TT>
+
+<P><TT>OPTIONS:</TT>
+<BR><TT>&nbsp;&nbsp;&nbsp;&nbsp; -h : do not apply hysteresis</TT>
+<BR><TT>&nbsp;&nbsp;&nbsp;&nbsp; -t : do not thin image</TT>
+<BR><TT>-T thld : threshold value (int)</TT>
+<BR><TT>&nbsp;&nbsp;&nbsp;&nbsp; -L : print Software License for this module</TT>
+
+<P>&nbsp;
+<BR>&nbsp;
+
+<P><B><FONT SIZE=+1>Example:</FONT></B>
+
+<P><TT>bcd transist.tif transistb.tif 1.5 -T 20</TT>
+
+<P><TT>transist.tif:</TT>
+
+<P><IMG SRC="transist.gif" BORDER=1 HEIGHT=330 WIDTH=327>
+
+<P><TT>transistb.tif:</TT>
+
+<P><IMG SRC="transistb.gif" BORDER=1 HEIGHT=330 WIDTH=327>
+
+<P>Copyright (C) 1999 MLMSoftware Group, LLC.
+</BODY>
+</HTML>

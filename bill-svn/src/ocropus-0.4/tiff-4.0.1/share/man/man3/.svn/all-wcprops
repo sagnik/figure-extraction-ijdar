@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3
+END
+TIFFWriteEncodedStrip.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFWriteEncodedStrip.3tiff
+END
+TIFFSetField.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFSetField.3tiff
+END
+TIFFOpen.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFOpen.3tiff
+END
+TIFFReadRawTile.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFReadRawTile.3tiff
+END
+TIFFWarning.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFWarning.3tiff
+END
+libtiff.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/libtiff.3tiff
+END
+TIFFWriteScanline.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFWriteScanline.3tiff
+END
+TIFFReadRawStrip.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFReadRawStrip.3tiff
+END
+TIFFmemory.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFmemory.3tiff
+END
+TIFFbuffer.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFbuffer.3tiff
+END
+TIFFsize.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFsize.3tiff
+END
+TIFFcodec.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFcodec.3tiff
+END
+TIFFRGBAImage.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFRGBAImage.3tiff
+END
+TIFFWriteDirectory.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFWriteDirectory.3tiff
+END
+TIFFPrintDirectory.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFPrintDirectory.3tiff
+END
+TIFFWriteRawStrip.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFWriteRawStrip.3tiff
+END
+TIFFReadTile.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFReadTile.3tiff
+END
+TIFFWriteEncodedTile.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFWriteEncodedTile.3tiff
+END
+TIFFswab.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFswab.3tiff
+END
+TIFFtile.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFtile.3tiff
+END
+TIFFReadDirectory.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFReadDirectory.3tiff
+END
+TIFFstrip.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFstrip.3tiff
+END
+TIFFClose.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFClose.3tiff
+END
+TIFFquery.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFquery.3tiff
+END
+TIFFWriteTile.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFWriteTile.3tiff
+END
+TIFFDataWidth.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFDataWidth.3tiff
+END
+TIFFReadRGBAImage.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFReadRGBAImage.3tiff
+END
+TIFFReadEncodedTile.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFReadEncodedTile.3tiff
+END
+TIFFcolor.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFcolor.3tiff
+END
+TIFFReadEncodedStrip.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFReadEncodedStrip.3tiff
+END
+TIFFSetDirectory.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFSetDirectory.3tiff
+END
+TIFFFlush.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFFlush.3tiff
+END
+TIFFWriteRawTile.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFWriteRawTile.3tiff
+END
+TIFFGetField.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFGetField.3tiff
+END
+TIFFReadRGBATile.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFReadRGBATile.3tiff
+END
+TIFFReadScanline.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFReadScanline.3tiff
+END
+TIFFError.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFError.3tiff
+END
+TIFFReadRGBAStrip.3tiff
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/share/man/man3/TIFFReadRGBAStrip.3tiff
+END

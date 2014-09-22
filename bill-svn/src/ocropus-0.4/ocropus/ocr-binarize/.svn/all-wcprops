@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-binarize
+END
+ocr-binarize-otsu.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-binarize/ocr-binarize-otsu.cc
+END
+ocr-binarize-sauvola.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-binarize/ocr-binarize-sauvola.cc
+END
+main-ocr-binarize-otsu.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-binarize/main-ocr-binarize-otsu.cc
+END
+main-ocr-binarize-sauvola.cc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-binarize/main-ocr-binarize-sauvola.cc
+END
+ocr-binarize-range.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-binarize/ocr-binarize-range.cc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-binarize/README
+END

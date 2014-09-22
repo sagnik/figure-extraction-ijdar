@@ -1,0 +1,587 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps
+END
+ocr-layout-smear.Po
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-layout-smear.Po
+END
+ocr-noisefilter.Po
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-noisefilter.Po
+END
+voronoi-pageseg.Po
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/voronoi-pageseg.Po
+END
+ocr-layout-rast.Po
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-layout-rast.Po
+END
+main-voronoi-ocropus.Po
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/main-voronoi-ocropus.Po
+END
+ocr-doc-clean.Po
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-doc-clean.Po
+END
+beam-search.Po
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/beam-search.Po
+END
+main-be.Po
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/main-be.Po
+END
+ocr-text-image-seg-leptonica.Po
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-text-image-seg-leptonica.Po
+END
+main-ocr-binarize-sauvola.Po
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/main-ocr-binarize-sauvola.Po
+END
+ocr-pageframe-rast.Po
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-pageframe-rast.Po
+END
+ocr-ctextline-rast-extended.Po
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-ctextline-rast-extended.Po
+END
+ocr-extract-gutters.Po
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-extract-gutters.Po
+END
+ocr-ctextline-rast.Po
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-ctextline-rast.Po
+END
+a-star.Po
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/a-star.Po
+END
+sites.Po
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/sites.Po
+END
+glclass.Po
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/glclass.Po
+END
+cline.Po
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/cline.Po
+END
+ocrofst-util.Po
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocrofst-util.Po
+END
+init-ocropus.Po
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/init-ocropus.Po
+END
+ocr-binarize-sauvola.Po
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-binarize-sauvola.Po
+END
+main-ocr-orientation.Po
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/main-ocr-orientation.Po
+END
+test_ocr_utils-test-ocr-utils.Po
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/test_ocr_utils-test-ocr-utils.Po
+END
+dinfo.Po
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/dinfo.Po
+END
+narray-io.Po
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/narray-io.Po
+END
+ocr-doc-clean-concomp.Po
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-doc-clean-concomp.Po
+END
+log-reg-data.Po
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/log-reg-data.Po
+END
+usage.Po
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/usage.Po
+END
+editdist.Po
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/editdist.Po
+END
+ocr-deskew-rast.Po
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-deskew-rast.Po
+END
+ocr-distance.Po
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-distance.Po
+END
+ocr-cseg-projection.Po
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-cseg-projection.Po
+END
+heap.Po
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/heap.Po
+END
+read_image.Po
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/read_image.Po
+END
+ocrofst-impl.Po
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocrofst-impl.Po
+END
+test_seg_cuts-test-seg-cuts.Po
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/test_seg_cuts-test-seg-cuts.Po
+END
+linerec.Po
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/linerec.Po
+END
+hash.Po
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/hash.Po
+END
+bit_func.Po
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/bit_func.Po
+END
+geometry.Po
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/geometry.Po
+END
+main-ocr-thresholding.Po
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/main-ocr-thresholding.Po
+END
+pagesegs.Po
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/pagesegs.Po
+END
+ocr-pageseg-wcuts.Po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-pageseg-wcuts.Po
+END
+ocr-text-image-seg.Po
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-text-image-seg.Po
+END
+seg-eval.Po
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/seg-eval.Po
+END
+ocr-color-encode-layout.Po
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-color-encode-layout.Po
+END
+ocr-pageseg-xycut.Po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-pageseg-xycut.Po
+END
+linesegs.Po
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/linesegs.Po
+END
+ocr-thresholding.Po
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-thresholding.Po
+END
+ocr-extract-rulings.Po
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-extract-rulings.Po
+END
+ocr-binarize-otsu.Po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-binarize-otsu.Po
+END
+sysutil.Po
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/sysutil.Po
+END
+ocr-binarize-range.Po
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-binarize-range.Po
+END
+ocr-visualize-layout-rast.Po
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-visualize-layout-rast.Po
+END
+ocr-layout-1cp.Po
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-layout-1cp.Po
+END
+ocr-utils.Po
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-utils.Po
+END
+resource-path.Po
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/resource-path.Po
+END
+ocr-commands.Po
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-commands.Po
+END
+test_binarize_sauvola-test-binarize-sauvola.Po
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/test_binarize_sauvola-test-binarize-sauvola.Po
+END
+voronoi-ocropus.Po
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/voronoi-ocropus.Po
+END
+ocrofst-io.Po
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocrofst-io.Po
+END
+seg-ccs.Po
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/seg-ccs.Po
+END
+lattice.Po
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/lattice.Po
+END
+ocr-whitespace-cover.Po
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-whitespace-cover.Po
+END
+ocr-classify-zones.Po
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-classify-zones.Po
+END
+label_func.Po
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/label_func.Po
+END
+ocrofst-heap.Po
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocrofst-heap.Po
+END
+seg-cuts.Po
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/seg-cuts.Po
+END
+voronoi.Po
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/voronoi.Po
+END
+tesseract.Po
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/tesseract.Po
+END
+erase.Po
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/erase.Po
+END
+ocr-segmentations.Po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-segmentations.Po
+END
+img_to_site.Po
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/img_to_site.Po
+END
+ocr-reading-order.Po
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-reading-order.Po
+END
+draw_line.Po
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/draw_line.Po
+END
+ocr-detect-columns.Po
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-detect-columns.Po
+END
+ocr-cseg-ccs.Po
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-cseg-ccs.Po
+END
+memory.Po
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/memory.Po
+END
+didegrade.Po
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/didegrade.Po
+END
+seg-skel.Po
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/seg-skel.Po
+END
+ocr-orientation.Po
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-orientation.Po
+END
+ocr-detect-paragraphs.Po
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-detect-paragraphs.Po
+END
+logger.Po
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/logger.Po
+END
+line-info.Po
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/line-info.Po
+END
+xml-entities.Po
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/xml-entities.Po
+END
+glutils.Po
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/glutils.Po
+END
+grouper.Po
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/grouper.Po
+END
+components.Po
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/components.Po
+END
+ocr-word-segmentation.Po
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-word-segmentation.Po
+END
+glfmaps.Po
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/glfmaps.Po
+END
+ocr-char-stats.Po
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocr-char-stats.Po
+END
+ocropus.Po
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/ocropus.Po
+END
+main-ocr-binarize-otsu.Po
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/main-ocr-binarize-otsu.Po
+END
+test_narray_io-test-narray-io.Po
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/test_narray_io-test-narray-io.Po
+END
+edgelist.Po
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/edgelist.Po
+END
+output.Po
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/output.Po
+END
+glcuts.Po
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.deps/glcuts.Po
+END

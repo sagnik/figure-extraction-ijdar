@@ -1,0 +1,527 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test
+END
+tiffcrop-extract-rgb-3c-8b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-extract-rgb-3c-8b.sh
+END
+tiffcp-g3-1d-fill.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcp-g3-1d-fill.sh
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/Makefile.in
+END
+tiff2rgba-minisblack-2c-8b-alpha.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiff2rgba-minisblack-2c-8b-alpha.sh
+END
+check_tag.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/check_tag.c
+END
+tiffcp-logluv.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcp-logluv.sh
+END
+tiffcrop-extract-palette-1c-1b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-extract-palette-1c-1b.sh
+END
+tiffcp-g3.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcp-g3.sh
+END
+tiffcp-g3-1d.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcp-g3-1d.sh
+END
+rewrite_tag.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/rewrite_tag.c
+END
+tiffcrop-extract-palette-1c-4b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-extract-palette-1c-4b.sh
+END
+tiffcrop-extractz14-minisblack-1c-16b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-extractz14-minisblack-1c-16b.sh
+END
+tiffcrop-extractz14-rgb-3c-16b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-extractz14-rgb-3c-16b.sh
+END
+tiffcrop-R90-minisblack-1c-16b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-R90-minisblack-1c-16b.sh
+END
+tiffcp-g3-2d.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcp-g3-2d.sh
+END
+tiff2rgba-rgb-3c-8b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiff2rgba-rgb-3c-8b.sh
+END
+tiffcrop-extract-palette-1c-8b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-extract-palette-1c-8b.sh
+END
+long_tag.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/long_tag.c
+END
+short_tag.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/short_tag.c
+END
+bmp2tiff_rgb.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/bmp2tiff_rgb.sh
+END
+tiff2rgba-palette-1c-1b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiff2rgba-palette-1c-1b.sh
+END
+tiffcrop-extract-miniswhite-1c-1b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-extract-miniswhite-1c-1b.sh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/Makefile
+END
+tiff2pdf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiff2pdf.sh
+END
+tifftest.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tifftest.h
+END
+tiffcrop-R90-minisblack-1c-8b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-R90-minisblack-1c-8b.sh
+END
+tiff2rgba-palette-1c-4b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiff2rgba-palette-1c-4b.sh
+END
+tiffcp-g3-2d-fill.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcp-g3-2d-fill.sh
+END
+strip.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/strip.c
+END
+tiff2rgba-palette-1c-8b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiff2rgba-palette-1c-8b.sh
+END
+tiffcrop-doubleflip-miniswhite-1c-1b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-doubleflip-miniswhite-1c-1b.sh
+END
+tiff2ps-PS3.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiff2ps-PS3.sh
+END
+strip_rw.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/strip_rw.c
+END
+tiffcrop-extractz14-logluv-3c-16b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-extractz14-logluv-3c-16b.sh
+END
+tiffcrop-R90-logluv-3c-16b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-R90-logluv-3c-16b.sh
+END
+tiffcrop-R90-rgb-3c-16b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-R90-rgb-3c-16b.sh
+END
+common.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/common.sh
+END
+tiff2rgba-minisblack-1c-8b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiff2rgba-minisblack-1c-8b.sh
+END
+tiffcrop-extract-minisblack-2c-8b-alpha.sh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-extract-minisblack-2c-8b-alpha.sh
+END
+ascii_tag.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/ascii_tag.c
+END
+tiffcrop-doubleflip-minisblack-1c-16b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-doubleflip-minisblack-1c-16b.sh
+END
+tiffcrop-doubleflip-rgb-3c-16b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-doubleflip-rgb-3c-16b.sh
+END
+tiffinfo.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffinfo.sh
+END
+tiffcrop-extractz14-minisblack-1c-8b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-extractz14-minisblack-1c-8b.sh
+END
+tiffcrop-extractz14-rgb-3c-8b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-extractz14-rgb-3c-8b.sh
+END
+tiffcrop-R90-rgb-3c-8b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-R90-rgb-3c-8b.sh
+END
+tiff2rgba-rgb-3c-16b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiff2rgba-rgb-3c-16b.sh
+END
+tiffdump.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffdump.sh
+END
+tiff2ps-PS2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiff2ps-PS2.sh
+END
+tiffcrop-extractz14-palette-1c-1b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-extractz14-palette-1c-1b.sh
+END
+tiffcrop-R90-palette-1c-1b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-R90-palette-1c-1b.sh
+END
+tiff2ps-EPS1.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiff2ps-EPS1.sh
+END
+tiffcrop-extractz14-palette-1c-4b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-extractz14-palette-1c-4b.sh
+END
+tiffcrop-R90-palette-1c-4b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-R90-palette-1c-4b.sh
+END
+tiffcrop-extract-minisblack-1c-16b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-extract-minisblack-1c-16b.sh
+END
+tiffcrop-extractz14-palette-1c-8b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-extractz14-palette-1c-8b.sh
+END
+tiffcrop-R90-palette-1c-8b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-R90-palette-1c-8b.sh
+END
+tiffcrop-extractz14-minisblack-2c-8b-alpha.sh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-extractz14-minisblack-2c-8b-alpha.sh
+END
+tiffcrop-doubleflip-logluv-3c-16b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-doubleflip-logluv-3c-16b.sh
+END
+tiffcrop-R90-miniswhite-1c-1b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-R90-miniswhite-1c-1b.sh
+END
+tiffcrop-extract-minisblack-1c-8b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-extract-minisblack-1c-8b.sh
+END
+tiff2rgba-minisblack-1c-16b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiff2rgba-minisblack-1c-16b.sh
+END
+test_arrays.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/test_arrays.c
+END
+test_arrays.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/test_arrays.h
+END
+tiff2ps-PS1.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiff2ps-PS1.sh
+END
+tiffcrop-doubleflip-minisblack-1c-8b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-doubleflip-minisblack-1c-8b.sh
+END
+tiffcrop-doubleflip-rgb-3c-8b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-doubleflip-rgb-3c-8b.sh
+END
+tiffcp-g4.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcp-g4.sh
+END
+tiffcrop-extract-logluv-3c-16b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-extract-logluv-3c-16b.sh
+END
+ppm2tiff_pbm.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/ppm2tiff_pbm.sh
+END
+tiff2rgba-miniswhite-1c-1b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiff2rgba-miniswhite-1c-1b.sh
+END
+tiffcrop-extract-rgb-3c-16b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-extract-rgb-3c-16b.sh
+END
+bmp2tiff_palette.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/bmp2tiff_palette.sh
+END
+tiffcrop-R90-minisblack-2c-8b-alpha.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-R90-minisblack-2c-8b-alpha.sh
+END
+ppm2tiff_pgm.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/ppm2tiff_pgm.sh
+END
+tiffcrop-doubleflip-palette-1c-1b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-doubleflip-palette-1c-1b.sh
+END
+tiffcp-thumbnail.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcp-thumbnail.sh
+END
+tiffcrop-doubleflip-palette-1c-4b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-doubleflip-palette-1c-4b.sh
+END
+gif2tiff.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/gif2tiff.sh
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/Makefile.am
+END
+tiffcp-split-join.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcp-split-join.sh
+END
+tiffcrop-extractz14-miniswhite-1c-1b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-extractz14-miniswhite-1c-1b.sh
+END
+tiffcrop-doubleflip-palette-1c-8b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-doubleflip-palette-1c-8b.sh
+END
+ppm2tiff_ppm.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/ppm2tiff_ppm.sh
+END
+tiffcp-split.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcp-split.sh
+END
+tiffcrop-doubleflip-minisblack-2c-8b-alpha.sh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiffcrop-doubleflip-minisblack-2c-8b-alpha.sh
+END
+tiff2rgba-logluv-3c-16b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tiff-4.0.1/test/tiff2rgba-logluv-3c-16b.sh
+END

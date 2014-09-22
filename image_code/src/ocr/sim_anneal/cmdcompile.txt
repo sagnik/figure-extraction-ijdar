@@ -1,0 +1,3 @@
+[skataria@keystone sim_anneal]$ gcc -g -c -I /home/skataria/usr/include ocr_train.c
+[skataria@keystone sim_anneal]$ gcc ocr_run.o -L /home/skataria/usr/lib -lfann -ldoublefann -lfloatfann -lfixedfann -lm -o runocr
+

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgio
+END
+autoinvert.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgio/autoinvert.cc
+END
+autoinvert.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgio/autoinvert.h
+END
+imgio.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgio/imgio.cc
+END
+io_pbm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgio/io_pbm.cc
+END
+imgio.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgio/imgio.h
+END
+io_pbm.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgio/io_pbm.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgio/README
+END
+io_png.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgio/io_png.cc
+END
+io_jpeg.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgio/io_jpeg.cc
+END
+io_png.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgio/io_png.h
+END
+io_jpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgio/io_jpeg.h
+END
+io_tiff.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgio/io_tiff.cc
+END
+io_tiff.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgio/io_tiff.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgio/Jamfile
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imgio/OWNERS
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/java/com/google/scrollview/events
+END
+SVEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/java/com/google/scrollview/events/SVEventHandler.java
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/java/com/google/scrollview/events/Makefile.am
+END
+SVEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/java/com/google/scrollview/events/SVEvent.java
+END
+SVEventType.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-3.01/java/com/google/scrollview/events/SVEventType.java
+END

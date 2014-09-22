@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/configure
+END
+tesseract-2.03-patch.diff
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/tesseract-2.03-patch.diff
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/Makefile.in
+END
+ubuntu
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ubuntu
+END
+config.log
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/config.log
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/depcomp
+END
+config.status
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/config.status
+END
+.hgtags
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/.hgtags
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/README
+END
+ubuntu-packages
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ubuntu-packages
+END
+build
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/build
+END
+DIRS
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/DIRS
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/configure.ac
+END
+package.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/package.sh
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/INSTALL
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/SConstruct
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/COPYING
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/CHANGES
+END
+uninstall
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/uninstall
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/Makefile.am
+END
+generate_version_cc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/generate_version_cc.sh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/Makefile
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/aclocal.m4
+END
+genAM.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/genAM.py
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/install-sh
+END

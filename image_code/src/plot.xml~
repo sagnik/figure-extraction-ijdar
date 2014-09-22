@@ -1,0 +1,46 @@
+<plot id ="">
+	<plot-metadata>
+		<property>
+			<ref id= ""> 
+				.
+				.
+				.			
+			</ref id>
+		</property>	
+		
+		<property>
+			<name>Figure Caption</name>
+			<value> Fig. Comparison of crystalline and amorphous albite dissolution rates</value>
+		</property>
+	
+		<property>
+			<name>X Axis</name>
+				<name>Label</name>
+				<value></value>
+				<name>unit of measure </name>
+				<value></value>
+			</name>
+		</property>
+	
+		<property>
+			<name>Y Axis</name>
+				<name>Label</name>
+				<value></value>
+				<name>unit of measure </name>
+				<value></value>
+			</name>
+		
+		</property>
+
+	</plot-metadata>
+
+	<plot-data>
+		<data point>
+			<name></name>
+			<values></values>
+		</data point>
+		.
+		.
+		.
+	</plot-data>
+</plot>

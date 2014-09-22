@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/neural_networks/runtime/.deps
+END
+neuron.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/neural_networks/runtime/.deps/neuron.Plo
+END
+input_file_buffer.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/neural_networks/runtime/.deps/input_file_buffer.Plo
+END
+neural_net.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/neural_networks/runtime/.deps/neural_net.Plo
+END
+sigmoid_table.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/neural_networks/runtime/.deps/sigmoid_table.Plo
+END

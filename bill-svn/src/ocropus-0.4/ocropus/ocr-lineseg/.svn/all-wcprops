@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-lineseg
+END
+ocr-cseg-projection.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-lineseg/ocr-cseg-projection.cc
+END
+seg-eval.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-lineseg/seg-eval.cc
+END
+seg-ccs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-lineseg/seg-ccs.cc
+END
+seg-eval.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-lineseg/seg-eval.h
+END
+ocr-cseg-ccs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-lineseg/ocr-cseg-ccs.cc
+END
+seg-cuts.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-lineseg/seg-cuts.cc
+END
+seg-skel.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-lineseg/seg-skel.cc
+END

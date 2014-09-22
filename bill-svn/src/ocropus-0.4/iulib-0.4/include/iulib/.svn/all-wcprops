@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/include/iulib
+END
+imgtrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/include/iulib/imgtrace.h
+END
+imgbits.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/include/iulib/imgbits.h
+END
+imgops.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/include/iulib/imgops.h
+END
+imglabels.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/include/iulib/imglabels.h
+END
+imgthin.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/include/iulib/imgthin.h
+END
+autoinvert.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/include/iulib/autoinvert.h
+END
+imgbitptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/include/iulib/imgbitptr.h
+END
+imglib.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/include/iulib/imglib.h
+END
+imgio.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/include/iulib/imgio.h
+END
+dgraphics.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/include/iulib/dgraphics.h
+END
+iulib.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/include/iulib/iulib.h
+END
+imggraymorph.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/include/iulib/imggraymorph.h
+END
+imgfilters.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/include/iulib/imgfilters.h
+END
+io_pbm.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/include/iulib/io_pbm.h
+END
+imgmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/include/iulib/imgmap.h
+END
+vidio.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/include/iulib/vidio.h
+END
+imgrescale.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/include/iulib/imgrescale.h
+END
+io_png.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/include/iulib/io_png.h
+END
+io_jpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/include/iulib/io_jpeg.h
+END
+imggauss.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/include/iulib/imggauss.h
+END
+imgrle.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/include/iulib/imgrle.h
+END
+io_tiff.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/include/iulib/io_tiff.h
+END
+imgmorph.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/include/iulib/imgmorph.h
+END
+imgedges.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/include/iulib/imgedges.h
+END
+imgbrushfire.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/include/iulib/imgbrushfire.h
+END
+imgmisc.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/include/iulib/imgmisc.h
+END
+bithacks.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/include/iulib/bithacks.h
+END

@@ -1,0 +1,558 @@
+ambiguous_words.o: ambiguous_words.cpp /usr/include/stdio.h \
+ /gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include-fixed/features.h \
+ /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+ /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
+ /gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include/stddef.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/libio.h /usr/include/_G_config.h \
+ /gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include-fixed/wchar.h \
+ /usr/include/bits/wchar.h /usr/include/gconv.h \
+ /gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/bits/stdio.h ../api/baseapi.h ../ccutil/platform.h \
+ /gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include-fixed/limits.h \
+ /gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include-fixed/syslimits.h \
+ /usr/include/limits.h /usr/include/bits/posix1_lim.h \
+ /usr/include/bits/local_lim.h /usr/include/linux/limits.h \
+ /usr/include/bits/posix2_lim.h /usr/include/bits/xopen_lim.h \
+ ../api/apitypes.h ../ccstruct/publictypes.h ../ccmain/thresholder.h \
+ ../ccutil/unichar.h /usr/include/memory.h /usr/include/string.h \
+ /usr/include/xlocale.h ../ccutil/tesscallback.h ../ccutil/host.h \
+ ../ccutil/platform.h ../ccmain/pageiterator.h ../ccmain/resultiterator.h \
+ ../ccmain/ltrresultiterator.h ../ccmain/pageiterator.h \
+ ../ccutil/unicharset.h /usr/include/assert.h ../ccutil/strngs.h \
+ ../ccutil/memry.h ../ccutil/serialis.h /usr/include/stdlib.h \
+ /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
+ /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/sys/types.h /usr/include/time.h /usr/include/sys/select.h \
+ /usr/include/bits/select.h /usr/include/bits/sigset.h \
+ /usr/include/bits/time.h \
+ /gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include-fixed/sys/sysmacros.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/alloca.h \
+ ../ccutil/errcode.h ../ccutil/fileerr.h ../ccutil/unichar.h \
+ ../ccutil/unicharmap.h ../ccutil/params.h ../ccutil/genericvector.h \
+ ../ccutil/tesscallback.h ../ccutil/helpers.h ../ccutil/ndminx.h \
+ ../ccutil/genericvector.h ../ccutil/helpers.h ../ccutil/strngs.h \
+ ../dict/dict.h ../ccutil/ambigs.h ../ccutil/elst.h ../ccutil/lsterr.h \
+ ../ccutil/tprintf.h ../ccutil/unicharset.h ../dict/dawg.h \
+ ../ccutil/elst.h ../ccstruct/ratngs.h ../ccutil/clst.h \
+ ../ccutil/notdll.h ../ccstruct/werd.h ../ccutil/params.h \
+ ../ccutil/bits16.h ../ccutil/elst2.h ../ccstruct/blckerr.h \
+ ../ccutil/errcode.h ../ccstruct/stepblob.h ../ccstruct/coutln.h \
+ ../ccstruct/crakedge.h ../ccstruct/points.h /usr/include/math.h \
+ /usr/include/bits/huge_val.h /usr/include/bits/huge_valf.h \
+ /usr/include/bits/huge_vall.h /usr/include/bits/inf.h \
+ /usr/include/bits/nan.h /usr/include/bits/mathdef.h \
+ /usr/include/bits/mathcalls.h /usr/include/bits/mathinline.h \
+ ../ccstruct/ipoints.h ../ccstruct/mod128.h ../ccstruct/rect.h \
+ ../ccutil/ndminx.h ../viewer/scrollview.h ../config_auto.h \
+ ../ccutil/tprintf.h ../ccstruct/ocrrow.h ../ccstruct/quspline.h \
+ ../ccstruct/quadratc.h ../ccutil/serialis.h ../ccutil/memry.h \
+ ../ccutil/host.h ../image/image.h ../cutil/oldlist.h ../cutil/cutil.h \
+ ../cutil/cutil_class.h ../ccutil/ccutil.h ../ccutil/ambigs.h \
+ ../ccutil/tessdatamanager.h /usr/include/pthread.h /usr/include/sched.h \
+ /usr/include/bits/sched.h /usr/include/signal.h \
+ /usr/include/bits/setjmp.h /usr/include/semaphore.h \
+ /usr/include/bits/semaphore.h ../cutil/const.h ../dict/stopper.h \
+ ../dict/states.h ../dict/trie.h ../cutil/cutil.h ../dict/permute.h \
+ ../ccmain/tesseractclass.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./allheaders.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./alltypes.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./environ.h \
+ /gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include/stdint.h \
+ /usr/include/stdint.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./array.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./arrayaccess.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./bbuffer.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./bmf.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./ccbord.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./dewarp.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./gplot.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./heap.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./imageio.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./jbclass.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./list.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./morph.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./pix.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./ptra.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./queue.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./regutils.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./sudoku.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./stack.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./watershed.h \
+ /gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./leptprotos.h \
+ ../ccmain/control.h ../ccstruct/ocrblock.h ../image/img.h \
+ ../ccstruct/ocrpara.h ../ccstruct/publictypes.h ../ccstruct/pdblock.h \
+ ../ccstruct/polyblk.h ../ccstruct/hpddef.h ../ccstruct/statistc.h \
+ ../ccstruct/pageres.h ../ccstruct/blobs.h ../ccstruct/vecfuncs.h \
+ ../ccstruct/boxword.h ../ccstruct/normalis.h ../ccstruct/ocrblock.h \
+ ../ccstruct/params_training_featdef.h ../ccstruct/ratngs.h \
+ ../ccstruct/rejctmap.h ../ccstruct/seam.h ../ccstruct/split.h \
+ ../cutil/tessarray.h ../ccmain/docqual.h \
+ ../textord/devanagari_processing.h ../ccutil/ocrclass.h \
+ /usr/include/sys/time.h ../textord/textord.h ../ccstruct/ccstruct.h \
+ ../ccstruct/blobbox.h ../ccstruct/statistc.h ../textord/gap_map.h \
+ ../wordrec/wordrec.h ../wordrec/associate.h ../ccstruct/blobs.h \
+ ../ccstruct/matrix.h ../ccstruct/seam.h ../ccstruct/split.h \
+ ../dict/states.h ../classify/classify.h ../classify/adaptive.h \
+ ../classify/intproto.h ../dict/matchdefs.h ../classify/mfoutline.h \
+ ../classify/fpoint.h ../classify/baseline.h ../classify/protos.h \
+ ../cutil/bitvec.h ../ccutil/unicity_table.h ../classify/classify.h \
+ ../classify/featdefs.h ../classify/ocrfeatures.h ../ccstruct/fontinfo.h \
+ ../classify/intfx.h ../ccstruct/normalis.h ../classify/intmatcher.h \
+ ../classify/cutoffs.h ../wordrec/language_model.h ../dict/dawg.h \
+ ../classify/intproto.h ../cutil/oldheap.h ../wordrec/matchtab.h \
+ ../wordrec/gradechop.h ../wordrec/findseam.h ../wordrec/chop.h \
+ ../cutil/callcpp.h
+
+/usr/include/stdio.h:
+
+/gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include-fixed/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include/stddef.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include-fixed/wchar.h:
+
+/usr/include/bits/wchar.h:
+
+/usr/include/gconv.h:
+
+/gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include/stdarg.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/bits/sys_errlist.h:
+
+/usr/include/bits/stdio.h:
+
+../api/baseapi.h:
+
+../ccutil/platform.h:
+
+/gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include-fixed/limits.h:
+
+/gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include-fixed/syslimits.h:
+
+/usr/include/limits.h:
+
+/usr/include/bits/posix1_lim.h:
+
+/usr/include/bits/local_lim.h:
+
+/usr/include/linux/limits.h:
+
+/usr/include/bits/posix2_lim.h:
+
+/usr/include/bits/xopen_lim.h:
+
+../api/apitypes.h:
+
+../ccstruct/publictypes.h:
+
+../ccmain/thresholder.h:
+
+../ccutil/unichar.h:
+
+/usr/include/memory.h:
+
+/usr/include/string.h:
+
+/usr/include/xlocale.h:
+
+../ccutil/tesscallback.h:
+
+../ccutil/host.h:
+
+../ccutil/platform.h:
+
+../ccmain/pageiterator.h:
+
+../ccmain/resultiterator.h:
+
+../ccmain/ltrresultiterator.h:
+
+../ccmain/pageiterator.h:
+
+../ccutil/unicharset.h:
+
+/usr/include/assert.h:
+
+../ccutil/strngs.h:
+
+../ccutil/memry.h:
+
+../ccutil/serialis.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/bits/waitflags.h:
+
+/usr/include/bits/waitstatus.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/time.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/bits/select.h:
+
+/usr/include/bits/sigset.h:
+
+/usr/include/bits/time.h:
+
+/gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include-fixed/sys/sysmacros.h:
+
+/usr/include/bits/pthreadtypes.h:
+
+/usr/include/alloca.h:
+
+../ccutil/errcode.h:
+
+../ccutil/fileerr.h:
+
+../ccutil/unichar.h:
+
+../ccutil/unicharmap.h:
+
+../ccutil/params.h:
+
+../ccutil/genericvector.h:
+
+../ccutil/tesscallback.h:
+
+../ccutil/helpers.h:
+
+../ccutil/ndminx.h:
+
+../ccutil/genericvector.h:
+
+../ccutil/helpers.h:
+
+../ccutil/strngs.h:
+
+../dict/dict.h:
+
+../ccutil/ambigs.h:
+
+../ccutil/elst.h:
+
+../ccutil/lsterr.h:
+
+../ccutil/tprintf.h:
+
+../ccutil/unicharset.h:
+
+../dict/dawg.h:
+
+../ccutil/elst.h:
+
+../ccstruct/ratngs.h:
+
+../ccutil/clst.h:
+
+../ccutil/notdll.h:
+
+../ccstruct/werd.h:
+
+../ccutil/params.h:
+
+../ccutil/bits16.h:
+
+../ccutil/elst2.h:
+
+../ccstruct/blckerr.h:
+
+../ccutil/errcode.h:
+
+../ccstruct/stepblob.h:
+
+../ccstruct/coutln.h:
+
+../ccstruct/crakedge.h:
+
+../ccstruct/points.h:
+
+/usr/include/math.h:
+
+/usr/include/bits/huge_val.h:
+
+/usr/include/bits/huge_valf.h:
+
+/usr/include/bits/huge_vall.h:
+
+/usr/include/bits/inf.h:
+
+/usr/include/bits/nan.h:
+
+/usr/include/bits/mathdef.h:
+
+/usr/include/bits/mathcalls.h:
+
+/usr/include/bits/mathinline.h:
+
+../ccstruct/ipoints.h:
+
+../ccstruct/mod128.h:
+
+../ccstruct/rect.h:
+
+../ccutil/ndminx.h:
+
+../viewer/scrollview.h:
+
+../config_auto.h:
+
+../ccutil/tprintf.h:
+
+../ccstruct/ocrrow.h:
+
+../ccstruct/quspline.h:
+
+../ccstruct/quadratc.h:
+
+../ccutil/serialis.h:
+
+../ccutil/memry.h:
+
+../ccutil/host.h:
+
+../image/image.h:
+
+../cutil/oldlist.h:
+
+../cutil/cutil.h:
+
+../cutil/cutil_class.h:
+
+../ccutil/ccutil.h:
+
+../ccutil/ambigs.h:
+
+../ccutil/tessdatamanager.h:
+
+/usr/include/pthread.h:
+
+/usr/include/sched.h:
+
+/usr/include/bits/sched.h:
+
+/usr/include/signal.h:
+
+/usr/include/bits/setjmp.h:
+
+/usr/include/semaphore.h:
+
+/usr/include/bits/semaphore.h:
+
+../cutil/const.h:
+
+../dict/stopper.h:
+
+../dict/states.h:
+
+../dict/trie.h:
+
+../cutil/cutil.h:
+
+../dict/permute.h:
+
+../ccmain/tesseractclass.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./allheaders.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./alltypes.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./environ.h:
+
+/gpfs/apps/x86_64-rhel5/gcc/4.5.1/bin/../lib/gcc/x86_64-unknown-linux-gnu/4.5.1/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./array.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./arrayaccess.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./bbuffer.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./bmf.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./ccbord.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./dewarp.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./gplot.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./heap.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./imageio.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./jbclass.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./list.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./morph.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./pix.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./ptra.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./queue.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./regutils.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./sudoku.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./stack.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./watershed.h:
+
+/gpfs/home/wjb19/work/fig2xml/figstuff/src/ocropus-0.4/leptonica-1.68/include/leptonica/./leptprotos.h:
+
+../ccmain/control.h:
+
+../ccstruct/ocrblock.h:
+
+../image/img.h:
+
+../ccstruct/ocrpara.h:
+
+../ccstruct/publictypes.h:
+
+../ccstruct/pdblock.h:
+
+../ccstruct/polyblk.h:
+
+../ccstruct/hpddef.h:
+
+../ccstruct/statistc.h:
+
+../ccstruct/pageres.h:
+
+../ccstruct/blobs.h:
+
+../ccstruct/vecfuncs.h:
+
+../ccstruct/boxword.h:
+
+../ccstruct/normalis.h:
+
+../ccstruct/ocrblock.h:
+
+../ccstruct/params_training_featdef.h:
+
+../ccstruct/ratngs.h:
+
+../ccstruct/rejctmap.h:
+
+../ccstruct/seam.h:
+
+../ccstruct/split.h:
+
+../cutil/tessarray.h:
+
+../ccmain/docqual.h:
+
+../textord/devanagari_processing.h:
+
+../ccutil/ocrclass.h:
+
+/usr/include/sys/time.h:
+
+../textord/textord.h:
+
+../ccstruct/ccstruct.h:
+
+../ccstruct/blobbox.h:
+
+../ccstruct/statistc.h:
+
+../textord/gap_map.h:
+
+../wordrec/wordrec.h:
+
+../wordrec/associate.h:
+
+../ccstruct/blobs.h:
+
+../ccstruct/matrix.h:
+
+../ccstruct/seam.h:
+
+../ccstruct/split.h:
+
+../dict/states.h:
+
+../classify/classify.h:
+
+../classify/adaptive.h:
+
+../classify/intproto.h:
+
+../dict/matchdefs.h:
+
+../classify/mfoutline.h:
+
+../classify/fpoint.h:
+
+../classify/baseline.h:
+
+../classify/protos.h:
+
+../cutil/bitvec.h:
+
+../ccutil/unicity_table.h:
+
+../classify/classify.h:
+
+../classify/featdefs.h:
+
+../classify/ocrfeatures.h:
+
+../ccstruct/fontinfo.h:
+
+../classify/intfx.h:
+
+../ccstruct/normalis.h:
+
+../classify/intmatcher.h:
+
+../classify/cutoffs.h:
+
+../wordrec/language_model.h:
+
+../dict/dawg.h:
+
+../classify/intproto.h:
+
+../cutil/oldheap.h:
+
+../wordrec/matchtab.h:
+
+../wordrec/gradechop.h:
+
+../wordrec/findseam.h:
+
+../wordrec/chop.h:
+
+../cutil/callcpp.h:

@@ -1,0 +1,63 @@
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="Author" CONTENT="Michael J. Sammon">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.05 [en] (Win95; U) [Netscape]">
+   <TITLE>lpfltr</TITLE>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#0000EE" VLINK="#551A8B" ALINK="#FF0000">
+
+<CENTER><B><FONT SIZE=+3>lpfltr</FONT></B></CENTER>
+
+
+<P><TT>USAGE: lpfltr inimg outimg [-f CUTOFF &lt;0.50>] [-s FLTRSIZE &lt;odd>]</TT>
+<BR><TT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[-q QUICK_FLAG] [-L]</TT>
+
+<P><TT>lpfltr performs low-pass filtering upon image</TT>
+<BR><TT>using filter window of chosen size; the default is to use</TT>
+<BR><TT>a Gaussian-shaped filter window.</TT>
+
+<P><TT>ARGUMENTS:</TT>
+<BR><TT>&nbsp;&nbsp;&nbsp; inimg: input image filename (TIF)</TT>
+<BR><TT>&nbsp;&nbsp; outimg: output image filename (TIF)</TT>
+
+<P><TT>OPTIONS:</TT>
+<BR><TT>&nbsp;&nbsp;&nbsp;&nbsp; -f CUTOFF: &lt;0.0 to 0.5> is the fraction
+of the passband;</TT>
+<BR><TT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+the default is 0.25, that is half of original passband.</TT>
+<BR><TT>&nbsp; -s FLTR_SIZE: is the size of the filter; this will override</TT>
+<BR><TT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+the size that would otherwise be automatically set from</TT>
+<BR><TT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+the cutoff frequency; this size must be odd.</TT>
+<BR><TT>&nbsp;-q QUICK_FLAG: for quick (and dirty) rectangular filtering;</TT>
+<BR><TT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+NOTE: specifying both cutoff frequency and filter</TT>
+<BR><TT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+size are redundant for the rectangular filter;</TT>
+<BR><TT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+the cutoff is used if both are specified.</TT>
+<BR><TT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+-L: print Software License for this module</TT>
+<BR>&nbsp;
+
+<P>&nbsp;
+<BR>&nbsp;
+
+<P><B><FONT SIZE=+1>Example:</FONT></B>
+
+<P><TT>lpfltr stripe7.tif stripe7L7.tif -s 7</TT>
+
+<P><TT>stripe7.tif:</TT>
+
+<P><IMG SRC="stripe7.gif" BORDER=1 HEIGHT=159 WIDTH=169>
+
+<P><TT>stripe7L7.tif:</TT>
+
+<P><IMG SRC="stripe7L7.gif" BORDER=1 HEIGHT=159 WIDTH=169>
+
+<P>Copyright (C) 1999 MLMSoftware Group, LLC.
+</BODY>
+</HTML>

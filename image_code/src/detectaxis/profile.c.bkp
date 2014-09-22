@@ -1,0 +1,237 @@
+
+/* PROFILE:     program calculates horizontal or vertical profile of image
+ *                    usage: profile inimg outimg [-h || -v] [-s SIZE] [-L]
+ */
+
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+#include "tiffimage.h"          /* picfile info on images */
+#include "images.h"
+//extern void print_sos_lic ();
+
+#define ON 0                    /* binarization values */
+#define OFF 255			//should be checked!--!
+#define PROFILE_DFLT 0          /* =0 for horizontal; =1 for vertical prof. */
+#define PROFILE_HEIGHT 200      /* height of profile for display */
+
+long usage (short);
+long input (int, char **, short *, long *, short *);
+
+
+main (argc, argv)
+     int argc;
+     char *argv[];
+{
+  Image *imgI, *imgO, *imgC;           /* input and output image structures */
+  unsigned char **imgIn, **imgOut, **imgc, *imgC="_Curve.pgm", *imgX ="_Xaxis.pgm", *imgY="_Yaxis.pgm", *imgLeg="_legend.pgm";  /* input and output images */
+  long *profile;                /* horizontal or vertical profile vector */
+  long widthI, heightI;         /* image size */
+  short horizOrVert;            /* flag =0 for horiz; = 1 for vert. profile */
+  long profLength;              /* length of profile */
+  long profHeight;              /* height of profile for display */
+  short printFlag;              /* to print out profile data */
+  long sum, maxSum=0;             /* sum and max. sum of profile values */
+  long x, y;
+  long hx=0, hy=0;	
+
+/* user input */
+  if (input (argc, argv, &horizOrVert, &profHeight, &printFlag) < 0)
+    return (-1);
+
+  imgI = ImageIn (argv[1]);
+  imgIn = imgI->img;
+  heightI = ImageGetHeight (imgI);
+  widthI = ImageGetWidth (imgI);
+  printf ("image size is %dx%d\n", widthI, heightI);
+  /*Prepare output image names */
+  char *p, *q; p=q=argv[1];
+  while(*p != '\0') p++;
+  while(*p != '.') p--; *p='\0';
+  imgC = strcat(q,imgC);
+  imgX = strcat(q,imgX);
+  imgY = strcat(q,imgY);
+  imgLeg = strcat(q,imgLeg);
+
+ 
+  	
+/* determine horizontal or vertical profile */
+
+    /* horizontal profile */
+    profLength = widthI;
+    imgO = ImageAlloc (profHeight, profLength, 8);
+    imgOut = ImageGetPtr (imgO);
+    for (y = 0; y < profHeight; y++)
+      for (x = 0; x < profLength; x++)
+        imgOut[y][x] = 255;
+
+    if ((profile = (long *) calloc (profLength, sizeof (long))) == NULL) {
+      printf ("PROFILE: not enough memory -- sorry.\n");
+      return (-1);
+    }
+
+    for (x = 0; x < widthI; x++) {
+      for (y = 0, sum = 0; y < heightI; y++) {
+        if (imgIn[y][x] == OFF)
+          sum++;
+      }
+      profile[x] = sum;
+     // if (printFlag != 0)
+        printf ("%ld\n", x);
+      if (sum > maxSum){
+        maxSum = sum;
+	hx=x;
+	printf("hx=%ld", x);
+      }
+    }
+ // }
+
+  //else {                        /* vertical profile */
+    profLength = heightI;
+    imgO = ImageAlloc (profLength, profHeight, 8);
+    imgOut = ImageGetPtr (imgO);
+    for (y = 0; y < profLength; y++)
+      for (x = 0; x < profHeight; x++)
+        imgOut[y][x] = 255;
+
+    if ((profile = (long *) calloc (profLength, sizeof (long))) == NULL) {
+      printf ("PROFILE: not enough memory -- sorry.\n");
+      return (-1);
+    }
+
+    for (y = 0, maxSum = 0, hy = 0; y < heightI; y++) {
+      for (x = 0, sum = 0; x < widthI; x++) {
+        if (imgIn[y][x] == OFF)
+          sum++;
+      }
+      profile[y] = sum;
+      //if (printFlag != 0)
+        //printf ("%ld\n", y);
+      if (sum > maxSum){
+        maxSum = sum;
+	hy = y;
+	printf("hy = %ld", y);
+      }
+    }
+ // }
+
+/* determine output image profile */
+  for (x = 0; x < profLength; x++)
+    profile[x] = (long) ((double) profile[x] *
+                         (double) profHeight / (double) maxSum + 0.5);
+
+ // if (horizOrVert == 0) {       /* horizontal profile */
+    for (x = 0; x < profLength; x++)
+      for (y = profHeight - profile[x]; y < profHeight; y++) //as it start from the top of the image. 
+        imgOut[y][x] = ON;
+ // }
+ // else {                        /* vertical profile */
+    for (y = 0; y < profLength; y++)
+      for (x = 0; x < profile[y]; x++)
+        imgOut[y][x] = ON;
+ // }
+
+  printf("hx = %ld\n", hx);
+  printf("hy = %ld\n", hy);	
+  ImageOut (argv[2], imgO);
+  imgC = ImageAlloc (hy, widthI-hx, 8);
+   imgc = ImageGetPtr (imgC);
+    for (y = 0; y < hy; y++)
+      for (x = 0; x < widthI-hx; x++)
+        imgc[y][x] = ON;
+  
+    for (y = 0; y < hy; y++)
+      for (x = 0; x < widthI - hx; x++)
+        if (imgIn[y][hx+x] == OFF)
+		imgc[y][x] = OFF;
+
+  ImageOut (argv[3], imgC);
+
+
+
+  return (0);
+}
+
+
+
+
+/* USAGE:       function gives instructions on usage of program
+ *                    usage: usage (flag)
+ *              When flag is 1, the long message is given, 0 gives short.
+ */
+
+long
+usage (flag)
+     short flag;                /* flag =1 for long message; =0 for short message */
+{
+
+/* print short usage message or long */
+  printf ("USAGE: profile inimg outimg out_content_img [-h || -v] [-s SIZE] [-p] [-L]\n");
+  if (flag == 0)
+    return (-1);
+
+  printf ("\nprofile determines the horizontal or vertical profile\n");
+  printf ("of a binary image, that is the summation of ON pixel values along\n");
+  printf ("the y-axis or the x-axis respectively; default is horizontal.\n\n");
+  printf ("ARGUMENTS:\n");
+  printf ("    inimg: input image filename (TIF)\n");
+  printf ("   outimg: output image filename (TIF)\n\n");
+  printf ("OPTIONS:\n");
+  printf ("  [-h || -v]: horizontal or vertical profile respectively.\n");
+  printf ("     -s SIZE: height of horizontal profile or width of vertical\n");
+  printf ("              profile (default = %d)\n", PROFILE_HEIGHT);
+  printf ("          -p: PRINT DATA FLAG if set, prints profile heights.\n");
+  printf ("          -L: print Software License for this module\n");
+
+  return (-1);
+}
+
+
+/* INPUT:       function reads input parameters
+ *                  usage: input (argc, argv, &horizOrVert, &profHeight)
+ */
+
+#define USAGE_EXIT(VALUE) {usage (VALUE); return (-1);}
+
+long
+input (argc, argv, horizOrVert, profHeight, printFlag)
+     int argc;
+     char *argv[];
+     short *horizOrVert;        /* flag =0 for horizontal or =1 for vertical */
+     long *profHeight;          /* height of profile for display */
+     short *printFlag;          /* if =1, prints profile data; otherwise no */
+{
+  long n;
+
+  if (argc == 1)
+    USAGE_EXIT (1);
+  if (argc == 2)
+    USAGE_EXIT (0);
+
+  *horizOrVert = PROFILE_DFLT;
+  *profHeight = PROFILE_HEIGHT;
+  *printFlag = 0;
+
+  for (n = 4; n < argc; n++) {
+    if (strcmp (argv[n], "-h") == 0)
+      *horizOrVert = 0;
+    else if (strcmp (argv[n], "-v") == 0)
+      *horizOrVert = 1;
+    else if (strcmp (argv[n], "-s") == 0) {
+      if (++n == argc)
+        USAGE_EXIT (0);
+      *profHeight = atol (argv[n]);
+    }
+    else if (strcmp (argv[n], "-p") == 0) {
+      *printFlag = 1;
+    }
+    else if (strcmp (argv[n], "-L") == 0) {
+      print_sos_lic ();
+      exit (0);
+    }
+    else
+      USAGE_EXIT (0);
+  }
+
+  return (0);
+}

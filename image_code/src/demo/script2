@@ -1,0 +1,10 @@
+#!/bin/bash
+
+../../binlin/profile sample2.pgm
+../../binlin/medfltr sample2_Curve.pgm sample2_Curve.pgm
+
+
+../../binlin/vertlinefltr sample2_Curve.pgm sample2_Curve.pgm -s 11
+../../binlin/horzlinefltr sample2_Curve.pgm sample2_Curve.pgm -s 11
+../../binlin/extractdata sample2_Curve.pgm sample2_Curve.pgm
+

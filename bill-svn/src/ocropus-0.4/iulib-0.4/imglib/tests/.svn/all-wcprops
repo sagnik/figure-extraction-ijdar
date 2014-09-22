@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/tests
+END
+test-imggauss.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/tests/test-imggauss.cc
+END
+test-imglabels.cc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/tests/test-imglabels.cc
+END
+bigtest-imgedges.cc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/tests/bigtest-imgedges.cc
+END
+test-imgbrushfire.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/tests/test-imgbrushfire.cc
+END
+test-imgmisc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/tests/test-imgmisc.cc
+END
+test-imgmap.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/tests/test-imgmap.cc
+END
+broken-test-imgthin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/tests/broken-test-imgthin.cc
+END

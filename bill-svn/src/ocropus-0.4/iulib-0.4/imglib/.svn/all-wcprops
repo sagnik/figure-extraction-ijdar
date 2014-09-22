@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib
+END
+imgtrace.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/imgtrace.cc
+END
+imgtrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/imgtrace.h
+END
+imgops.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/imgops.cc
+END
+imgthin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/imgthin.cc
+END
+imgthin.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/imgthin.h
+END
+imgmap.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/imgmap.cc
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/Jamfile
+END
+imgmorph.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/imgmorph.h
+END
+imgedges.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/imgedges.cc
+END
+imgbrushfire.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/imgbrushfire.cc
+END
+imgmisc.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/imgmisc.h
+END
+imglabels.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/imglabels.cc
+END
+imgops.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/imgops.h
+END
+imglabels.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/imglabels.h
+END
+imgfilters.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/imgfilters.cc
+END
+imglib.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/imglib.h
+END
+imggraymorph.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/imggraymorph.cc
+END
+iulib.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/iulib.h
+END
+imgfilters.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/imgfilters.h
+END
+imggraymorph.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/imggraymorph.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/README
+END
+imgrescale.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/imgrescale.cc
+END
+imgmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/imgmap.h
+END
+imgrescale.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/imgrescale.h
+END
+imggauss.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/imggauss.cc
+END
+imggauss.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/imggauss.h
+END
+imgmorph.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/imgmorph.cc
+END
+imgedges.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/imgedges.h
+END
+imgmisc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/imgmisc.cc
+END
+imgbrushfire.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/imgbrushfire.h
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/iulib-0.4/imglib/OWNERS
+END

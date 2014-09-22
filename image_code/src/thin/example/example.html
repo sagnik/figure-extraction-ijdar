@@ -1,0 +1,50 @@
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="Author" CONTENT="Michael J. Sammon">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.05 [en] (Win95; U) [Netscape]">
+   <TITLE>thin</TITLE>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#0000EE" VLINK="#551A8B" ALINK="#FF0000">
+
+<CENTER><B><FONT SIZE=+3>thin</FONT></B></CENTER>
+
+
+<P><TT>USAGE: thin inimg outimg [-k K] [-n MAXITER] [-d DISPLAY] [-I] [-L]</TT>
+
+<P><TT>thin performs iterative thinning of binary objects</TT>
+<BR><TT>in input image to produce skeleton image with values</TT>
+<BR><TT>OFF (0) anf ON (255)</TT>
+
+<P><TT>ARGUMENTS:</TT>
+<BR><TT>&nbsp;&nbsp;&nbsp; inimg: input image filename (TIF)</TT>
+<BR><TT>&nbsp;&nbsp; outimg: output image filename (TIF)</TT>
+
+<P><TT>OPTIONS:</TT>
+<BR><TT>&nbsp;&nbsp;&nbsp;&nbsp; -k K: window size for kxk mask (k >= 3,
+default = 3)</TT>
+<BR><TT>&nbsp;-n NITER: maximum number of iterations (default max = 20)</TT>
+<BR><TT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -d: to display results of
+each iteration (&lt; 40x40 image)</TT>
+<BR><TT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -I: invert input image before
+processing</TT>
+<BR><TT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -L: print Software License
+for this module</TT>
+<BR>&nbsp;
+<BR>&nbsp;
+
+<P><B><FONT SIZE=+1>Example:</FONT></B>
+
+<P><TT>thin magstrp.tif magstrpTH.tif</TT>
+
+<P><TT>magstrp.tif:</TT>
+
+<P><IMG SRC="magstrp.gif" BORDER=1 HEIGHT=480 WIDTH=512>
+
+<P><TT>magstrpTH.tif:</TT>
+
+<P><IMG SRC="magstrpTH.gif" BORDER=1 HEIGHT=480 WIDTH=512>
+
+<P>Copyright (C) 1999 MLMSoftware Group, LLC.
+</BODY>
+</HTML>

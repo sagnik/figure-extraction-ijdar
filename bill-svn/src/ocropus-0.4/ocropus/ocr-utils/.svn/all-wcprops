@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils
+END
+docproc.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/docproc.h
+END
+init-ocropus.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/init-ocropus.cc
+END
+init-ocropus.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/init-ocropus.h
+END
+pagesegs.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/pagesegs.h
+END
+narray-io.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/narray-io.cc
+END
+narray-io.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/narray-io.h
+END
+stringutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/stringutil.h
+END
+didegrade.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/didegrade.cc
+END
+editdist.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/editdist.cc
+END
+editdist.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/editdist.h
+END
+sysutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/sysutil.h
+END
+logger.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/logger.cc
+END
+logger.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/logger.h
+END
+xml-entities.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/xml-entities.cc
+END
+grouper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/grouper.cc
+END
+components.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/components.cc
+END
+components.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/components.h
+END
+narray-binio.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/narray-binio.h
+END
+pagesegs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/pagesegs.cc
+END
+segmentation.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/segmentation.h
+END
+pages.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/pages.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/README
+END
+linesegs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/linesegs.cc
+END
+didegrade.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/didegrade.h
+END
+linesegs.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/linesegs.h
+END
+arraypaint.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/arraypaint.h
+END
+sysutil.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/sysutil.cc
+END
+resource-path.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/resource-path.cc
+END
+ocr-utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/ocr-utils.cc
+END
+enumerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/enumerator.h
+END
+resource-path.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/resource-path.h
+END
+ocr-utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/ocr-utils.h
+END
+xml-entities.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/xml-entities.h
+END
+queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/queue.h
+END
+grid.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/grid.h
+END
+ocrinterfaces.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-utils/ocrinterfaces.h
+END

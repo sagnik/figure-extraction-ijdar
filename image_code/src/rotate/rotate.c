@@ -1,0 +1,44 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+#include <string.h>
+#include "images.h"
+#include "tiffimage.h"          /* tiff file format info */
+/* extern void print_sos_lic (); */
+unsigned char **image;
+int main(argc, argv)
+	int argc;
+	char *argv[];
+{
+Image *imgOC, *imgOX;
+Image *imgIO;
+unsigned char **imgOutC, **imgOutX;
+imgIO = ImageIn (argv[1]);
+image = imgIO->img;
+long width = ImageGetWidth(imgIO);
+long height = ImageGetHeight(imgIO);
+long x,y;
+imgOC = ImageAlloc (width, height, 8);
+	imgOutC = ImageGetPtr (imgOC);
+imgOX = ImageAlloc (width, height, 8);
+	imgOutX = ImageGetPtr (imgOX);
+
+
+
+	for (y = 0; y <width ; y++)
+		for (x = 0; x < height; x++)
+	imgOutC[y][x] = image[x][y];
+	for (y = 0; y <width ; y++)
+		for (x = 0; x < height; x++)  
+		imgOutX[y][x] = imgOutC[y][height-x-1]; 
+     //imgOutC[y][x] = image[x][y];
+ ImageOut (argv[2], imgOX);
+  free(imgIO->img[0]);
+  free(imgIO);
+
+ return(0);
+}
+
+
+
+

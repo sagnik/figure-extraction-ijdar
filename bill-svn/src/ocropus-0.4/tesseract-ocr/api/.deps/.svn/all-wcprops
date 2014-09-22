@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/api/.deps
+END
+dummy.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/api/.deps/dummy.Plo
+END
+libtesseract_api_la-baseapi.Plo
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/api/.deps/libtesseract_api_la-baseapi.Plo
+END
+tesseract-tesseractmain.Po
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/tesseract-ocr/api/.deps/tesseract-tesseractmain.Po
+END

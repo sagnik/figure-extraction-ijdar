@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/drawing
+END
+read_image.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/drawing/read_image.h
+END
+color.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/drawing/color.h
+END
+draw_line.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/drawing/draw_line.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/drawing/main.c
+END
+draw_point.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/drawing/draw_point.c
+END
+draw_rect.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/drawing/draw_rect.c
+END
+function.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/drawing/function.h
+END
+make_map.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/drawing/make_map.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/drawing/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/drawing/README
+END
+write_image.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/drawing/write_image.c
+END
+read_image.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/drawing/read_image.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/drawing/util.c
+END

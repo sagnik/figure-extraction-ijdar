@@ -1,0 +1,3413 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog
+END
+morphtemplate2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/morphtemplate2.txt
+END
+findpattern2.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/findpattern2.c
+END
+compfilter_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/compfilter_reg.c
+END
+paintmask_reg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/paintmask_reg
+END
+alphaclean_reg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/alphaclean_reg
+END
+converttogray.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/converttogray.c
+END
+flipselgen
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/flipselgen
+END
+maketile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/maketile
+END
+otsutest1.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/otsutest1.c
+END
+pixserial_reg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pixserial_reg
+END
+pdfiotest
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pdfiotest
+END
+dewarptest.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/dewarptest.c
+END
+sorttest.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/sorttest.c
+END
+numaranktest
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/numaranktest
+END
+writetext_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/writetext_reg.c
+END
+weasel4.16c.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/weasel4.16c.png
+END
+conversion_reg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/conversion_reg
+END
+dreyfus2.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/dreyfus2.png
+END
+splitcomp_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/splitcomp_reg.c
+END
+cornertest
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/cornertest
+END
+juditharismax.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/juditharismax.jpg
+END
+barcodetest
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/barcodetest
+END
+dwamorph2_reg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/dwamorph2_reg
+END
+weasel4.5g.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/weasel4.5g.png
+END
+gammatest.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/gammatest.c
+END
+reducetest
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/reducetest
+END
+translate_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/translate_reg.c
+END
+seedspread_reg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/seedspread_reg
+END
+colorsegtest
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/colorsegtest
+END
+blender1.tif
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/blender1.tif
+END
+1555-3.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/1555-3.jpg
+END
+binarize_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/binarize_reg.c
+END
+modifyhuesat.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/modifyhuesat.c
+END
+findpattern3.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/findpattern3.c
+END
+ps2png-color
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/ps2png-color
+END
+edgetest.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/edgetest.c
+END
+test8.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/test8.jpg
+END
+graymorph1_reg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/graymorph1_reg
+END
+alltests_reg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/alltests_reg
+END
+barcode-128-300.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/barcode-128-300.png
+END
+tetons.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/tetons.jpg
+END
+printsplitimage.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/printsplitimage.c
+END
+pixmem_reg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pixmem_reg
+END
+otsutest2.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/otsutest2.c
+END
+lineremoval.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/lineremoval.c
+END
+fmorphautogen.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/fmorphautogen.c
+END
+rotatetest1.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/rotatetest1.c
+END
+rabi.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/rabi.png
+END
+scale_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/scale_reg.c
+END
+graymorph1_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/graymorph1_reg.c
+END
+testfile1.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/testfile1.pdf
+END
+conncomp_reg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/conncomp_reg
+END
+blendtext.tif
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/blendtext.tif
+END
+string_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/string_reg.c
+END
+ptra1_reg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/ptra1_reg
+END
+colorquant_reg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/colorquant_reg
+END
+keystone.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/keystone.png
+END
+weasel4.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/weasel4.png
+END
+heap_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/heap_reg.c
+END
+rasterop_reg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/rasterop_reg
+END
+fmorphauto_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/fmorphauto_reg.c
+END
+weasel8.16g.nocmap.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/weasel8.16g.nocmap.png
+END
+yuvtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/yuvtest.c
+END
+scaletest1
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/scaletest1
+END
+scaletest2
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/scaletest2
+END
+buffertest
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/buffertest
+END
+fcombautogen
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/fcombautogen
+END
+rotate2_reg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/rotate2_reg
+END
+dithertest
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/dithertest
+END
+lion-mask.00016.tif
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/lion-mask.00016.tif
+END
+hmttemplate1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/hmttemplate1.txt
+END
+blend2_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/blend2_reg.c
+END
+reducetest.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/reducetest.c
+END
+findpattern_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/findpattern_reg.c
+END
+livre_pageseg.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/livre_pageseg.c
+END
+xvdisp.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/xvdisp.c
+END
+bincompare.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/bincompare.c
+END
+rotatetest2.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/rotatetest2.c
+END
+flipselgen.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/flipselgen.c
+END
+convolvetest.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/convolvetest.c
+END
+pta_reg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pta_reg
+END
+genfonts
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/genfonts
+END
+lion-page.00010.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/lion-page.00010.jpg
+END
+quadtreetest.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/quadtreetest.c
+END
+livre_seedgen.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/livre_seedgen.c
+END
+numa_reg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/numa_reg
+END
+char.tif
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/char.tif
+END
+pdf2png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pdf2png
+END
+adaptnorm_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/adaptnorm_reg.c
+END
+edgetest
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/edgetest
+END
+ptra2_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/ptra2_reg.c
+END
+croptext
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/croptext
+END
+partitiontest
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/partitiontest
+END
+cornertest.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/cornertest.c
+END
+renderfonts.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/renderfonts.c
+END
+binmorph3_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/binmorph3_reg.c
+END
+warpertest.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/warpertest.c
+END
+scale_reg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/scale_reg
+END
+inserttest.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/inserttest.c
+END
+threshnorm_reg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/threshnorm_reg
+END
+pdfseg_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pdfseg_reg.c
+END
+graymorph2_reg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/graymorph2_reg
+END
+convolve_reg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/convolve_reg
+END
+pagesegtest1
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pagesegtest1
+END
+pagesegtest2
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pagesegtest2
+END
+logicops_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/logicops_reg.c
+END
+removecmap
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/removecmap
+END
+convertfilestopdf
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/convertfilestopdf
+END
+dewarp_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/dewarp_reg.c
+END
+ioformats_reg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/ioformats_reg
+END
+threshnorm_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/threshnorm_reg.c
+END
+digitprep1
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/digitprep1
+END
+testfile2.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/testfile2.pdf
+END
+alltests_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/alltests_reg.c
+END
+morphseq_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/morphseq_reg.c
+END
+fish24.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/fish24.jpg
+END
+rankhisto_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/rankhisto_reg.c
+END
+convertsegfilestopdf.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/convertsegfilestopdf.c
+END
+ptra2_reg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/ptra2_reg
+END
+converttops
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/converttops
+END
+watershedtest
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/watershedtest
+END
+gifio_reg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/gifio_reg
+END
+feyn-word.tif
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/feyn-word.tif
+END
+fileinfo
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/fileinfo
+END
+witten.tif
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/witten.tif
+END
+german.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/german.png
+END
+jbcorrelation
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/jbcorrelation
+END
+flipsels.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/flipsels.txt
+END
+sudoku1.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/sudoku1.dat
+END
+pdfseg_reg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pdfseg_reg
+END
+converttops.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/converttops.c
+END
+watershedtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/watershedtest.c
+END
+convertsegfilestops
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/convertsegfilestops
+END
+weasel4.11c.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/weasel4.11c.png
+END
+sharptest
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/sharptest
+END
+plottest
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/plottest
+END
+enhance_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/enhance_reg.c
+END
+dewarptest
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/dewarptest
+END
+pixaatest.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pixaatest.c
+END
+coffeebeans.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/coffeebeans.png
+END
+hmttemplate2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/hmttemplate2.txt
+END
+byteatest.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/byteatest.c
+END
+scaletest1.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/scaletest1.c
+END
+speckle2.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/speckle2.png
+END
+smoothedge_reg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/smoothedge_reg
+END
+string_reg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/string_reg
+END
+barcode-digits.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/barcode-digits.png
+END
+graymorph2_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/graymorph2_reg.c
+END
+pixadisp_reg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pixadisp_reg
+END
+graphicstest.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/graphicstest.c
+END
+gammatest
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/gammatest
+END
+yuvtest
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/yuvtest
+END
+histotest
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/histotest
+END
+dreyfus4.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/dreyfus4.png
+END
+livre_hmt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/livre_hmt
+END
+conncomp_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/conncomp_reg.c
+END
+dave-orig.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/dave-orig.png
+END
+pdf2jpeg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pdf2jpeg
+END
+compfilter_reg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/compfilter_reg
+END
+marge8.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/marge8.jpg
+END
+blend2_reg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/blend2_reg
+END
+inserttest
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/inserttest
+END
+colormorphtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/colormorphtest.c
+END
+histotest.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/histotest.c
+END
+google-searchbox.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/google-searchbox.png
+END
+pageseg1.tif
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pageseg1.tif
+END
+lucasta.150.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/lucasta.150.jpg
+END
+flipdetect_reg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/flipdetect_reg
+END
+testangle.numa
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/testangle.numa
+END
+croptext.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/croptext.c
+END
+scaletest2.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/scaletest2.c
+END
+buffertest.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/buffertest.c
+END
+fcombautogen.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/fcombautogen.c
+END
+ranktest
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/ranktest
+END
+misctest1.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/misctest1.c
+END
+contrasttest
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/contrasttest
+END
+rotatefastalt.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/rotatefastalt.c
+END
+leptonica-license
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/leptonica-license
+END
+pixalloc_reg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pixalloc_reg
+END
+convolve_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/convolve_reg.c
+END
+candelabrum-11.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/candelabrum-11.jpg
+END
+barcode-39-300.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/barcode-39-300.png
+END
+maketile.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/maketile.c
+END
+lowaccess_reg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/lowaccess_reg
+END
+sheartest.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/sheartest.c
+END
+smallpix_reg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/smallpix_reg
+END
+hardlight1_1.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/hardlight1_1.jpg
+END
+digitprep1.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/digitprep1.c
+END
+lighttext.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/lighttext.jpg
+END
+findpattern1
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/findpattern1
+END
+findpattern2
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/findpattern2
+END
+raggededge.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/raggededge.png
+END
+modifyhuesat
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/modifyhuesat
+END
+findpattern3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/findpattern3
+END
+rankbin_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/rankbin_reg.c
+END
+sudoku2.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/sudoku2.dat
+END
+lion-page.00017.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/lion-page.00017.png
+END
+byteatest
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/byteatest
+END
+grayfill_reg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/grayfill_reg
+END
+smallpix_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/smallpix_reg.c
+END
+psio_reg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/psio_reg
+END
+lion-mask.00010.tif
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/lion-mask.00010.tif
+END
+pixcomp_reg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pixcomp_reg
+END
+ccbordtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/ccbordtest.c
+END
+warper_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/warper_reg.c
+END
+binmorph4_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/binmorph4_reg.c
+END
+pdf2png-binary
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pdf2png-binary
+END
+grayfill_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/grayfill_reg.c
+END
+convertsegfilestops.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/convertsegfilestops.c
+END
+partitiontest.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/partitiontest.c
+END
+rotate1_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/rotate1_reg.c
+END
+expand_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/expand_reg.c
+END
+alphaxform_reg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/alphaxform_reg
+END
+printimage
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/printimage
+END
+pixa1_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pixa1_reg.c
+END
+tribune-word.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/tribune-word.png
+END
+morphtest1
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/morphtest1
+END
+xtractprotos
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/xtractprotos
+END
+lucasta.1.300.tif
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/lucasta.1.300.tif
+END
+kernel_reg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/kernel_reg
+END
+fmorphauto_reg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/fmorphauto_reg
+END
+license.1
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/license.1
+END
+adaptnorm_reg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/adaptnorm_reg
+END
+colormorphtest
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/colormorphtest
+END
+morphtest1.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/morphtest1.c
+END
+lucasta-frag.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/lucasta-frag.jpg
+END
+falsecolortest
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/falsecolortest
+END
+binmorph1_reg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/binmorph1_reg
+END
+numaranktest.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/numaranktest.c
+END
+binarize_reg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/binarize_reg
+END
+writemtiff.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/writemtiff.c
+END
+test24.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/test24.jpg
+END
+psioseg_reg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/psioseg_reg
+END
+grayquant_reg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/grayquant_reg
+END
+colorseg_reg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/colorseg_reg
+END
+pixtile_reg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pixtile_reg
+END
+listtest
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/listtest
+END
+pageseg2.tif
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pageseg2.tif
+END
+snapcolortest.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/snapcolortest.c
+END
+viewertest.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/viewertest.c
+END
+extrema_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/extrema_reg.c
+END
+psioseg_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/psioseg_reg.c
+END
+showedges
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/showedges
+END
+rotateorth_reg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/rotateorth_reg
+END
+psio_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/psio_reg.c
+END
+seedspread_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/seedspread_reg.c
+END
+weasel2.4g.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/weasel2.4g.png
+END
+projective_reg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/projective_reg
+END
+textlinemask
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/textlinemask
+END
+weasel-113c.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/weasel-113c.png
+END
+jbwords
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/jbwords
+END
+pixmem_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pixmem_reg.c
+END
+pixserial_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pixserial_reg.c
+END
+livre_tophat.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/livre_tophat.c
+END
+hardlight_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/hardlight_reg.c
+END
+comparetest
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/comparetest
+END
+hardlight1_2.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/hardlight1_2.jpg
+END
+trctest
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/trctest
+END
+pixalloc_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pixalloc_reg.c
+END
+feyn-fract2.tif
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/feyn-fract2.tif
+END
+pixaatest
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pixaatest
+END
+sudoku3.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/sudoku3.dat
+END
+cctest1
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/cctest1
+END
+comparetest.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/comparetest.c
+END
+selio_reg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/selio_reg
+END
+projection_reg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/projection_reg
+END
+sudokutest
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/sudokutest
+END
+splitimage2pdf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/splitimage2pdf
+END
+livre_hmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/livre_hmt.c
+END
+gifio_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/gifio_reg.c
+END
+rotateorthtest1
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/rotateorthtest1
+END
+rasterop_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/rasterop_reg.c
+END
+patent.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/patent.png
+END
+rotatetest1
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/rotatetest1
+END
+rotatetest2
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/rotatetest2
+END
+dwamorph1_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/dwamorph1_reg.c
+END
+dwalineargen.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/dwalineargen.c
+END
+test1.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/test1.png
+END
+cctest1.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/cctest1.c
+END
+italic.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/italic.png
+END
+jbrankhaus
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/jbrankhaus
+END
+convertformat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/convertformat
+END
+colorspacetest
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/colorspacetest
+END
+cootoots.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/cootoots.png
+END
+speckle4.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/speckle4.png
+END
+contrast1.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/contrast1.jpg
+END
+colorsegtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/colorsegtest.c
+END
+barcodetest1.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/barcodetest1.jpg
+END
+stampede2.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/stampede2.jpg
+END
+baselinetest.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/baselinetest.c
+END
+weasel4.8g.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/weasel4.8g.png
+END
+skewtest
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/skewtest
+END
+testscore.numa
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/testscore.numa
+END
+barcode-codabar-300.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/barcode-codabar-300.png
+END
+barcode-93-300.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/barcode-93-300.png
+END
+ps2tiff
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/ps2tiff
+END
+shear_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/shear_reg.c
+END
+feyn.tif
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/feyn.tif
+END
+weasel4.16g.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/weasel4.16g.png
+END
+hardlight2_1.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/hardlight2_1.jpg
+END
+weasel8.16g.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/weasel8.16g.png
+END
+projective_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/projective_reg.c
+END
+binmorph2_reg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/binmorph2_reg
+END
+warpertest
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/warpertest
+END
+shear2_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/shear2_reg.c
+END
+blend_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/blend_reg.c
+END
+ps2png-gray
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/ps2png-gray
+END
+fileinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/fileinfo.c
+END
+fmorphautogen
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/fmorphautogen
+END
+weasel8.149g.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/weasel8.149g.png
+END
+pageseg3.tif
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pageseg3.tif
+END
+bincompare
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/bincompare
+END
+binmorph5_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/binmorph5_reg.c
+END
+weasel8.5g.nocmap.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/weasel8.5g.nocmap.png
+END
+1555-7.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/1555-7.jpg
+END
+xformbox_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/xformbox_reg.c
+END
+fpix_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/fpix_reg.c
+END
+equal_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/equal_reg.c
+END
+grayquant_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/grayquant_reg.c
+END
+barcode-2of5-300.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/barcode-2of5-300.png
+END
+rotate2_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/rotate2_reg.c
+END
+pixa2_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pixa2_reg.c
+END
+sheartest
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/sheartest
+END
+fhmtautogen.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/fhmtautogen.c
+END
+topotest.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/topotest.png
+END
+locminmax_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/locminmax_reg.c
+END
+weasel-4c.2.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/weasel-4c.2.png
+END
+showedges.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/showedges.c
+END
+rotateorth_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/rotateorth_reg.c
+END
+ps2png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/ps2png
+END
+gplotdata.example
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/gplotdata.example
+END
+projectionstats.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/projectionstats.jpg
+END
+smoothedge_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/smoothedge_reg.c
+END
+test1.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/test1.bmp
+END
+pagesegtest1.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pagesegtest1.c
+END
+textlinemask.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/textlinemask.c
+END
+weasel8.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/weasel8.png
+END
+pageseg2-seed.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pageseg2-seed.png
+END
+lion-page.00011.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/lion-page.00011.png
+END
+w91frag.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/w91frag.jpg
+END
+sudoku4.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/sudoku4.dat
+END
+pageseg2-mask.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pageseg2-mask.png
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/Makefile.am
+END
+trctest.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/trctest.c
+END
+falsecolortest.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/falsecolortest.c
+END
+lineremoval
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/lineremoval
+END
+aneurisms8.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/aneurisms8.jpg
+END
+numa_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/numa_reg.c
+END
+dewarp_reg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/dewarp_reg
+END
+barcodetest.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/barcodetest.c
+END
+blendtest1.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/blendtest1.c
+END
+selio_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/selio_reg.c
+END
+colorseg.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/colorseg.jpg
+END
+writetext_reg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/writetext_reg
+END
+makefile.mingw
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/makefile.mingw
+END
+Leptonica.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/Leptonica.jpg
+END
+rankhisto_reg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/rankhisto_reg
+END
+convertsegfilestopdf
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/convertsegfilestopdf
+END
+barcodetest2.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/barcodetest2.jpg
+END
+graphicstest
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/graphicstest
+END
+wordsinorder.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/wordsinorder.c
+END
+makefile.static
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/makefile.static
+END
+hardlight_reg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/hardlight_reg
+END
+runlengthtest
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/runlengthtest
+END
+weasel8.149g.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/weasel8.149g.bmp
+END
+jbrankhaus.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/jbrankhaus.c
+END
+ranktest.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/ranktest.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/Makefile
+END
+pagesegtest2.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pagesegtest2.c
+END
+rankbin_reg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/rankbin_reg
+END
+cmapquant_reg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/cmapquant_reg
+END
+runlengthtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/runlengthtest.c
+END
+colormask_reg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/colormask_reg
+END
+hardlight2_2.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/hardlight2_2.jpg
+END
+turingtest.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/turingtest.png
+END
+binmorph3_reg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/binmorph3_reg
+END
+feynman-stamp.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/feynman-stamp.jpg
+END
+tribune-page-4x.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/tribune-page-4x.png
+END
+extrema_reg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/extrema_reg
+END
+equal_reg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/equal_reg
+END
+blendtest1
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/blendtest1
+END
+rasteropip_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/rasteropip_reg.c
+END
+comparepages
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/comparepages
+END
+cmapquant_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/cmapquant_reg.c
+END
+barcode-upc-300.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/barcode-upc-300.png
+END
+otsutest1
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/otsutest1
+END
+otsutest2
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/otsutest2
+END
+xvdisp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/xvdisp
+END
+jbcorrelation.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/jbcorrelation.c
+END
+pageseg4.tif
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pageseg4.tif
+END
+dwamorph2_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/dwamorph2_reg.c
+END
+livre_orient.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/livre_orient.c
+END
+locminmax_reg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/locminmax_reg
+END
+mtifftest.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/mtifftest.c
+END
+comparepages.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/comparepages.c
+END
+rank_reg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/rank_reg
+END
+projection_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/projection_reg.c
+END
+livre_adapt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/livre_adapt
+END
+colorseg_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/colorseg_reg.c
+END
+sharptest.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/sharptest.c
+END
+dithertest.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/dithertest.c
+END
+bilinear_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/bilinear_reg.c
+END
+fhmtauto_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/fhmtauto_reg.c
+END
+blendcmaptest.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/blendcmaptest.c
+END
+iotest
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/iotest
+END
+paint_reg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/paint_reg
+END
+convertformat.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/convertformat.c
+END
+removecmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/removecmap.c
+END
+endiantest.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/endiantest.c
+END
+feyn-fract.tif
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/feyn-fract.tif
+END
+pdfiotest.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pdfiotest.c
+END
+rasteropip_reg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/rasteropip_reg
+END
+maze_reg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/maze_reg
+END
+skewtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/skewtest.c
+END
+jbwords.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/jbwords.c
+END
+enhance_reg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/enhance_reg
+END
+lion-page.00012.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/lion-page.00012.png
+END
+pdf2png-gray
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pdf2png-gray
+END
+viewertest
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/viewertest
+END
+fpix_reg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/fpix_reg
+END
+mtifftest
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/mtifftest
+END
+sudoku5.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/sudoku5.dat
+END
+affine_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/affine_reg.c
+END
+arithtest
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/arithtest
+END
+colormask_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/colormask_reg.c
+END
+graymorphtest
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/graymorphtest
+END
+speckle.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/speckle.png
+END
+printsplitimage
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/printsplitimage
+END
+livre_pageseg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/livre_pageseg
+END
+baselinetest
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/baselinetest
+END
+blendcmaptest
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/blendcmaptest
+END
+overlap_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/overlap_reg.c
+END
+livre_makefigs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/livre_makefigs
+END
+scaleandtile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/scaleandtile
+END
+sudokutest.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/sudokutest.c
+END
+splitimage2pdf.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/splitimage2pdf.c
+END
+ps2png-binary
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/ps2png-binary
+END
+pixtile_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pixtile_reg.c
+END
+listtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/listtest.c
+END
+pixcomp_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pixcomp_reg.c
+END
+plottest.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/plottest.c
+END
+lucasta-47.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/lucasta-47.jpg
+END
+karen8.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/karen8.jpg
+END
+pngio_reg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pngio_reg
+END
+convertfilestops
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/convertfilestops
+END
+colorspacetest.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/colorspacetest.c
+END
+contrasttest.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/contrasttest.c
+END
+writemtiff
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/writemtiff
+END
+affine_reg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/affine_reg
+END
+ccthin1_reg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/ccthin1_reg
+END
+iotest.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/iotest.c
+END
+translate_reg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/translate_reg
+END
+dreyfus8.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/dreyfus8.png
+END
+xtractprotos.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/xtractprotos.c
+END
+pixadisp_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pixadisp_reg.c
+END
+binmorph4_reg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/binmorph4_reg
+END
+snapcolortest
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/snapcolortest
+END
+conversion_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/conversion_reg.c
+END
+overlap_reg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/overlap_reg
+END
+ccthin1_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/ccthin1_reg.c
+END
+dwalinearlow.3.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/dwalinearlow.3.c
+END
+findpattern_reg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/findpattern_reg
+END
+logicops_reg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/logicops_reg
+END
+map1.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/map1.jpg
+END
+binmorph1_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/binmorph1_reg.c
+END
+pixa1_reg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pixa1_reg
+END
+fhmtauto_reg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/fhmtauto_reg
+END
+arithtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/arithtest.c
+END
+convolvetest
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/convolvetest
+END
+copernicus.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/copernicus.png
+END
+livre_tophat
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/livre_tophat
+END
+pdf2tiff
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pdf2tiff
+END
+livre_makefigs.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/livre_makefigs.c
+END
+test16.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/test16.png
+END
+rank_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/rank_reg.c
+END
+heap_reg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/heap_reg
+END
+livre_seedgen
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/livre_seedgen
+END
+shear2_reg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/shear2_reg
+END
+convertfilestopdf.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/convertfilestopdf.c
+END
+blend_reg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/blend_reg
+END
+ioformats_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/ioformats_reg.c
+END
+weasel2.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/weasel2.png
+END
+printtiff.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/printtiff.c
+END
+blender8.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/blender8.png
+END
+subpixel_reg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/subpixel_reg
+END
+dwalinear.3.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/dwalinear.3.c
+END
+paint_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/paint_reg.c
+END
+tribune-t.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/tribune-t.png
+END
+kernel_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/kernel_reg.c
+END
+lion-page.00013.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/lion-page.00013.png
+END
+dwalineargen
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/dwalineargen
+END
+weasel-64g.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/weasel-64g.png
+END
+xformbox_reg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/xformbox_reg
+END
+pta_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pta_reg.c
+END
+weasel8.240c.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/weasel8.240c.png
+END
+arabic.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/arabic.png
+END
+sudoku6.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/sudoku6.dat
+END
+marge.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/marge.jpg
+END
+rotatefastalt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/rotatefastalt
+END
+weasel-8g.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/weasel-8g.png
+END
+morphtemplate1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/morphtemplate1.txt
+END
+fhmtautogen
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/fhmtautogen
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/Makefile.in
+END
+adaptmaptest
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/adaptmaptest
+END
+distance_reg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/distance_reg
+END
+graymorphtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/graymorphtest.c
+END
+morphseq_reg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/morphseq_reg
+END
+rotateorthtest1.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/rotateorthtest1.c
+END
+contrast-orig-60.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/contrast-orig-60.jpg
+END
+paintmask_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/paintmask_reg.c
+END
+printtiff
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/printtiff
+END
+skew_reg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/skew_reg
+END
+weasel32.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/weasel32.png
+END
+scaleandtile.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/scaleandtile.c
+END
+quadtreetest
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/quadtreetest
+END
+brothers.150.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/brothers.150.jpg
+END
+alphaxform_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/alphaxform_reg.c
+END
+hole-filler.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/hole-filler.png
+END
+skew_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/skew_reg.c
+END
+seedfilltest
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/seedfilltest
+END
+ccthin2_reg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/ccthin2_reg
+END
+warper_reg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/warper_reg
+END
+lion-page.00016.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/lion-page.00016.jpg
+END
+dwamorph1_reg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/dwamorph1_reg
+END
+binmorph5_reg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/binmorph5_reg
+END
+weasel8.5g.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/weasel8.5g.png
+END
+test16.tif
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/test16.tif
+END
+maze_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/maze_reg.c
+END
+wyom.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/wyom.jpg
+END
+misctest1
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/misctest1
+END
+pixa2_reg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pixa2_reg
+END
+findpattern1.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/findpattern1.c
+END
+pdf2mtiff
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pdf2mtiff
+END
+wordsinorder
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/wordsinorder
+END
+bilinear_reg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/bilinear_reg
+END
+sorttest
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/sorttest
+END
+wet-day.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/wet-day.jpg
+END
+weasel2.4c.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/weasel2.4c.png
+END
+shear_reg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/shear_reg
+END
+flipdetect_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/flipdetect_reg.c
+END
+barcode-i2of5-300.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/barcode-i2of5-300.png
+END
+alphaclean_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/alphaclean_reg.c
+END
+splitcomp_reg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/splitcomp_reg
+END
+adaptmaptest.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/adaptmaptest.c
+END
+distance_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/distance_reg.c
+END
+livre_adapt.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/livre_adapt.c
+END
+pdf2png-color
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pdf2png-color
+END
+printimage.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/printimage.c
+END
+renderfonts
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/renderfonts
+END
+pngio_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/pngio_reg.c
+END
+convertfilestops.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/convertfilestops.c
+END
+weasel-44c.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/weasel-44c.png
+END
+ccbordtest
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/ccbordtest
+END
+lowaccess_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/lowaccess_reg.c
+END
+livre_orient
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/livre_orient
+END
+genfonts.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/genfonts.c
+END
+ptra1_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/ptra1_reg.c
+END
+colorquant_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/colorquant_reg.c
+END
+converttogray
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/converttogray
+END
+sudoku7.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/sudoku7.dat
+END
+seedfilltest.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/seedfilltest.c
+END
+lyra-5.numa
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/lyra-5.numa
+END
+ccthin2_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/ccthin2_reg.c
+END
+subpixel_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/subpixel_reg.c
+END
+ps2jpeg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/ps2jpeg
+END
+rotate1_reg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/rotate1_reg
+END
+expand_reg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/expand_reg
+END
+binmorph2_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/leptonica-1.68/prog/binmorph2_reg.c
+END

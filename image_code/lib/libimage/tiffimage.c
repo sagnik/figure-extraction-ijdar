@@ -1,0 +1,674 @@
+/* 
+ * tiffimage.c
+ * 
+ * Practical Algorithms for Image Analysis
+ * 
+ * Copyright (c) 1999 SOS Software
+ */
+
+#include "tiffio.h"
+#include "tiffimage.h"
+#include<stdlib.h>
+
+#define ERRORMEM {fprintf (stderr,"%s: not enough memory -- sorry\n",Module);exit (1);}
+
+#define	CopyField(tag, v)  if (TIFFGetField(in, tag, &v)) TIFFSetField(out, tag, v)
+#define	CopyField2(tag, v1, v2)  if (TIFFGetField(in, tag, &v1, &v2)) TIFFSetField(out, tag, v1, v2)
+#define	CopyField3(tag, v1, v2, v3)  if (TIFFGetField(in, tag, &v1, &v2, &v3)) TIFFSetField(out, tag, v1, v2, v3)
+
+#define	MAXIMAGE 8              /* max # images in memory, should really alloc on demand */
+
+typedef unsigned char u_char;
+typedef unsigned short u_short;
+typedef unsigned int u_int;
+typedef unsigned long u_long;
+
+char *Module = "tiffimage";
+short tiffInput = 0;            /* flag=0 if no ImageIn to set tags; else =1 */
+
+static TIFF *in, *out;
+static int Flipbits = 0;
+static void copytags (TIFF *, TIFF *);
+static void dflttagsBG (TIFF *);
+static void readStrips (TIFF *, Image *, u_short);
+static void writeStrips (TIFF *, Image *, char *);
+/*unsigned char *malloc(); */
+
+/*
+ * ImageAlloc()
+ *   DESCRIPTION:
+ *     ImageAlloc allocates an format-independent image in memory that can be used for
+ *     manipulation and processing.
+ *   ARGUMENTS:
+ *     height(long) height of image in pixels
+ *     width(long) width of image in pixels
+ *   RETURN VALUE:
+ *     pointer to an Image struct (see tiffimage.h)
+ */
+
+Image *
+ImageAlloc (height, width, bps)
+     long height, width, bps;
+{
+  /*register long         i; */
+  register long y;              /* row increment of image */
+  register unsigned char *p, **image;
+  register Image *ip;
+  register long rem, nwid;
+
+  nwid = width;
+  if (bps == 1) {
+    rem = nwid % 8;
+    if (rem)
+      nwid += 8 - rem;
+  }
+  /*malloc the image structure first */
+  if ((ip = (Image *) malloc (sizeof (Image))) == 0)
+    ERRORMEM;
+
+  /*Grayscale and B&W array */
+  if ((image = (u_char **) calloc (height, sizeof (unsigned char *))) == 0)
+      ERRORMEM;
+  if ((p = (u_char *) calloc (height * nwid, sizeof (unsigned char))) == 0)
+      ERRORMEM;
+  for (y = 0; y < height; y++)
+    image[y] = p + (y * nwid);
+  ip->img = image;
+
+  /*RED array */
+  if ((image = (u_char **) calloc (height, sizeof (unsigned char *))) == 0)
+      ERRORMEM;
+  if ((p = (u_char *) calloc (height * nwid, sizeof (unsigned char))) == 0)
+      ERRORMEM;
+  for (y = 0; y < height; y++)
+    image[y] = p + (y * nwid);
+  ip->imgR = image;
+
+  /*GREEN array */
+  if ((image = (u_char **) calloc (height, sizeof (unsigned char *))) == 0)
+      ERRORMEM;
+  if ((p = (u_char *) calloc (height * nwid, sizeof (unsigned char))) == 0)
+      ERRORMEM;
+  for (y = 0; y < height; y++)
+    image[y] = p + (y * nwid);
+  ip->imgG = image;
+
+  /*BLUE array */
+  if ((image = (u_char **) calloc (height, sizeof (unsigned char *))) == 0)
+      ERRORMEM;
+  if ((p = (u_char *) calloc (height * nwid, sizeof (unsigned char))) == 0)
+      ERRORMEM;
+  for (y = 0; y < height; y++)
+    image[y] = p + (y * nwid);
+  ip->imgB = image;
+
+  ip->height = height;
+  ip->width = width;
+  ip->bps = bps;
+  return (ip);
+}
+
+/*
+ * ImageCopy()
+ *   DESCRIPTION:
+ *     ImageCopy copies the image from imgIn bounded by
+ *     the rectangle (x1,y1) (x2,y2) and transfers it
+ *     to imageOut starting at (x3,y3)
+ *   ARGUMENTS:
+ *     imgIn(Image *) pointer to Image struct
+ *     x1,y1,x2,y2 rectangle to copy from imgIn
+ *     ImgOut(Image *) pointer to output image struct
+ *     x3,y3 point in imgOut to start copy
+ *   RETURN VALUE:
+ *     none
+ */
+void
+ImageCopy (imgIn, x1, y1, x2, y2, imgOut, x3, y3)
+     Image *imgIn;
+     Image *imgOut;
+     int x1, y1, x2, y2, x3, y3;
+{
+  int xi, yi, xo, yo;
+
+  if (x1 < 0 || y1 < 0 || x2 < 0 || y2 < 0 || x3 < 0 || y3 < 0) {
+    printf ("ImageCopy error: invalid coordinate(s)\n");
+    printf ("Image not copied\n");
+    return;
+  }
+  for (xi = x1, xo = x3; xi < x2 + 1; xi++, xo++)
+    for (yi = y1, yo = y3; yi < y2; yi++, yo++)
+      imgOut->img[yo][xo] = imgIn->img[yi][xi];
+}
+
+/*
+ * ImageGetPtr()
+ *   DESCRIPTION:
+ *     ImageGetPtr gets the pointer to the 2-D image array.
+ *   ARGUMENTS:
+ *     ip(Image *) pointer to Image struct
+ *   RETURN VALUE:
+ *     pointer to the 2-D image array of unsigned char.
+ */
+unsigned char **
+ImageGetPtr (ip)
+     Image *ip;
+{
+  return (ip->img);
+}
+
+
+/*
+ * ImageGetWidth()
+ *   DESCRIPTION:
+ *     ImageGetWidth gets the width the 2-D image array.
+ *   ARGUMENTS:
+ *     ip(Image *) pointer to Image struct
+ *   RETURN VALUE:
+ *     width(long)of the 2-D image array.
+ */
+/*long
+ImageGetWidth (ip)
+     Image *ip;
+{
+  return (ip->width);
+}
+*/
+
+/*
+ * ImageGetHeight()
+ *   DESCRIPTION:
+ *     ImageGetHeight gets the height the 2-D image array.
+ *   ARGUMENTS:
+ *     ip(Image *) pointer to Image struct
+ *   RETURN VALUE:
+ *     height(long)of the 2-D image array.
+ */
+/*
+long
+ImageGetHeight (ip)
+     Image *ip;
+{
+  return (ip->height);
+}
+*/
+
+/*
+ * ImageGetDepth()
+ *   DESCRIPTION:
+ *     ImageGetDepth gets the bits-per-sample of the 2-D image array.
+ *   ARGUMENTS:
+ *     ip(Image *) pointer to Image struct
+ *   RETURN VALUE:
+ *     bps(long)of the 2-D image array.
+ */
+long
+ImageGetDepth (ip)
+     Image *ip;
+{
+  return (ip->bps);
+}
+
+/*
+ * ImageIsGray()
+ *   DESCRIPTION:
+ *     ImageIsGray checks if the image is a grayscale image.
+ *   ARGUMENTS:
+ *     ip(Image *) pointer to Image struct
+ *   RETURN VALUE:
+ *     1 if image is grayscale, 0 if not.
+ */
+int
+ImageIsGray (ip)
+     Image *ip;
+{
+  return (ip->bps == 8);
+}
+
+/*
+ * ImageSetBWOutput()
+ *   DESCRIPTION:
+ *     ImageSetBWOutput sets the bits-per-sample to 1 (B&W image).
+ *   ARGUMENTS:
+ *     ip(Image *) pointer to Image struct
+ *   RETURN VALUE:
+ *     none.
+ */
+void
+ImageSetBWOutput (ip)
+     Image *ip;
+{
+  ip->bps = 1;
+}
+
+/*
+ * ImageSetGrayOutput()
+ *   DESCRIPTION:
+ *     ImageSetGrayOutput sets the bits-per-sample to 8 (grayscale image).
+ *   ARGUMENTS:
+ *     ip(Image *) pointer to Image struct
+ *   RETURN VALUE:
+ *     none.
+ */
+void
+ImageSetGrayOutput (ip)
+     Image *ip;
+{
+  ip->bps = 8;
+}
+
+/*
+ * ImageSetHeight()
+ *   DESCRIPTION:
+ *     ImageSetHeight sets the image height.
+ *   ARGUMENTS:
+ *     ip(Image *) pointer to Image struct
+ *     h(long) new height of image
+ *   RETURN VALUE:
+ *     none.
+ */
+void
+ImageSetHeight (ip, h)
+     Image *ip;
+     long h;
+{
+  ip->height = h;
+}
+
+/*
+ * ImageSetWidth()
+ *   DESCRIPTION:
+ *     ImageSetWidth sets the image height.
+ *   ARGUMENTS:
+ *     ip(Image *) pointer to Image struct
+ *     w(long) new width of image
+ *   RETURN VALUE:
+ *     none.
+ */
+void
+ImageSetWidth (ip, w)
+     Image *ip;
+     long w;
+{
+  ip->width = w;
+}
+
+/*
+ * ImageSetDepth()
+ *   DESCRIPTION:
+ *     ImageSetDepth sets the image depth.
+ *   ARGUMENTS:
+ *     ip(Image *) pointer to Image struct
+ *     d(long) new depth of image
+ *   RETURN VALUE:
+ *     none.
+ */
+void
+ImageSetDepth (ip, d)
+     Image *ip;
+     long d;
+{
+  ip->bps = d;
+}
+
+/*
+ * ImageFree()
+ *   DESCRIPTION:
+ *     ImageFree frees the allocated memory associated with the pointer
+ *     to the Image struct.
+ *   ARGUMENTS:
+ *     ip(Image *) pointer to Image struct
+ *   RETURN VALUE:
+ *     none.
+ */
+void
+ImageFree (ip)
+     Image *ip;
+{
+#if defined(WIN32) || defined(__cplusplus) || defined(__STDC__)
+  if (ip && ip->img[0]) {
+    free (ip->img[0]);          //This causes an exception in MS VC++ 4.0 ??!!
+
+    free (ip->img);
+  }
+  if (ip && ip->imgR[0]) {
+    free (ip->imgR[0]);
+    free (ip->imgR);
+  }
+  if (ip && ip->imgG[0]) {
+    free (ip->imgG[0]);
+    free (ip->imgG);
+  }
+  if (ip && ip->imgB[0]) {
+    free (ip->imgB[0]);
+    free (ip->imgB);
+  }
+  free (ip);
+#else /* not WIN32 and NOT __cplusplus and NOT __STDC__ */
+  if (free (ip->img[0]) == 0)
+    fprintf (stderr, "%s:  warning:  free failed\n", Prog);
+  if (cfree (ip->img) == 0)
+    fprintf (stderr, "%s:  warning:  cfree failed\n", Prog);
+  if (free (ip->imgR[0]) == 0)
+    fprintf (stderr, "%s:  warning:  free failed\n", Prog);
+  if (cfree (ip->imgR) == 0)
+    fprintf (stderr, "%s:  warning:  cfree failed\n", Prog);
+  if (free (ip->imgG[0]) == 0)
+    fprintf (stderr, "%s:  warning:  free failed\n", Prog);
+  if (cfree (ip->imgG) == 0)
+    fprintf (stderr, "%s:  warning:  cfree failed\n", Prog);
+  if (free (ip->imgB[0]) == 0)
+    fprintf (stderr, "%s:  warning:  free failed\n", Prog);
+  if (cfree (ip->imgB) == 0)
+    fprintf (stderr, "%s:  warning:  cfree failed\n", Prog);
+  if (free (ip) == 0)
+    fprintf (stderr, "%s:  warning:  free failed\n", Prog);
+#endif
+}
+
+/*
+ * ImageIn()
+ *   DESCRIPTION:
+ *     ImageIn reads in a TIFF image from a file.
+ *   ARGUMENTS:
+ *     file(char *) name of the TIFF file to read
+ *   RETURN VALUE:
+ *     pointer to an allocated Image struct (see tiffimage.h)
+ */
+/*
+Image *
+ImageIn (file)
+     char *file;
+{
+  register Image *ip;
+  u_short config, bps, photo, samples, comp;
+  int width, height;
+
+  if ((in = TIFFOpen (file, "r")) == 0)
+    exit (1);                   // err msg will be generated by LIBTIFF //
+  TIFFGetField (in, TIFFTAG_IMAGEWIDTH, &width);
+  TIFFGetField (in, TIFFTAG_IMAGELENGTH, &height);
+  TIFFGetFieldDefaulted (in, TIFFTAG_BITSPERSAMPLE, &bps);
+  if (bps != 1 && bps != 8) {
+    fprintf (stderr, "%s exception!\n", Module);
+    fprintf (stderr, "%s is not a binary or grayscale image\n", file);
+    fprintf (stderr, "Convert %s to binary or grayscale TIFF before using this program.\n", file);
+    exit (1);
+  }
+  TIFFGetField (in, TIFFTAG_COMPRESSION, &comp);
+  if (comp == COMPRESSION_LZW) {
+    fprintf (stderr, "%s exception!\n", Module);
+    fprintf (stderr, "%s has LZW compression.\n", file);
+    fprintf (stderr, "Convert %s to uncompressed TIFF before using this program.\n", file);
+    exit (1);
+  }
+  ip = ImageAlloc (height, width, bps);
+  ip->bps = (long) bps;
+  ip->width = (long) width;
+  ip->height = (long) height;
+  TIFFGetField (in, TIFFTAG_PLANARCONFIG, &config);
+  if (config != PLANARCONFIG_CONTIG) {
+    fprintf (stderr, "%s exception!\n", Module);
+    fprintf (stderr, "%s has separated images.\n", file);
+    exit (1);
+  }
+  TIFFGetField (in, TIFFTAG_PHOTOMETRIC, &photo);
+
+  switch (photo) {
+  case PHOTOMETRIC_MINISBLACK: // will need to convert //
+    Flipbits = 0;
+    break;
+  case PHOTOMETRIC_MINISWHITE:
+    Flipbits = 0;
+    break;
+  case PHOTOMETRIC_PALETTE:
+    fprintf (stderr, "%s exception!\n", Module);
+    fprintf (stderr, "%s has color palettes\n", file);
+    fprintf (stderr, "Convert %s to binary or grayscale TIFF before using this program.\n", file);
+    exit (1);
+    break;
+  case PHOTOMETRIC_RGB:
+    break;                      //RGB image found! //
+  default:
+    fprintf (stderr, "%s exception!\n", Module);
+    fprintf (stderr, "%s is a non-bw or non-RGB image\n", file);
+    fprintf (stderr, "Convert %s to binary or grayscale TIFF before using this program.\n", file);
+    exit (1);
+  }
+  TIFFGetFieldDefaulted (in, TIFFTAG_SAMPLESPERPIXEL, &samples);
+  if (samples == 0xFFFF) {
+    fprintf (stderr, "%s warning!\n", Module);
+    fprintf (stderr, "%s:  SAMPLESPERPIXEL not set, setting to 1\n", file);
+    samples = 1;
+  }
+  ip->spp = samples;
+  readStrips (in, ip, photo);
+  tiffInput = 1;
+  return (ip);
+}
+*/
+
+/*
+ * ImageOut()
+ *   DESCRIPTION:
+ *     ImageOut writes the image in the Image struct to a file.
+ *   ARGUMENTS:
+ *     ip(Image *) pointer to the Image struct
+ *     file(char *) name of the TIFF file to write
+ *   RETURN VALUE:
+ *     0
+ */
+/*
+int
+ImageOut (file, ip)
+     char *file;
+     Image *ip;
+{
+  //u_short       config,bps;
+   // long rowsperstrip; 
+
+  if ((out = TIFFOpen (file, "w")) == 0)
+    exit (1);                   // err msg will be generated by LIBTIFF //
+  if (tiffInput)
+    copytags (in, out);
+  else
+    dflttagsBG (out);           // set default tags if no input tags //
+  TIFFSetField (out, TIFFTAG_IMAGEWIDTH, ip->width);
+  TIFFSetField (out, TIFFTAG_IMAGELENGTH, ip->height);
+  TIFFSetField (out, TIFFTAG_BITSPERSAMPLE, ip->bps);
+  TIFFSetField (out, TIFFTAG_SAMPLESPERPIXEL, 1);
+  if (ip->bps == 1) {
+    TIFFSetField (out, TIFFTAG_COMPRESSION, COMPRESSION_NONE);
+    // Enable the following line for G4 fax compression on binary images //
+    // NOTE: some image editors do not display G3/G4 compressed TIFF //
+    //       images properly - they invert the bitmap //
+    //TIFFSetField (out, TIFFTAG_COMPRESSION, COMPRESSION_CCITTFAX4); //
+  }
+  // Enable the following 2 lines for LZW Compression //
+  // NOTE: the LZW module must exist in the libtiff library //
+  //else
+   // TIFFSetField(out,TIFFTAG_COMPRESSION, COMPRESSION_LZW); //
+  TIFFSetField (out, TIFFTAG_ROWSPERSTRIP, ip->height);
+
+  writeStrips (out, ip, file);
+  TIFFClose (out);
+  return (0);
+}
+*/
+/*========================== internal functions ===========================*/
+
+static void
+copytags (in, out)
+     TIFF *in, *out;
+{
+  /*short bitspersample; */
+  short samplesperpixel, shortv;
+  u_long w, l;
+  float floatv;
+  char *stringv;
+  u_long longv;
+
+  CopyField (TIFFTAG_SUBFILETYPE, longv);
+  CopyField (TIFFTAG_TILEWIDTH, w);
+  CopyField (TIFFTAG_TILELENGTH, l);
+  CopyField (TIFFTAG_PREDICTOR, shortv);
+/*      CopyField(TIFFTAG_THRESHHOLDING, shortv); */
+  CopyField (TIFFTAG_FILLORDER, shortv);
+  CopyField (TIFFTAG_ORIENTATION, shortv);
+  CopyField (TIFFTAG_SAMPLESPERPIXEL, samplesperpixel);
+  CopyField (TIFFTAG_PHOTOMETRIC, shortv);
+/*      CopyField(TIFFTAG_MINSAMPLEVALUE, shortv); */
+/*      CopyField(TIFFTAG_MAXSAMPLEVALUE, shortv); */
+/*      CopyField(TIFFTAG_XRESOLUTION, floatv); */
+/*      CopyField(TIFFTAG_YRESOLUTION, floatv); */
+/*      CopyField(TIFFTAG_RESOLUTIONUNIT, shortv); */
+  CopyField (TIFFTAG_GROUP3OPTIONS, longv);
+  CopyField (TIFFTAG_GROUP4OPTIONS, longv);
+  CopyField (TIFFTAG_PLANARCONFIG, shortv);
+  CopyField (TIFFTAG_XPOSITION, floatv);
+  CopyField (TIFFTAG_YPOSITION, floatv);
+  CopyField (TIFFTAG_IMAGEDEPTH, longv);
+  CopyField (TIFFTAG_TILEDEPTH, longv);
+  CopyField (TIFFTAG_MATTEING, shortv);
+  {
+    u_short *red, *green, *blue;
+    CopyField3 (TIFFTAG_COLORMAP, red, green, blue);
+  }
+  {
+    u_short shortv2;
+    CopyField2 (TIFFTAG_PAGENUMBER, shortv, shortv2);
+  }
+  CopyField (TIFFTAG_ARTIST, stringv);
+  CopyField (TIFFTAG_IMAGEDESCRIPTION, stringv);
+  CopyField (TIFFTAG_MAKE, stringv);
+  CopyField (TIFFTAG_MODEL, stringv);
+  CopyField (TIFFTAG_SOFTWARE, stringv);
+  CopyField (TIFFTAG_DATETIME, stringv);
+  CopyField (TIFFTAG_HOSTCOMPUTER, stringv);
+  CopyField (TIFFTAG_PAGENAME, stringv);
+  CopyField (TIFFTAG_DOCUMENTNAME, stringv);
+}
+
+/* DFLTTAGSBG:  function sets default tags for bilevel and gray-scale images
+ *                    usage: dflttagsBG (out)
+ *
+ *      Note that some of the minimum required tags for the bilevel and
+ *      gray-scale image classes are not defined here. Some must be defined
+ *      in the calling program (ImageWidth, ImageLength, BitsPerSample,
+ *      Compression, SamplesPerPixel, RowsPerStrip) and some are left to
+ *      be defined by default (NewSubFileType, StripOffsets, StripByteCounts,
+ *      XResolution, YResolution, ResolutionUnit).
+ */
+
+static void
+dflttagsBG (out)
+     TIFF *out;
+{
+  /*TIFFSetField(out, TIFFTAG_ORIENTATION, ORIENTATION_TOPLEFT); */
+  TIFFSetField (out, TIFFTAG_PLANARCONFIG, PLANARCONFIG_CONTIG);
+  TIFFSetField (out, TIFFTAG_PHOTOMETRIC, PHOTOMETRIC_MINISBLACK);
+}
+
+static void
+readStrips (in, ip, photo)
+     TIFF *in;
+     Image *ip;
+     u_short photo;
+{
+  register u_char *p, *ep, *bp, *buf;
+  /*register u_long       row; */
+  register u_long ns;
+  register u_long stripsize = TIFFStripSize (in);
+  register int i, nbytes, nbt;
+  register long row, w;
+  unsigned char *inbuf, *bufp;
+
+  nbytes = 0;
+  w = ip->width;
+  switch (photo) {
+  case PHOTOMETRIC_RGB:
+    /*We're reading an RGB image */
+    inbuf = (unsigned char *) _TIFFmalloc (TIFFScanlineSize (in));
+    for (row = 0; row < ip->height; row++) {
+      if (TIFFReadScanline (in, inbuf, row, 0) < 0)
+        break;
+      bufp = inbuf;
+      for (i = 0; i < w; i++) {
+        ip->imgR[row][i] = *bufp++;
+        ip->imgG[row][i] = *bufp++;
+        ip->imgB[row][i] = *bufp++;
+      }
+    }
+    break;
+  default:
+    /*We're reading a binary or grayscale image */
+    ns = TIFFNumberOfStrips (in);
+    buf = ip->img[0];
+    for (bp = buf, i = 0; (u_long) i < ns; bp += stripsize, i++) {
+      if ((nbt = TIFFReadEncodedStrip (in, i, bp, stripsize)) < 0)
+        break;
+      nbytes = nbytes + nbt;
+      for (p = bp, ep = p + nbytes; Flipbits && p < ep; p++)
+        *p = ~(*p);
+    }
+    /* if grayscale, we're done */
+    if (ip->bps != 1)
+      return;
+    /* image is binary! need to convert for 1 bit/pixel to 1 byte/pixel */
+    /* here expand backwards so we can do in place */
+    for (p = buf, bp = buf + nbytes * 8, ep = p + nbytes - 1; ep >= p; ep--) {
+      *(bp--) = (*ep & 1) ? 0xff : 0;
+      *(bp--) = (*ep & (2)) ? 0xff : 0;
+      *(bp--) = (*ep & (4)) ? 0xff : 0;
+      *(bp--) = (*ep & (8)) ? 0xff : 0;
+      *(bp--) = (*ep & (16)) ? 0xff : 0;
+      *(bp--) = (*ep & (32)) ? 0xff : 0;
+      *(bp--) = (*ep & (64)) ? 0xff : 0;
+      *(bp--) = (*ep & (128)) ? 0xff : 0;
+    }
+  }
+}
+
+static void
+writeStrips (out, ip, file)
+     TIFF *out;
+     register Image *ip;
+     char *file;
+{
+  register u_char *p, *ep, *bp, *buf;
+  register int i, nbytes, ns;
+  register u_long row, rowln = TIFFScanlineSize (out);
+  register u_long stripsize = TIFFStripSize (out);
+
+  buf = ip->img[0];
+  ns = TIFFNumberOfStrips (out);
+  /* # bytes in 1/bit/pixel */
+  nbytes = ip->width / 8 + (ip->width % 8 > 0) ? 1 : 0;
+  if (ip->bps == 1)             /* need to convert BW back to bit/pixel */
+    for (bp = ip->img[0], row = 0; row < (u_long) ip->height; ++row)
+      for (p = ip->img[row], ep = p + ip->width; p < ep; bp++) {
+        *bp = (*p++ == 0xff) ? 128 : 0;
+        if (*p++ == 0xff)
+          *(bp) |= 64;
+        if (*p++ == 0xff)
+          *(bp) |= 32;
+        if (*p++ == 0xff)
+          *(bp) |= 16;
+        if (*p++ == 0xff)
+          *(bp) |= 8;
+        if (*p++ == 0xff)
+          *(bp) |= 4;
+        if (*p++ == 0xff)
+          *(bp) |= 2;
+        if (*p++ == 0xff)
+          *(bp) |= 1;
+      }
+  nbytes = ip->height * ip->width;
+  for (bp = buf, ep = bp + nbytes; Flipbits && bp < ep; bp++)
+    *bp = ~(*bp);
+  for (bp = buf, i = 0; i < ns; bp += stripsize, i++)
+    if (TIFFWriteEncodedStrip (out, i, bp, stripsize) < 0) {
+      fprintf (stderr, "%s exception!\n", Module);
+      fprintf (stderr, "%s:  error writing tiff file\n", file);
+      exit (1);
+    }
+}

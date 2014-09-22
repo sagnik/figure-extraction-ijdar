@@ -1,0 +1,109 @@
+
+origin_x = 399, Origin_y = 1285
+Image size is 1618x1285. Filter size is 3.
+
+there
+
+used labels = 428 validlabels = 134
+
+ relabelling....
+2	3	4	5	6	7	8	9	1	117	118	119	120	121	122	123	124	116	93	74	72	50	45	44	59	60	61	51	70	71	62	53	63	64	54	55	65	56	57	66	68	69	58	81	82	83	84	85	75	86	87	76	77	88	78	79	89	91	92	80	24	23	101	104	107	108	109	110	97	98	111	113	114	99	22	19	101	102	103	104	96	106	107	108	109	110	97	98	111	113	114	100	13	12	112	105	43	40	95	90	0	0	0	0	0	0	0	0	0	0	0	0	0	0	input/output image size is 1618x1285
+
+there
+
+used labels = 129 validlabels = 45
+
+ relabelling....
+textlabel:1
+MinX = 20	 MinY = 109	 MaxX = 22 MaxY = 113
+textlabel:2
+MinX = 1544	 MinY = 109	 MaxX = 1548 MaxY = 113
+textlabel:3
+MinX = 735	 MinY = 146	 MaxX = 772 MaxY = 184
+textlabel:4
+MinX = 787	 MinY = 177	 MaxX = 828 MaxY = 219
+textlabel:5
+MinX = 979	 MinY = 189	 MaxX = 1023 MaxY = 268
+textlabel:6
+MinX = 694	 MinY = 192	 MaxX = 732 MaxY = 230
+textlabel:7
+MinX = 1079	 MinY = 231	 MaxX = 1120 MaxY = 273
+textlabel:8
+MinX = 737	 MinY = 264	 MaxX = 777 MaxY = 306
+textlabel:9
+MinX = 20	 MinY = 276	 MaxX = 22 MaxY = 280
+textlabel:10
+MinX = 1043	 MinY = 381	 MaxX = 1080 MaxY = 419
+textlabel:11
+MinX = 593	 MinY = 434	 MaxX = 633 MaxY = 475
+textlabel:12
+MinX = 20	 MinY = 443	 MaxX = 22 MaxY = 448
+textlabel:13
+MinX = 1544	 MinY = 443	 MaxX = 1548 MaxY = 448
+textlabel:14
+MinX = 1177	 MinY = 444	 MaxX = 1217 MaxY = 485
+textlabel:15
+MinX = 867	 MinY = 493	 MaxX = 905 MaxY = 531
+textlabel:16
+MinX = 555	 MinY = 509	 MaxX = 595 MaxY = 550
+textlabel:17
+MinX = 474	 MinY = 522	 MaxX = 512 MaxY = 560
+textlabel:18
+MinX = 1197	 MinY = 535	 MaxX = 1234 MaxY = 573
+textlabel:19
+MinX = 808	 MinY = 552	 MaxX = 845 MaxY = 590
+textlabel:20
+MinX = 946	 MinY = 592	 MaxX = 1008 MaxY = 631
+textlabel:21
+MinX = 638	 MinY = 594	 MaxX = 684 MaxY = 664
+textlabel:22
+MinX = 20	 MinY = 611	 MaxX = 22 MaxY = 616
+textlabel:23
+MinX = 1544	 MinY = 611	 MaxX = 1548 MaxY = 616
+textlabel:24
+MinX = 1313	 MinY = 711	 MaxX = 1350 MaxY = 748
+textlabel:25
+MinX = 390	 MinY = 757	 MaxX = 462 MaxY = 810
+textlabel:26
+MinX = 20	 MinY = 779	 MaxX = 22 MaxY = 783
+textlabel:27
+MinX = 280	 MinY = 894	 MaxX = 318 MaxY = 931
+textlabel:28
+MinX = 571	 MinY = 936	 MaxX = 1496 MaxY = 1212
+textlabel:29
+MinX = 20	 MinY = 946	 MaxX = 22 MaxY = 950
+textlabel:30
+MinX = 1544	 MinY = 946	 MaxX = 1548 MaxY = 950
+textlabel:31
+MinX = 958	 MinY = 983	 MaxX = 963 MaxY = 989
+textlabel:32
+MinX = 1308	 MinY = 994	 MaxX = 1336 MaxY = 1039
+textlabel:33
+MinX = 261	 MinY = 1029	 MaxX = 298 MaxY = 1067
+textlabel:34
+MinX = 20	 MinY = 1113	 MaxX = 22 MaxY = 1118
+textlabel:35
+MinX = 967	 MinY = 1158	 MaxX = 982 MaxY = 1163
+textlabel:36
+MinX = 75	 MinY = 1268	 MaxX = 77 MaxY = 1269
+textlabel:37
+MinX = 232	 MinY = 1268	 MaxX = 234 MaxY = 1269
+textlabel:38
+MinX = 389	 MinY = 1268	 MaxX = 391 MaxY = 1269
+textlabel:39
+MinX = 546	 MinY = 1268	 MaxX = 548 MaxY = 1269
+textlabel:40
+MinX = 703	 MinY = 1268	 MaxX = 705 MaxY = 1269
+textlabel:41
+MinX = 860	 MinY = 1268	 MaxX = 862 MaxY = 1269
+textlabel:42
+MinX = 1017	 MinY = 1268	 MaxX = 1019 MaxY = 1269
+textlabel:43
+MinX = 1174	 MinY = 1268	 MaxX = 1176 MaxY = 1269
+textlabel:44
+MinX = 1331	 MinY = 1268	 MaxX = 1333 MaxY = 1269
+textlabel:45
+MinX = 1488	 MinY = 1268	 MaxX = 1490 MaxY = 1269
+
+Image size is 1618x1285. Filter size is 11.
+Image size is 1618x1285. Filter size is 11.

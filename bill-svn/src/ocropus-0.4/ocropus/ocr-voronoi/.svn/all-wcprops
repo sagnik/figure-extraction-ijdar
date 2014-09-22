@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi
+END
+voronoi.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/voronoi.cc
+END
+dinfo.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/dinfo.cc
+END
+erase.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/erase.cc
+END
+img_to_site.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/img_to_site.cc
+END
+in.tif
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/in.tif
+END
+usage.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/usage.cc
+END
+draw_line.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/draw_line.cc
+END
+extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/extern.h
+END
+memory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/memory.cc
+END
+read_image.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/read_image.cc
+END
+heap.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/heap.cc
+END
+read_image.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/read_image.h
+END
+hash.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/hash.cc
+END
+function.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/function.h
+END
+bit_func.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/bit_func.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/Makefile
+END
+geometry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/geometry.cc
+END
+lines.dat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/lines.dat
+END
+output.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/output.cc
+END
+edgelist.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/edgelist.cc
+END
+in-lines.dat
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/in-lines.dat
+END
+voronoi-pageseg.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/voronoi-pageseg.cc
+END
+main-voronoi-ocropus.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/main-voronoi-ocropus.cc
+END
+in.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/in.png
+END
+main-be.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/main-be.cc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/README
+END
+voronoi-ocropus.cc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/voronoi-ocropus.cc
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/defs.h
+END
+voronoi-ocropus.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/voronoi-ocropus.h
+END
+sites.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/sites.cc
+END
+const.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/const.h
+END
+label_func.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/label_func.cc
+END
+cline.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/mxk479-dev/!svn/ver/1/src/ocropus-0.4/ocropus/ocr-voronoi/cline.cc
+END
